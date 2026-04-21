@@ -1,0 +1,9710 @@
+[
+  {
+    "name": "광장초등학교",
+    "gps_lat": 37.5485492,
+    "gps_lon": 127.1017999,
+    "radius_meters": 300
+  },
+  {
+    "name": "구의초등학교",
+    "gps_lat": 37.5430074,
+    "gps_lon": 127.0803118,
+    "radius_meters": 300
+  },
+  {
+    "name": "동의초등학교",
+    "gps_lat": 37.5534224,
+    "gps_lon": 127.0990473,
+    "radius_meters": 300
+  },
+  {
+    "name": "동자초등학교",
+    "gps_lat": 37.5350582,
+    "gps_lon": 127.0721792,
+    "radius_meters": 300
+  },
+  {
+    "name": "신자초등학교",
+    "gps_lat": 37.5302455,
+    "gps_lon": 127.0755876,
+    "radius_meters": 300
+  },
+  {
+    "name": "자양초등학교",
+    "gps_lat": 37.536965,
+    "gps_lon": 127.0797396,
+    "radius_meters": 300
+  },
+  {
+    "name": "장안초등학교",
+    "gps_lat": 37.5498765,
+    "gps_lon": 127.0724025,
+    "radius_meters": 300
+  },
+  {
+    "name": "양남초등학교",
+    "gps_lat": 37.5311232,
+    "gps_lon": 127.0892343,
+    "radius_meters": 300
+  },
+  {
+    "name": "용마초등학교",
+    "gps_lat": 37.5578274,
+    "gps_lon": 127.0835274,
+    "radius_meters": 300
+  },
+  {
+    "name": "성동초등학교",
+    "gps_lat": 37.5332814,
+    "gps_lon": 127.089281,
+    "radius_meters": 300
+  },
+  {
+    "name": "경복초등학교",
+    "gps_lat": 37.5498139,
+    "gps_lon": 127.0867934,
+    "radius_meters": 300
+  },
+  {
+    "name": "광남초등학교",
+    "gps_lat": 37.5407881,
+    "gps_lon": 127.1006653,
+    "radius_meters": 300
+  },
+  {
+    "name": "구남초등학교",
+    "gps_lat": 37.5370966,
+    "gps_lon": 127.0922888,
+    "radius_meters": 300
+  },
+  {
+    "name": "성자초등학교",
+    "gps_lat": 37.5314936,
+    "gps_lon": 127.0834083,
+    "radius_meters": 300
+  },
+  {
+    "name": "세종초등학교",
+    "gps_lat": 37.5530111,
+    "gps_lon": 127.0728646,
+    "radius_meters": 300
+  },
+  {
+    "name": "신양초등학교",
+    "gps_lat": 37.5346821,
+    "gps_lon": 127.0699953,
+    "radius_meters": 300
+  },
+  {
+    "name": "용곡초등학교",
+    "gps_lat": 37.5671086,
+    "gps_lon": 127.088453,
+    "radius_meters": 300
+  },
+  {
+    "name": "북성초교(단설)유치원",
+    "gps_lat": 37.559433,
+    "gps_lon": 126.951959,
+    "radius_meters": 300
+  },
+  {
+    "name": "좋은어린이집",
+    "gps_lat": 37.5362038,
+    "gps_lon": 127.0903183,
+    "radius_meters": 300
+  },
+  {
+    "name": "능동어린이집",
+    "gps_lat": 37.553551,
+    "gps_lon": 127.0819676,
+    "radius_meters": 300
+  },
+  {
+    "name": "자양어린이집",
+    "gps_lat": 37.532877,
+    "gps_lon": 127.0752337,
+    "radius_meters": 300
+  },
+  {
+    "name": "으뜸어린이집",
+    "gps_lat": 37.530797,
+    "gps_lon": 127.0711744,
+    "radius_meters": 300
+  },
+  {
+    "name": "중곡샛별어린이집",
+    "gps_lat": 37.570926,
+    "gps_lon": 127.0802621,
+    "radius_meters": 300
+  },
+  {
+    "name": "키즈용맹(구.하은)어린이집",
+    "gps_lat": 37.5585901,
+    "gps_lon": 127.0911111,
+    "radius_meters": 300
+  },
+  {
+    "name": "구의2동어린이집",
+    "gps_lat": 37.5502106,
+    "gps_lon": 127.0962466,
+    "radius_meters": 300
+  },
+  {
+    "name": "선린어린이집",
+    "gps_lat": 37.533347,
+    "gps_lon": 127.0769224,
+    "radius_meters": 300
+  },
+  {
+    "name": "구의3동어린이집",
+    "gps_lat": 37.539328,
+    "gps_lon": 127.0951165,
+    "radius_meters": 300
+  },
+  {
+    "name": "성심어린이집",
+    "gps_lat": 37.556563,
+    "gps_lon": 127.0849937,
+    "radius_meters": 300
+  },
+  {
+    "name": "상명어린이집",
+    "gps_lat": 37.5699309,
+    "gps_lon": 127.0814193,
+    "radius_meters": 300
+  },
+  {
+    "name": "예지어린이집",
+    "gps_lat": 37.557168,
+    "gps_lon": 127.073468,
+    "radius_meters": 300
+  },
+  {
+    "name": "명성어린이집",
+    "gps_lat": 37.5400822,
+    "gps_lon": 127.0863301,
+    "radius_meters": 300
+  },
+  {
+    "name": "우리티움아이어린이집",
+    "gps_lat": 37.540118,
+    "gps_lon": 127.0908389,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈동산몬테소리어린이집",
+    "gps_lat": 37.5558199,
+    "gps_lon": 127.0760649,
+    "radius_meters": 300
+  },
+  {
+    "name": "자양도담어린이집",
+    "gps_lat": 37.536172,
+    "gps_lon": 127.0799278,
+    "radius_meters": 300
+  },
+  {
+    "name": "아이터어린이집",
+    "gps_lat": 37.5438489,
+    "gps_lon": 127.0837759,
+    "radius_meters": 300
+  },
+  {
+    "name": "능동꿈맞이어린이집",
+    "gps_lat": 37.5528302,
+    "gps_lon": 127.0859139,
+    "radius_meters": 300
+  },
+  {
+    "name": "한국켄트외국인학교",
+    "gps_lat": 37.5471635,
+    "gps_lon": 127.0863403,
+    "radius_meters": 300
+  },
+  {
+    "name": "재한몽골학교",
+    "gps_lat": 37.5470934,
+    "gps_lon": 127.1011043,
+    "radius_meters": 300
+  },
+  {
+    "name": "광진학교",
+    "gps_lat": 37.5376675,
+    "gps_lon": 127.0915615,
+    "radius_meters": 300
+  },
+  {
+    "name": "중광초등학교",
+    "gps_lat": 37.5652421,
+    "gps_lon": 127.082693,
+    "radius_meters": 300
+  },
+  {
+    "name": "중마초등학교",
+    "gps_lat": 37.5657908,
+    "gps_lon": 127.0790239,
+    "radius_meters": 300
+  },
+  {
+    "name": "광진초등학교",
+    "gps_lat": 37.547682,
+    "gps_lon": 127.0913325,
+    "radius_meters": 300
+  },
+  {
+    "name": "양진초등학교",
+    "gps_lat": 37.5445752,
+    "gps_lon": 127.0983114,
+    "radius_meters": 300
+  },
+  {
+    "name": "광남유치원",
+    "gps_lat": 37.5416266,
+    "gps_lon": 127.1006983,
+    "radius_meters": 300
+  },
+  {
+    "name": "선경유치원",
+    "gps_lat": 37.533396,
+    "gps_lon": 127.0897851,
+    "radius_meters": 300
+  },
+  {
+    "name": "어린이회관유치원",
+    "gps_lat": 37.547246,
+    "gps_lon": 127.0783044,
+    "radius_meters": 300
+  },
+  {
+    "name": "성산유치원",
+    "gps_lat": 37.5329088,
+    "gps_lon": 127.0841775,
+    "radius_meters": 300
+  },
+  {
+    "name": "슬기유치원",
+    "gps_lat": 37.552015,
+    "gps_lon": 127.0925744,
+    "radius_meters": 300
+  },
+  {
+    "name": "대원(구.우성)유치원",
+    "gps_lat": 37.5345769,
+    "gps_lon": 127.075652,
+    "radius_meters": 300
+  },
+  {
+    "name": "선양유치원",
+    "gps_lat": 37.5543276,
+    "gps_lon": 127.0711662,
+    "radius_meters": 300
+  },
+  {
+    "name": "인애유치원",
+    "gps_lat": 37.5338438,
+    "gps_lon": 127.0683425,
+    "radius_meters": 300
+  },
+  {
+    "name": "프라임유치원",
+    "gps_lat": 37.538767,
+    "gps_lon": 127.0983573,
+    "radius_meters": 300
+  },
+  {
+    "name": "보성유치원",
+    "gps_lat": 37.5436806,
+    "gps_lon": 127.1043802,
+    "radius_meters": 300
+  },
+  {
+    "name": "한일유치원",
+    "gps_lat": 37.5351653,
+    "gps_lon": 127.0715175,
+    "radius_meters": 300
+  },
+  {
+    "name": "광장유치원",
+    "gps_lat": 37.5485409,
+    "gps_lon": 127.1052329,
+    "radius_meters": 300
+  },
+  {
+    "name": "구의병설유치원",
+    "gps_lat": 37.5430074,
+    "gps_lon": 127.0803118,
+    "radius_meters": 300
+  },
+  {
+    "name": "신자병설유치원",
+    "gps_lat": 37.5302455,
+    "gps_lon": 127.0755876,
+    "radius_meters": 300
+  },
+  {
+    "name": "양남병설유치원",
+    "gps_lat": 37.5311232,
+    "gps_lon": 127.0892343,
+    "radius_meters": 300
+  },
+  {
+    "name": "양진병설유치원",
+    "gps_lat": 37.5445752,
+    "gps_lon": 127.0983114,
+    "radius_meters": 300
+  },
+  {
+    "name": "자양병설유치원",
+    "gps_lat": 37.5369882,
+    "gps_lon": 127.0797396,
+    "radius_meters": 300
+  },
+  {
+    "name": "동심유치원",
+    "gps_lat": 37.5517128,
+    "gps_lon": 127.0726727,
+    "radius_meters": 300
+  },
+  {
+    "name": "선화유치원",
+    "gps_lat": 37.5498139,
+    "gps_lon": 127.0867934,
+    "radius_meters": 300
+  },
+  {
+    "name": "영화유치원",
+    "gps_lat": 37.554053,
+    "gps_lon": 127.0977191,
+    "radius_meters": 300
+  },
+  {
+    "name": "청구이화유치원",
+    "gps_lat": 37.5418216,
+    "gps_lon": 127.0970224,
+    "radius_meters": 300
+  },
+  {
+    "name": "중광병설유치원",
+    "gps_lat": 37.5652421,
+    "gps_lon": 127.082693,
+    "radius_meters": 300
+  },
+  {
+    "name": "사랑의어린이집",
+    "gps_lat": 37.541017,
+    "gps_lon": 127.0970671,
+    "radius_meters": 300
+  },
+  {
+    "name": "신나는어린이집",
+    "gps_lat": 37.541318,
+    "gps_lon": 127.0886955,
+    "radius_meters": 300
+  },
+  {
+    "name": "정곡초등학교(병설유치원)",
+    "gps_lat": 37.5769597,
+    "gps_lon": 126.8189328,
+    "radius_meters": 300
+  },
+  {
+    "name": "치현초등학교",
+    "gps_lat": 37.57591915,
+    "gps_lon": 126.8146456,
+    "radius_meters": 300
+  },
+  {
+    "name": "송정초등학교",
+    "gps_lat": 37.56223089,
+    "gps_lon": 126.8102813,
+    "radius_meters": 300
+  },
+  {
+    "name": "신월초등학교",
+    "gps_lat": 37.54036551,
+    "gps_lon": 126.8394555,
+    "radius_meters": 300
+  },
+  {
+    "name": "신정초등학교",
+    "gps_lat": 37.53207171,
+    "gps_lon": 126.8523579,
+    "radius_meters": 300
+  },
+  {
+    "name": "우장초등학교",
+    "gps_lat": 37.54963819,
+    "gps_lon": 126.8459842,
+    "radius_meters": 300
+  },
+  {
+    "name": "화곡초등학교",
+    "gps_lat": 37.54366962,
+    "gps_lon": 126.8464717,
+    "radius_meters": 300
+  },
+  {
+    "name": "가양초등학교",
+    "gps_lat": 37.56221719,
+    "gps_lon": 126.8585216,
+    "radius_meters": 300
+  },
+  {
+    "name": "개화초등학교",
+    "gps_lat": 37.57394373,
+    "gps_lon": 126.8046464,
+    "radius_meters": 300
+  },
+  {
+    "name": "공진초등학교",
+    "gps_lat": 37.55782959,
+    "gps_lon": 126.8226104,
+    "radius_meters": 300
+  },
+  {
+    "name": "공진초등학교병설유치원",
+    "gps_lat": 37.55782959,
+    "gps_lon": 126.8226104,
+    "radius_meters": 300
+  },
+  {
+    "name": "공항초등학교",
+    "gps_lat": 37.56309005,
+    "gps_lon": 126.8216459,
+    "radius_meters": 300
+  },
+  {
+    "name": "공항초등학교병설유치원",
+    "gps_lat": 37.56309005,
+    "gps_lon": 126.8216459,
+    "radius_meters": 300
+  },
+  {
+    "name": "내발산초등학교",
+    "gps_lat": 37.55088255,
+    "gps_lon": 126.8381642,
+    "radius_meters": 300
+  },
+  {
+    "name": "내발산병설유치원",
+    "gps_lat": 37.55088255,
+    "gps_lon": 126.8381642,
+    "radius_meters": 300
+  },
+  {
+    "name": "등명초등학교",
+    "gps_lat": 37.56089445,
+    "gps_lon": 126.8423822,
+    "radius_meters": 300
+  },
+  {
+    "name": "등서초등학교",
+    "gps_lat": 37.55188439,
+    "gps_lon": 126.8550381,
+    "radius_meters": 300
+  },
+  {
+    "name": "등양초등학교",
+    "gps_lat": 37.56494704,
+    "gps_lon": 126.8447602,
+    "radius_meters": 300
+  },
+  {
+    "name": "등원초등학교",
+    "gps_lat": 37.55981354,
+    "gps_lon": 126.850069,
+    "radius_meters": 300
+  },
+  {
+    "name": "등촌초등학교",
+    "gps_lat": 37.54761422,
+    "gps_lon": 126.8579422,
+    "radius_meters": 300
+  },
+  {
+    "name": "등현초등학교",
+    "gps_lat": 37.56145118,
+    "gps_lon": 126.8475984,
+    "radius_meters": 300
+  },
+  {
+    "name": "송화초등학교",
+    "gps_lat": 37.56769447,
+    "gps_lon": 126.8168745,
+    "radius_meters": 300
+  },
+  {
+    "name": "양천초등학교",
+    "gps_lat": 37.57018817,
+    "gps_lon": 126.8395397,
+    "radius_meters": 300
+  },
+  {
+    "name": "염창초등학교",
+    "gps_lat": 37.55322614,
+    "gps_lon": 126.8676002,
+    "radius_meters": 300
+  },
+  {
+    "name": "월정초등학교",
+    "gps_lat": 37.53499419,
+    "gps_lon": 126.8362936,
+    "radius_meters": 300
+  },
+  {
+    "name": "탑산초등학교",
+    "gps_lat": 37.56701719,
+    "gps_lon": 126.8523683,
+    "radius_meters": 300
+  },
+  {
+    "name": "유석초등학교",
+    "gps_lat": 37.56080181,
+    "gps_lon": 126.8537794,
+    "radius_meters": 300
+  },
+  {
+    "name": "염동초등학교",
+    "gps_lat": 37.55209548,
+    "gps_lon": 126.8723509,
+    "radius_meters": 300
+  },
+  {
+    "name": "염경초등학교",
+    "gps_lat": 37.55500067,
+    "gps_lon": 126.8712046,
+    "radius_meters": 300
+  },
+  {
+    "name": "염경초등학교병설유치원",
+    "gps_lat": 37.55500067,
+    "gps_lon": 126.8712046,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울도솔학교",
+    "gps_lat": 37.69483026,
+    "gps_lon": 127.0424282,
+    "radius_meters": 300
+  },
+  {
+    "name": "효림유치원",
+    "gps_lat": 37.5855516,
+    "gps_lon": 126.8994297,
+    "radius_meters": 300
+  },
+  {
+    "name": "새보람유치원",
+    "gps_lat": 37.61630128,
+    "gps_lon": 126.932639,
+    "radius_meters": 300
+  },
+  {
+    "name": "색동유치원",
+    "gps_lat": 37.616055,
+    "gps_lon": 126.914224,
+    "radius_meters": 300
+  },
+  {
+    "name": "동산유치원",
+    "gps_lat": 37.58404893,
+    "gps_lon": 126.9071985,
+    "radius_meters": 300
+  },
+  {
+    "name": "유정유치원",
+    "gps_lat": 37.6066376,
+    "gps_lon": 126.926723,
+    "radius_meters": 300
+  },
+  {
+    "name": "다우림명문유치원",
+    "gps_lat": 37.64432407,
+    "gps_lon": 126.9248139,
+    "radius_meters": 300
+  },
+  {
+    "name": "진관유치원",
+    "gps_lat": 37.6347136,
+    "gps_lon": 126.930959,
+    "radius_meters": 300
+  },
+  {
+    "name": "숲유치원",
+    "gps_lat": 37.63472461,
+    "gps_lon": 126.9216104,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울산울림유치원",
+    "gps_lat": 37.64806913,
+    "gps_lon": 126.9298271,
+    "radius_meters": 300
+  },
+  {
+    "name": "은평국제유치원",
+    "gps_lat": 37.59896254,
+    "gps_lon": 126.9114685,
+    "radius_meters": 300
+  },
+  {
+    "name": "자연유치원",
+    "gps_lat": 37.60311577,
+    "gps_lon": 126.9374301,
+    "radius_meters": 300
+  },
+  {
+    "name": "구현초등(병설)",
+    "gps_lat": 37.60984462,
+    "gps_lon": 126.9057802,
+    "radius_meters": 300
+  },
+  {
+    "name": "서신초등(병설)",
+    "gps_lat": 37.59229405,
+    "gps_lon": 126.9073823,
+    "radius_meters": 300
+  },
+  {
+    "name": "수색초등(병설)",
+    "gps_lat": 37.58517215,
+    "gps_lon": 126.8960121,
+    "radius_meters": 300
+  },
+  {
+    "name": "신도초등(병설)",
+    "gps_lat": 37.63293843,
+    "gps_lon": 126.929152,
+    "radius_meters": 300
+  },
+  {
+    "name": "연광초등(병설)",
+    "gps_lat": 37.62364876,
+    "gps_lon": 126.923909,
+    "radius_meters": 300
+  },
+  {
+    "name": "은명초등(병설)",
+    "gps_lat": 37.59767912,
+    "gps_lon": 126.9182757,
+    "radius_meters": 300
+  },
+  {
+    "name": "은평초등(병설)",
+    "gps_lat": 37.60230404,
+    "gps_lon": 126.9340336,
+    "radius_meters": 300
+  },
+  {
+    "name": "갈현초등",
+    "gps_lat": 37.61977964,
+    "gps_lon": 126.9166431,
+    "radius_meters": 300
+  },
+  {
+    "name": "예일초등",
+    "gps_lat": 37.6109459,
+    "gps_lon": 126.9147928,
+    "radius_meters": 300
+  },
+  {
+    "name": "구산초등",
+    "gps_lat": 37.61275096,
+    "gps_lon": 126.9093765,
+    "radius_meters": 300
+  },
+  {
+    "name": "증산초등",
+    "gps_lat": 37.58256527,
+    "gps_lon": 126.9042764,
+    "radius_meters": 300
+  },
+  {
+    "name": "녹번초등",
+    "gps_lat": 37.60458339,
+    "gps_lon": 126.9257463,
+    "radius_meters": 300
+  },
+  {
+    "name": "대조초등",
+    "gps_lat": 37.61357914,
+    "gps_lon": 126.9193022,
+    "radius_meters": 300
+  },
+  {
+    "name": "북한산초등",
+    "gps_lat": 37.65363208,
+    "gps_lon": 126.9504624,
+    "radius_meters": 300
+  },
+  {
+    "name": "불광초등",
+    "gps_lat": 37.61342855,
+    "gps_lon": 126.9307204,
+    "radius_meters": 300
+  },
+  {
+    "name": "선일초등",
+    "gps_lat": 37.62030421,
+    "gps_lon": 126.9119931,
+    "radius_meters": 300
+  },
+  {
+    "name": "신사초등",
+    "gps_lat": 37.59283483,
+    "gps_lon": 126.9119832,
+    "radius_meters": 300
+  },
+  {
+    "name": "역촌초등",
+    "gps_lat": 37.60158417,
+    "gps_lon": 126.913928,
+    "radius_meters": 300
+  },
+  {
+    "name": "연신초등",
+    "gps_lat": 37.62605996,
+    "gps_lon": 126.9277513,
+    "radius_meters": 300
+  },
+  {
+    "name": "연천초등",
+    "gps_lat": 37.62134929,
+    "gps_lon": 126.9299179,
+    "radius_meters": 300
+  },
+  {
+    "name": "응암초등",
+    "gps_lat": 37.58875319,
+    "gps_lon": 126.9216161,
+    "radius_meters": 300
+  },
+  {
+    "name": "대은초등",
+    "gps_lat": 37.61236712,
+    "gps_lon": 126.9258698,
+    "radius_meters": 300
+  },
+  {
+    "name": "상신초등",
+    "gps_lat": 37.59755372,
+    "gps_lon": 126.9046049,
+    "radius_meters": 300
+  },
+  {
+    "name": "성모자애어린이집",
+    "gps_lat": 37.617722,
+    "gps_lon": 126.923779,
+    "radius_meters": 300
+  },
+  {
+    "name": "은평감리교회 어린이집",
+    "gps_lat": 37.60453104,
+    "gps_lon": 126.9232067,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립응암어린이집",
+    "gps_lat": 37.58845665,
+    "gps_lon": 126.9247675,
+    "radius_meters": 300
+  },
+  {
+    "name": "내일어린이집",
+    "gps_lat": 37.590942,
+    "gps_lon": 126.919501,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈나무마을어린이집",
+    "gps_lat": 37.5975586,
+    "gps_lon": 126.9287419,
+    "radius_meters": 300
+  },
+  {
+    "name": "아이젤어린이집",
+    "gps_lat": 37.59424148,
+    "gps_lon": 126.9193183,
+    "radius_meters": 300
+  },
+  {
+    "name": "하늘어린이집",
+    "gps_lat": 37.60073161,
+    "gps_lon": 126.904802,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍익어린이집",
+    "gps_lat": 37.59629761,
+    "gps_lon": 126.9076396,
+    "radius_meters": 300
+  },
+  {
+    "name": "진관어린이집",
+    "gps_lat": 37.6304386,
+    "gps_lon": 126.9235813,
+    "radius_meters": 300
+  },
+  {
+    "name": "보듬손어린이집",
+    "gps_lat": 37.61848237,
+    "gps_lon": 126.9242762,
+    "radius_meters": 300
+  },
+  {
+    "name": "다원어린이집",
+    "gps_lat": 37.61551829,
+    "gps_lon": 126.9112033,
+    "radius_meters": 300
+  },
+  {
+    "name": "새누리어린이집",
+    "gps_lat": 37.58333816,
+    "gps_lon": 126.9200388,
+    "radius_meters": 300
+  },
+  {
+    "name": "성균관(갈현초교 중복)",
+    "gps_lat": 37.6183134,
+    "gps_lon": 126.9169211,
+    "radius_meters": 300
+  },
+  {
+    "name": "예일(예일초교 중복)",
+    "gps_lat": 37.6109459,
+    "gps_lon": 126.9147928,
+    "radius_meters": 300
+  },
+  {
+    "name": "백합유치원",
+    "gps_lat": 37.608195,
+    "gps_lon": 126.917391,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울역촌유치원",
+    "gps_lat": 37.60422379,
+    "gps_lon": 126.9188633,
+    "radius_meters": 300
+  },
+  {
+    "name": "바다의별유치원",
+    "gps_lat": 37.61542484,
+    "gps_lon": 126.9262062,
+    "radius_meters": 300
+  },
+  {
+    "name": "와우랩유치원",
+    "gps_lat": 37.5940291,
+    "gps_lon": 126.921523,
+    "radius_meters": 300
+  },
+  {
+    "name": "연은초등",
+    "gps_lat": 37.59051113,
+    "gps_lon": 126.925112,
+    "radius_meters": 300
+  },
+  {
+    "name": "충암초등",
+    "gps_lat": 37.58464029,
+    "gps_lon": 126.9218095,
+    "radius_meters": 300
+  },
+  {
+    "name": "진관초등",
+    "gps_lat": 37.64543483,
+    "gps_lon": 126.9292166,
+    "radius_meters": 300
+  },
+  {
+    "name": "은진초등",
+    "gps_lat": 37.63304404,
+    "gps_lon": 126.9209282,
+    "radius_meters": 300
+  },
+  {
+    "name": "수리초등",
+    "gps_lat": 37.62030737,
+    "gps_lon": 126.9341109,
+    "radius_meters": 300
+  },
+  {
+    "name": "은빛초등",
+    "gps_lat": 37.64153447,
+    "gps_lon": 126.921856,
+    "radius_meters": 300
+  },
+  {
+    "name": "구현초등",
+    "gps_lat": 37.60984462,
+    "gps_lon": 126.9057802,
+    "radius_meters": 300
+  },
+  {
+    "name": "서신초등",
+    "gps_lat": 37.59229405,
+    "gps_lon": 126.9073823,
+    "radius_meters": 300
+  },
+  {
+    "name": "수색초등",
+    "gps_lat": 37.58517215,
+    "gps_lon": 126.8960121,
+    "radius_meters": 300
+  },
+  {
+    "name": "신도초등",
+    "gps_lat": 37.63293843,
+    "gps_lon": 126.9291409,
+    "radius_meters": 300
+  },
+  {
+    "name": "연광초등",
+    "gps_lat": 37.62364876,
+    "gps_lon": 126.923909,
+    "radius_meters": 300
+  },
+  {
+    "name": "은명초등",
+    "gps_lat": 37.59767912,
+    "gps_lon": 126.9182757,
+    "radius_meters": 300
+  },
+  {
+    "name": "은평초등",
+    "gps_lat": 37.60230404,
+    "gps_lon": 126.9340336,
+    "radius_meters": 300
+  },
+  {
+    "name": "어울초등학교",
+    "gps_lat": 37.60656187,
+    "gps_lon": 126.9350575,
+    "radius_meters": 300
+  },
+  {
+    "name": "은평대영학교",
+    "gps_lat": 37.6056209,
+    "gps_lon": 126.9063426,
+    "radius_meters": 300
+  },
+  {
+    "name": "매봉초등학교",
+    "gps_lat": 37.50491677,
+    "gps_lon": 126.844375,
+    "radius_meters": 300
+  },
+  {
+    "name": "미래초등학교",
+    "gps_lat": 37.50510683,
+    "gps_lon": 126.8880789,
+    "radius_meters": 300
+  },
+  {
+    "name": "세곡초등학교",
+    "gps_lat": 37.50505628,
+    "gps_lon": 126.8491193,
+    "radius_meters": 300
+  },
+  {
+    "name": "신구로초등학교",
+    "gps_lat": 37.49965913,
+    "gps_lon": 126.8897653,
+    "radius_meters": 300
+  },
+  {
+    "name": "신도림초등학교",
+    "gps_lat": 37.51198583,
+    "gps_lon": 126.8832548,
+    "radius_meters": 300
+  },
+  {
+    "name": "신미림초등학교",
+    "gps_lat": 37.50714192,
+    "gps_lon": 126.8795526,
+    "radius_meters": 300
+  },
+  {
+    "name": "영서초등학교",
+    "gps_lat": 37.48896046,
+    "gps_lon": 126.8955839,
+    "radius_meters": 300
+  },
+  {
+    "name": "영일초등학교",
+    "gps_lat": 37.48564457,
+    "gps_lon": 126.8838114,
+    "radius_meters": 300
+  },
+  {
+    "name": "오류남초등학교",
+    "gps_lat": 37.489606,
+    "gps_lon": 126.8391137,
+    "radius_meters": 300
+  },
+  {
+    "name": "오류초등학교",
+    "gps_lat": 37.49752903,
+    "gps_lon": 126.8420281,
+    "radius_meters": 300
+  },
+  {
+    "name": "오정초등학교",
+    "gps_lat": 37.49016576,
+    "gps_lon": 126.8264393,
+    "radius_meters": 300
+  },
+  {
+    "name": "온수초등학교",
+    "gps_lat": 37.494071,
+    "gps_lon": 126.825993,
+    "radius_meters": 300
+  },
+  {
+    "name": "천왕초등학교",
+    "gps_lat": 37.48145598,
+    "gps_lon": 126.8370629,
+    "radius_meters": 300
+  },
+  {
+    "name": "하늘숲초등학교",
+    "gps_lat": 37.48416096,
+    "gps_lon": 126.8416517,
+    "radius_meters": 300
+  },
+  {
+    "name": "항동초등학교",
+    "gps_lat": 37.47701589,
+    "gps_lon": 126.8241103,
+    "radius_meters": 300
+  },
+  {
+    "name": "성베드로학교",
+    "gps_lat": 37.4875236,
+    "gps_lon": 126.826165,
+    "radius_meters": 300
+  },
+  {
+    "name": "정진학교",
+    "gps_lat": 37.49881413,
+    "gps_lon": 126.8207513,
+    "radius_meters": 300
+  },
+  {
+    "name": "지구촌학교",
+    "gps_lat": 37.48885919,
+    "gps_lon": 126.8351761,
+    "radius_meters": 300
+  },
+  {
+    "name": "궁동어린이집",
+    "gps_lat": 37.49684058,
+    "gps_lon": 126.829017,
+    "radius_meters": 300
+  },
+  {
+    "name": "남산어린이집",
+    "gps_lat": 37.50294183,
+    "gps_lon": 126.864935,
+    "radius_meters": 300
+  },
+  {
+    "name": "샛별어린이집",
+    "gps_lat": 37.4999466,
+    "gps_lon": 126.8850875,
+    "radius_meters": 300
+  },
+  {
+    "name": "세라핌어린이집",
+    "gps_lat": 37.497724,
+    "gps_lon": 126.8450222,
+    "radius_meters": 300
+  },
+  {
+    "name": "예쁜별어린이집",
+    "gps_lat": 37.4924091,
+    "gps_lon": 126.843062,
+    "radius_meters": 300
+  },
+  {
+    "name": "지암어린이집",
+    "gps_lat": 37.48722468,
+    "gps_lon": 126.852844,
+    "radius_meters": 300
+  },
+  {
+    "name": "코레일오류동어린이집",
+    "gps_lat": 37.49548271,
+    "gps_lon": 126.8453299,
+    "radius_meters": 300
+  },
+  {
+    "name": "항동어린이집",
+    "gps_lat": 37.48537876,
+    "gps_lon": 126.8234383,
+    "radius_meters": 300
+  },
+  {
+    "name": "개봉초병설유치원",
+    "gps_lat": 37.48952311,
+    "gps_lon": 126.8579748,
+    "radius_meters": 300
+  },
+  {
+    "name": "고척초병설유치원",
+    "gps_lat": 37.50094667,
+    "gps_lon": 126.856994,
+    "radius_meters": 300
+  },
+  {
+    "name": "동정성모유치원",
+    "gps_lat": 37.4904876,
+    "gps_lon": 126.8283576,
+    "radius_meters": 300
+  },
+  {
+    "name": "매봉초병설유치원",
+    "gps_lat": 37.50491677,
+    "gps_lon": 126.844375,
+    "radius_meters": 300
+  },
+  {
+    "name": "미래초병설유치원",
+    "gps_lat": 37.50510683,
+    "gps_lon": 126.8880789,
+    "radius_meters": 300
+  },
+  {
+    "name": "미림유치원",
+    "gps_lat": 37.490828,
+    "gps_lon": 126.857951,
+    "radius_meters": 300
+  },
+  {
+    "name": "사랑유치원",
+    "gps_lat": 37.50626346,
+    "gps_lon": 126.8763484,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울남유치원",
+    "gps_lat": 37.488008,
+    "gps_lon": 126.881845,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울하늘숲유치원",
+    "gps_lat": 37.48498973,
+    "gps_lon": 126.8430176,
+    "radius_meters": 300
+  },
+  {
+    "name": "신도유치원",
+    "gps_lat": 37.4890874,
+    "gps_lon": 126.8776413,
+    "radius_meters": 300
+  },
+  {
+    "name": "신미림초병설유치원",
+    "gps_lat": 37.50714192,
+    "gps_lon": 126.8795526,
+    "radius_meters": 300
+  },
+  {
+    "name": "영서초병설유치원",
+    "gps_lat": 37.48896046,
+    "gps_lon": 126.8955839,
+    "radius_meters": 300
+  },
+  {
+    "name": "예쁨유치원",
+    "gps_lat": 37.495235,
+    "gps_lon": 126.8174398,
+    "radius_meters": 300
+  },
+  {
+    "name": "푸른동산유치원",
+    "gps_lat": 37.48673104,
+    "gps_lon": 126.831364,
+    "radius_meters": 300
+  },
+  {
+    "name": "혜원유치원",
+    "gps_lat": 37.49940021,
+    "gps_lon": 126.842282,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿀벌유치원",
+    "gps_lat": 37.484937,
+    "gps_lon": 126.8893181,
+    "radius_meters": 300
+  },
+  {
+    "name": "개명초등학교",
+    "gps_lat": 37.48303805,
+    "gps_lon": 126.8509816,
+    "radius_meters": 300
+  },
+  {
+    "name": "개봉초등학교",
+    "gps_lat": 37.48952311,
+    "gps_lon": 126.8579748,
+    "radius_meters": 300
+  },
+  {
+    "name": "개웅초등학교",
+    "gps_lat": 37.488569,
+    "gps_lon": 126.8499801,
+    "radius_meters": 300
+  },
+  {
+    "name": "고산초등학교",
+    "gps_lat": 37.49897363,
+    "gps_lon": 126.8647738,
+    "radius_meters": 300
+  },
+  {
+    "name": "고원초등학교",
+    "gps_lat": 37.49761248,
+    "gps_lon": 126.8657986,
+    "radius_meters": 300
+  },
+  {
+    "name": "고척초등학교",
+    "gps_lat": 37.50094667,
+    "gps_lon": 126.856994,
+    "radius_meters": 300
+  },
+  {
+    "name": "구로남초등학교",
+    "gps_lat": 37.48420548,
+    "gps_lon": 126.8902176,
+    "radius_meters": 300
+  },
+  {
+    "name": "구로초등학교",
+    "gps_lat": 37.49746124,
+    "gps_lon": 126.8865524,
+    "radius_meters": 300
+  },
+  {
+    "name": "구일초등학교",
+    "gps_lat": 37.4931916,
+    "gps_lon": 126.8734733,
+    "radius_meters": 300
+  },
+  {
+    "name": "덕의초등학교",
+    "gps_lat": 37.50602878,
+    "gps_lon": 126.8573464,
+    "radius_meters": 300
+  },
+  {
+    "name": "동구로초등학교",
+    "gps_lat": 37.49407207,
+    "gps_lon": 126.8927814,
+    "radius_meters": 300
+  },
+  {
+    "name": "광진선교어린이집",
+    "gps_lat": 37.48589964,
+    "gps_lon": 126.8509714,
+    "radius_meters": 300
+  },
+  {
+    "name": "구로삼성어린이집",
+    "gps_lat": 37.491254,
+    "gps_lon": 126.882454,
+    "radius_meters": 300
+  },
+  {
+    "name": "구일어린이집",
+    "gps_lat": 37.491746,
+    "gps_lon": 126.874349,
+    "radius_meters": 300
+  },
+  {
+    "name": "잠실어린이집(잠현초옆)",
+    "gps_lat": 37.521716,
+    "gps_lon": 127.104801,
+    "radius_meters": 300
+  },
+  {
+    "name": "천마어린이집",
+    "gps_lat": 37.492758,
+    "gps_lon": 127.156441,
+    "radius_meters": 300
+  },
+  {
+    "name": "천사어린이집",
+    "gps_lat": 37.499313,
+    "gps_lon": 127.149097,
+    "radius_meters": 300
+  },
+  {
+    "name": "풍납어린이집",
+    "gps_lat": 37.528845,
+    "gps_lon": 127.116568,
+    "radius_meters": 300
+  },
+  {
+    "name": "풍성어린이집",
+    "gps_lat": 37.535376,
+    "gps_lon": 127.120443,
+    "radius_meters": 300
+  },
+  {
+    "name": "행복한어린이집",
+    "gps_lat": 37.505929,
+    "gps_lon": 127.109732,
+    "radius_meters": 300
+  },
+  {
+    "name": "한국육영학교",
+    "gps_lat": 37.482085,
+    "gps_lon": 127.132504,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립노아어린이집",
+    "gps_lat": 37.48185605,
+    "gps_lon": 126.9123705,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립문성어린이집",
+    "gps_lat": 37.48201343,
+    "gps_lon": 126.9028913,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립합실어린이집",
+    "gps_lat": 37.4640496,
+    "gps_lon": 126.9254172,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립서원어린이집",
+    "gps_lat": 37.47692406,
+    "gps_lon": 126.9342273,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립인헌어린이집",
+    "gps_lat": 37.47390966,
+    "gps_lon": 126.9642655,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립미라클어린이집",
+    "gps_lat": 37.47368234,
+    "gps_lon": 126.9198188,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립초롱별어린이집",
+    "gps_lat": 37.4762619,
+    "gps_lon": 126.9153799,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립금빛어린이집",
+    "gps_lat": 37.47536345,
+    "gps_lon": 126.9652204,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립난향어린이집",
+    "gps_lat": 37.462714,
+    "gps_lon": 126.9171577,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립우리꿈어린이집",
+    "gps_lat": 37.49152454,
+    "gps_lon": 126.9427119,
+    "radius_meters": 300
+  },
+  {
+    "name": "큰솔아이들 학원",
+    "gps_lat": 37.48409831,
+    "gps_lon": 126.9606845,
+    "radius_meters": 300
+  },
+  {
+    "name": "앤플러스학원",
+    "gps_lat": 37.4739952,
+    "gps_lon": 126.9168635,
+    "radius_meters": 300
+  },
+  {
+    "name": "청맥보습학원",
+    "gps_lat": 37.47545699,
+    "gps_lon": 126.9178837,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈이크는 보습학원",
+    "gps_lat": 37.47437484,
+    "gps_lon": 126.9203283,
+    "radius_meters": 300
+  },
+  {
+    "name": "강남예일 보습학원",
+    "gps_lat": 37.4739189,
+    "gps_lon": 126.918569,
+    "radius_meters": 300
+  },
+  {
+    "name": "오름 보습학원",
+    "gps_lat": 37.47348548,
+    "gps_lon": 126.9181256,
+    "radius_meters": 300
+  },
+  {
+    "name": "관악청담에이프릴 학원",
+    "gps_lat": 37.489993,
+    "gps_lon": 126.9451565,
+    "radius_meters": 300
+  },
+  {
+    "name": "관악분원 정상어학원",
+    "gps_lat": 37.482243,
+    "gps_lon": 126.9459861,
+    "radius_meters": 300
+  },
+  {
+    "name": "원신초등학교",
+    "gps_lat": 37.46719824,
+    "gps_lon": 126.9272409,
+    "radius_meters": 300
+  },
+  {
+    "name": "조원초등학교",
+    "gps_lat": 37.48412777,
+    "gps_lon": 126.9095056,
+    "radius_meters": 300
+  },
+  {
+    "name": "동원유치원",
+    "gps_lat": 37.4828745,
+    "gps_lon": 126.9566712,
+    "radius_meters": 300
+  },
+  {
+    "name": "배꽃유치원",
+    "gps_lat": 37.48560689,
+    "gps_lon": 126.9419506,
+    "radius_meters": 300
+  },
+  {
+    "name": "은아유치원",
+    "gps_lat": 37.47545098,
+    "gps_lon": 126.9644281,
+    "radius_meters": 300
+  },
+  {
+    "name": "현대유치원",
+    "gps_lat": 37.49225315,
+    "gps_lon": 126.9593512,
+    "radius_meters": 300
+  },
+  {
+    "name": "명성유치원",
+    "gps_lat": 37.47879878,
+    "gps_lon": 126.929365,
+    "radius_meters": 300
+  },
+  {
+    "name": "새소슬유치원",
+    "gps_lat": 37.48984744,
+    "gps_lon": 126.9529855,
+    "radius_meters": 300
+  },
+  {
+    "name": "새싹유치원",
+    "gps_lat": 37.47456905,
+    "gps_lon": 126.9728642,
+    "radius_meters": 300
+  },
+  {
+    "name": "애동유치원",
+    "gps_lat": 37.47381393,
+    "gps_lon": 126.9202811,
+    "radius_meters": 300
+  },
+  {
+    "name": "하늘유치원",
+    "gps_lat": 37.47405819,
+    "gps_lon": 126.9322567,
+    "radius_meters": 300
+  },
+  {
+    "name": "한별유치원",
+    "gps_lat": 37.47842015,
+    "gps_lon": 126.9134787,
+    "radius_meters": 300
+  },
+  {
+    "name": "영그린유치원",
+    "gps_lat": 37.47706491,
+    "gps_lon": 126.940391,
+    "radius_meters": 300
+  },
+  {
+    "name": "청림유치원",
+    "gps_lat": 37.48909177,
+    "gps_lon": 126.9601116,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈나라유치원",
+    "gps_lat": 37.46058867,
+    "gps_lon": 126.9206174,
+    "radius_meters": 300
+  },
+  {
+    "name": "신우단설유치원",
+    "gps_lat": 37.46326397,
+    "gps_lon": 126.9325353,
+    "radius_meters": 300
+  },
+  {
+    "name": "관악병설유치원",
+    "gps_lat": 37.48102565,
+    "gps_lon": 126.9425545,
+    "radius_meters": 300
+  },
+  {
+    "name": "난곡병설유치원",
+    "gps_lat": 37.4691282,
+    "gps_lon": 126.9163416,
+    "radius_meters": 300
+  },
+  {
+    "name": "봉천병설유치원",
+    "gps_lat": 37.4832696,
+    "gps_lon": 126.9581884,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼성병설유치원",
+    "gps_lat": 37.46852204,
+    "gps_lon": 126.9404929,
+    "radius_meters": 300
+  },
+  {
+    "name": "신성병설유치원",
+    "gps_lat": 37.47200331,
+    "gps_lon": 126.9367542,
+    "radius_meters": 300
+  },
+  {
+    "name": "원당병설유치원",
+    "gps_lat": 37.48128046,
+    "gps_lon": 126.9562493,
+    "radius_meters": 300
+  },
+  {
+    "name": "은천병설유치원",
+    "gps_lat": 37.4865852,
+    "gps_lon": 126.9426791,
+    "radius_meters": 300
+  },
+  {
+    "name": "청룡병설유치원",
+    "gps_lat": 37.47672527,
+    "gps_lon": 126.9512846,
+    "radius_meters": 300
+  },
+  {
+    "name": "새롬학교",
+    "gps_lat": 37.49316847,
+    "gps_lon": 126.9273716,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울정문학교",
+    "gps_lat": 37.46171259,
+    "gps_lon": 126.9169516,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립선봉어린이집",
+    "gps_lat": 37.48519157,
+    "gps_lon": 126.9396852,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립다원어린이집",
+    "gps_lat": 37.47179027,
+    "gps_lon": 126.9122794,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립도담어린이집",
+    "gps_lat": 37.48971079,
+    "gps_lon": 126.9583655,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립새빛어린이집",
+    "gps_lat": 37.486347,
+    "gps_lon": 126.9151644,
+    "radius_meters": 300
+  },
+  {
+    "name": "관악초등학교",
+    "gps_lat": 37.47672527,
+    "gps_lon": 126.9512846,
+    "radius_meters": 300
+  },
+  {
+    "name": "구암초등학교",
+    "gps_lat": 37.48921747,
+    "gps_lon": 126.9462717,
+    "radius_meters": 300
+  },
+  {
+    "name": "난곡초등학교",
+    "gps_lat": 37.4691282,
+    "gps_lon": 126.9163416,
+    "radius_meters": 300
+  },
+  {
+    "name": "난우초등학교",
+    "gps_lat": 37.47711829,
+    "gps_lon": 126.9176525,
+    "radius_meters": 300
+  },
+  {
+    "name": "난향초등학교",
+    "gps_lat": 37.46282189,
+    "gps_lon": 126.9183368,
+    "radius_meters": 300
+  },
+  {
+    "name": "남부초등학교",
+    "gps_lat": 37.48511944,
+    "gps_lon": 126.9221838,
+    "radius_meters": 300
+  },
+  {
+    "name": "당곡초등학교",
+    "gps_lat": 37.49016812,
+    "gps_lon": 126.9303698,
+    "radius_meters": 300
+  },
+  {
+    "name": "미성초등학교",
+    "gps_lat": 37.47833997,
+    "gps_lon": 126.9123923,
+    "radius_meters": 300
+  },
+  {
+    "name": "사당초등학교",
+    "gps_lat": 37.47383628,
+    "gps_lon": 126.9733501,
+    "radius_meters": 300
+  },
+  {
+    "name": "신우초등학교",
+    "gps_lat": 37.46326397,
+    "gps_lon": 126.9325353,
+    "radius_meters": 300
+  },
+  {
+    "name": "원당초등학교",
+    "gps_lat": 37.48128046,
+    "gps_lon": 126.9562493,
+    "radius_meters": 300
+  },
+  {
+    "name": "인헌초등학교",
+    "gps_lat": 37.47675499,
+    "gps_lon": 126.9598639,
+    "radius_meters": 300
+  },
+  {
+    "name": "청룡초등학교",
+    "gps_lat": 37.47672527,
+    "gps_lon": 126.9512846,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼성초등학교",
+    "gps_lat": 37.46852204,
+    "gps_lon": 126.9404929,
+    "radius_meters": 300
+  },
+  {
+    "name": "신림초등학교",
+    "gps_lat": 37.47711985,
+    "gps_lon": 126.9268767,
+    "radius_meters": 300
+  },
+  {
+    "name": "신봉초등학교",
+    "gps_lat": 37.48557635,
+    "gps_lon": 126.9493909,
+    "radius_meters": 300
+  },
+  {
+    "name": "은천초등학교",
+    "gps_lat": 37.4865852,
+    "gps_lon": 126.9426791,
+    "radius_meters": 300
+  },
+  {
+    "name": "봉천초등학교",
+    "gps_lat": 37.4832696,
+    "gps_lon": 126.9581884,
+    "radius_meters": 300
+  },
+  {
+    "name": "신성초등학교",
+    "gps_lat": 37.47200331,
+    "gps_lon": 126.9367542,
+    "radius_meters": 300
+  },
+  {
+    "name": "봉현초등학교",
+    "gps_lat": 37.49124068,
+    "gps_lon": 126.9555874,
+    "radius_meters": 300
+  },
+  {
+    "name": "파란나라유치원",
+    "gps_lat": 37.50321946,
+    "gps_lon": 126.8972605,
+    "radius_meters": 300
+  },
+  {
+    "name": "큰나무유치원",
+    "gps_lat": 37.506234,
+    "gps_lon": 126.895153,
+    "radius_meters": 300
+  },
+  {
+    "name": "우성유치원",
+    "gps_lat": 37.505742,
+    "gps_lon": 126.900623,
+    "radius_meters": 300
+  },
+  {
+    "name": "신라유치원",
+    "gps_lat": 37.51469911,
+    "gps_lon": 126.9166502,
+    "radius_meters": 300
+  },
+  {
+    "name": "명신유치원",
+    "gps_lat": 37.507661,
+    "gps_lon": 126.907811,
+    "radius_meters": 300
+  },
+  {
+    "name": "동천유치원",
+    "gps_lat": 37.50634892,
+    "gps_lon": 126.9121219,
+    "radius_meters": 300
+  },
+  {
+    "name": "성모유치원",
+    "gps_lat": 37.50555535,
+    "gps_lon": 126.9215852,
+    "radius_meters": 300
+  },
+  {
+    "name": "침례유치원",
+    "gps_lat": 37.51773399,
+    "gps_lon": 126.9342568,
+    "radius_meters": 300
+  },
+  {
+    "name": "영중유치원",
+    "gps_lat": 37.53107433,
+    "gps_lon": 126.9052323,
+    "radius_meters": 300
+  },
+  {
+    "name": "에덴유치원",
+    "gps_lat": 37.50561109,
+    "gps_lon": 126.913438,
+    "radius_meters": 300
+  },
+  {
+    "name": "한영교회유치원",
+    "gps_lat": 37.528458,
+    "gps_lon": 126.904777,
+    "radius_meters": 300
+  },
+  {
+    "name": "선유초등학교",
+    "gps_lat": 37.532816,
+    "gps_lon": 126.892794,
+    "radius_meters": 300
+  },
+  {
+    "name": "영문초등학교",
+    "gps_lat": 37.51980714,
+    "gps_lon": 126.8875909,
+    "radius_meters": 300
+  },
+  {
+    "name": "영원초등학교",
+    "gps_lat": 37.51071936,
+    "gps_lon": 126.902141,
+    "radius_meters": 300
+  },
+  {
+    "name": "우신초등학교",
+    "gps_lat": 37.50986625,
+    "gps_lon": 126.911892,
+    "radius_meters": 300
+  },
+  {
+    "name": "대방초등학교",
+    "gps_lat": 37.50290012,
+    "gps_lon": 126.9190202,
+    "radius_meters": 300
+  },
+  {
+    "name": "신대림초등학교",
+    "gps_lat": 37.49215502,
+    "gps_lon": 126.905821,
+    "radius_meters": 300
+  },
+  {
+    "name": "영림초등학교",
+    "gps_lat": 37.487353,
+    "gps_lon": 126.9025151,
+    "radius_meters": 300
+  },
+  {
+    "name": "윤중초등학교",
+    "gps_lat": 37.51964065,
+    "gps_lon": 126.9225902,
+    "radius_meters": 300
+  },
+  {
+    "name": "영등포초등학교",
+    "gps_lat": 37.51288963,
+    "gps_lon": 126.899634,
+    "radius_meters": 300
+  },
+  {
+    "name": "신영초등학교",
+    "gps_lat": 37.50100557,
+    "gps_lon": 126.8960964,
+    "radius_meters": 300
+  },
+  {
+    "name": "도신초등학교",
+    "gps_lat": 37.49926879,
+    "gps_lon": 126.9007128,
+    "radius_meters": 300
+  },
+  {
+    "name": "도림초등학교",
+    "gps_lat": 37.50750302,
+    "gps_lon": 126.9072907,
+    "radius_meters": 300
+  },
+  {
+    "name": "대영초등학교",
+    "gps_lat": 37.50267919,
+    "gps_lon": 126.9063358,
+    "radius_meters": 300
+  },
+  {
+    "name": "대동초등학교",
+    "gps_lat": 37.49370368,
+    "gps_lon": 126.9001186,
+    "radius_meters": 300
+  },
+  {
+    "name": "대길초등학교",
+    "gps_lat": 37.49817578,
+    "gps_lon": 126.9131719,
+    "radius_meters": 300
+  },
+  {
+    "name": "영중초등학교",
+    "gps_lat": 37.52414258,
+    "gps_lon": 126.9036935,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈나무어린이집",
+    "gps_lat": 37.49902264,
+    "gps_lon": 126.913041,
+    "radius_meters": 300
+  },
+  {
+    "name": "영신어린이집",
+    "gps_lat": 37.503962,
+    "gps_lon": 126.9106409,
+    "radius_meters": 300
+  },
+  {
+    "name": "하나푸르니신길어린이집",
+    "gps_lat": 37.50715227,
+    "gps_lon": 126.911655,
+    "radius_meters": 300
+  },
+  {
+    "name": "하정어린이집",
+    "gps_lat": 37.505832,
+    "gps_lon": 126.922179,
+    "radius_meters": 300
+  },
+  {
+    "name": "해태어린이집",
+    "gps_lat": 37.49804915,
+    "gps_lon": 126.894845,
+    "radius_meters": 300
+  },
+  {
+    "name": "양평1동어린이집",
+    "gps_lat": 37.523625,
+    "gps_lon": 126.888358,
+    "radius_meters": 300
+  },
+  {
+    "name": "남서울어린이집",
+    "gps_lat": 37.52867655,
+    "gps_lon": 126.908385,
+    "radius_meters": 300
+  },
+  {
+    "name": "국회어린이집",
+    "gps_lat": 37.5329136,
+    "gps_lon": 126.9164036,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립신길5동어린이집",
+    "gps_lat": 37.497564,
+    "gps_lon": 126.906102,
+    "radius_meters": 300
+  },
+  {
+    "name": "은솔어린이집",
+    "gps_lat": 37.5300058,
+    "gps_lon": 126.9015929,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울영등포경찰서어린이집",
+    "gps_lat": 37.54188742,
+    "gps_lon": 126.8904098,
+    "radius_meters": 300
+  },
+  {
+    "name": "선재어린이집",
+    "gps_lat": 37.5286217,
+    "gps_lon": 126.894421,
+    "radius_meters": 300
+  },
+  {
+    "name": "돈보스꼬유치원",
+    "gps_lat": 37.510546,
+    "gps_lon": 126.901386,
+    "radius_meters": 300
+  },
+  {
+    "name": "영은유치원",
+    "gps_lat": 37.52530199,
+    "gps_lon": 126.890011,
+    "radius_meters": 300
+  },
+  {
+    "name": "윤중초등학교병설유치원",
+    "gps_lat": 37.51964065,
+    "gps_lon": 126.9225902,
+    "radius_meters": 300
+  },
+  {
+    "name": "영중초등학교병설유치원",
+    "gps_lat": 37.52414258,
+    "gps_lon": 126.9036935,
+    "radius_meters": 300
+  },
+  {
+    "name": "영림초등학교병설유치원",
+    "gps_lat": 37.487353,
+    "gps_lon": 126.9025151,
+    "radius_meters": 300
+  },
+  {
+    "name": "영등포초등학교병설유치원",
+    "gps_lat": 37.51288963,
+    "gps_lon": 126.899634,
+    "radius_meters": 300
+  },
+  {
+    "name": "도신초등학교병설유치원",
+    "gps_lat": 37.49926879,
+    "gps_lon": 126.9007128,
+    "radius_meters": 300
+  },
+  {
+    "name": "대동초등학교병설유치원",
+    "gps_lat": 37.49370368,
+    "gps_lon": 126.9001186,
+    "radius_meters": 300
+  },
+  {
+    "name": "당중초등학교병설유치원",
+    "gps_lat": 37.52628887,
+    "gps_lon": 126.8894139,
+    "radius_meters": 300
+  },
+  {
+    "name": "성미유치원",
+    "gps_lat": 37.50168998,
+    "gps_lon": 126.909256,
+    "radius_meters": 300
+  },
+  {
+    "name": "무지개영재유치원",
+    "gps_lat": 37.525209,
+    "gps_lon": 126.8936102,
+    "radius_meters": 300
+  },
+  {
+    "name": "한신혜원유치원",
+    "gps_lat": 37.54028177,
+    "gps_lon": 126.8917467,
+    "radius_meters": 300
+  },
+  {
+    "name": "평화유치원",
+    "gps_lat": 37.532337,
+    "gps_lon": 126.8968009,
+    "radius_meters": 300
+  },
+  {
+    "name": "평강유치원",
+    "gps_lat": 37.49493197,
+    "gps_lon": 126.908145,
+    "radius_meters": 300
+  },
+  {
+    "name": "파랑새유치원",
+    "gps_lat": 37.502352,
+    "gps_lon": 126.900249,
+    "radius_meters": 300
+  },
+  {
+    "name": "은하유치원",
+    "gps_lat": 37.5249271,
+    "gps_lon": 126.8980316,
+    "radius_meters": 300
+  },
+  {
+    "name": "KDB어린이집",
+    "gps_lat": 37.52712141,
+    "gps_lon": 126.920824,
+    "radius_meters": 300
+  },
+  {
+    "name": "양평3가어린이집",
+    "gps_lat": 37.526829,
+    "gps_lon": 126.8874355,
+    "radius_meters": 300
+  },
+  {
+    "name": "신기어린이집",
+    "gps_lat": 37.63099889,
+    "gps_lon": 127.0170158,
+    "radius_meters": 300
+  },
+  {
+    "name": "아람어린이집",
+    "gps_lat": 37.62170433,
+    "gps_lon": 127.0168642,
+    "radius_meters": 300
+  },
+  {
+    "name": "솔밭어린이집",
+    "gps_lat": 37.65411876,
+    "gps_lon": 127.012044,
+    "radius_meters": 300
+  },
+  {
+    "name": "꼬꼬마어린이집",
+    "gps_lat": 37.62764456,
+    "gps_lon": 127.042037,
+    "radius_meters": 300
+  },
+  {
+    "name": "제일어린이집",
+    "gps_lat": 37.65867068,
+    "gps_lon": 127.0105145,
+    "radius_meters": 300
+  },
+  {
+    "name": "예원어린이집",
+    "gps_lat": 37.61783013,
+    "gps_lon": 127.0335137,
+    "radius_meters": 300
+  },
+  {
+    "name": "인수동어린이집",
+    "gps_lat": 37.641475,
+    "gps_lon": 127.014112,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립 수유2동어린이집",
+    "gps_lat": 37.64397946,
+    "gps_lon": 127.0171166,
+    "radius_meters": 300
+  },
+  {
+    "name": "아이사랑어린이집",
+    "gps_lat": 37.6112434,
+    "gps_lon": 127.0081967,
+    "radius_meters": 300
+  },
+  {
+    "name": "아트리치어린이집",
+    "gps_lat": 37.60654322,
+    "gps_lon": 127.0622674,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울수송초등학교",
+    "gps_lat": 37.63732397,
+    "gps_lon": 127.0332052,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울인수초등학교",
+    "gps_lat": 37.64305134,
+    "gps_lon": 127.009137,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울화계초등학교",
+    "gps_lat": 37.62388579,
+    "gps_lon": 127.0297148,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울미양초등학교(미양병설유치원 중복)",
+    "gps_lat": 37.6215317,
+    "gps_lon": 127.014132,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울삼양초등학교",
+    "gps_lat": 37.62329377,
+    "gps_lon": 127.0161486,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울송중초등학교",
+    "gps_lat": 37.61700179,
+    "gps_lon": 127.0314655,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울수유초등학교(수유병설유치원 중복)",
+    "gps_lat": 37.63125065,
+    "gps_lon": 127.0202922,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울우이초등학교",
+    "gps_lat": 37.63865468,
+    "gps_lon": 127.0148082,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울번동초등학교",
+    "gps_lat": 37.62902557,
+    "gps_lon": 127.0400394,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울오현초등학교",
+    "gps_lat": 37.62341903,
+    "gps_lon": 127.0465747,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울영훈초등학교",
+    "gps_lat": 37.61468169,
+    "gps_lon": 127.0280938,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울유현초등학교",
+    "gps_lat": 37.63234744,
+    "gps_lon": 127.0114196,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울송천초등학교",
+    "gps_lat": 37.6149061,
+    "gps_lon": 127.0237355,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울삼각산초등학교",
+    "gps_lat": 37.61614897,
+    "gps_lon": 127.0145684,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울 길음초(삼각산아이원아파트 통학로)",
+    "gps_lat": 37.61705556,
+    "gps_lon": 127.0177233,
+    "radius_meters": 300
+  },
+  {
+    "name": "성체유치원",
+    "gps_lat": 37.64230381,
+    "gps_lon": 127.0209886,
+    "radius_meters": 300
+  },
+  {
+    "name": "유안유치원(인수유치원 중복)",
+    "gps_lat": 37.64527486,
+    "gps_lon": 127.0104879,
+    "radius_meters": 300
+  },
+  {
+    "name": "화계유치원",
+    "gps_lat": 37.6346458,
+    "gps_lon": 127.0188565,
+    "radius_meters": 300
+  },
+  {
+    "name": "솔샘유치원",
+    "gps_lat": 37.62182382,
+    "gps_lon": 127.0124058,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈동산유치원",
+    "gps_lat": 37.63215859,
+    "gps_lon": 127.0383543,
+    "radius_meters": 300
+  },
+  {
+    "name": "애화학교",
+    "gps_lat": 37.62519423,
+    "gps_lon": 127.0288726,
+    "radius_meters": 300
+  },
+  {
+    "name": "한빛맹학교",
+    "gps_lat": 37.62789211,
+    "gps_lon": 127.0157138,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울정인학교",
+    "gps_lat": 37.63095627,
+    "gps_lon": 127.0119224,
+    "radius_meters": 300
+  },
+  {
+    "name": "효정학교",
+    "gps_lat": 37.6271728,
+    "gps_lon": 127.0162222,
+    "radius_meters": 300
+  },
+  {
+    "name": "효성교회어린이집",
+    "gps_lat": 37.61874578,
+    "gps_lon": 127.0326578,
+    "radius_meters": 300
+  },
+  {
+    "name": "번2동어린이집",
+    "gps_lat": 37.63374918,
+    "gps_lon": 127.0320344,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼양어린이집",
+    "gps_lat": 37.62782336,
+    "gps_lon": 127.0199106,
+    "radius_meters": 300
+  },
+  {
+    "name": "가곡초등학교",
+    "gps_lat": 37.55570761,
+    "gps_lon": 126.8361031,
+    "radius_meters": 300
+  },
+  {
+    "name": "발산초등학교",
+    "gps_lat": 37.55026244,
+    "gps_lon": 126.8309944,
+    "radius_meters": 300
+  },
+  {
+    "name": "방화초등학교",
+    "gps_lat": 37.56870373,
+    "gps_lon": 126.8074982,
+    "radius_meters": 300
+  },
+  {
+    "name": "백석초등학교",
+    "gps_lat": 37.55364765,
+    "gps_lon": 126.8624258,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼정초등학교",
+    "gps_lat": 37.58050843,
+    "gps_lon": 126.8104937,
+    "radius_meters": 300
+  },
+  {
+    "name": "신곡초등학교",
+    "gps_lat": 37.53909546,
+    "gps_lon": 126.8560096,
+    "radius_meters": 300
+  },
+  {
+    "name": "정곡초등학교",
+    "gps_lat": 37.5769597,
+    "gps_lon": 126.8189328,
+    "radius_meters": 300
+  },
+  {
+    "name": "장위3동어린이집",
+    "gps_lat": 37.61675603,
+    "gps_lon": 127.0534217,
+    "radius_meters": 300
+  },
+  {
+    "name": "숭곡병설유치원",
+    "gps_lat": 37.6084672,
+    "gps_lon": 127.0328164,
+    "radius_meters": 300
+  },
+  {
+    "name": "숭례병설유치원",
+    "gps_lat": 37.59452281,
+    "gps_lon": 127.0352968,
+    "radius_meters": 300
+  },
+  {
+    "name": "신암유치원",
+    "gps_lat": 37.58677107,
+    "gps_lon": 127.0173862,
+    "radius_meters": 300
+  },
+  {
+    "name": "영재유치원",
+    "gps_lat": 37.59743497,
+    "gps_lon": 127.0347683,
+    "radius_meters": 300
+  },
+  {
+    "name": "우촌유치원",
+    "gps_lat": 37.59564089,
+    "gps_lon": 127.0114006,
+    "radius_meters": 300
+  },
+  {
+    "name": "은하유치원",
+    "gps_lat": 37.6094377,
+    "gps_lon": 127.0586569,
+    "radius_meters": 300
+  },
+  {
+    "name": "장월병설유치원",
+    "gps_lat": 37.62194118,
+    "gps_lon": 127.0471649,
+    "radius_meters": 300
+  },
+  {
+    "name": "정덕병설유치원",
+    "gps_lat": 37.59823941,
+    "gps_lon": 127.013421,
+    "radius_meters": 300
+  },
+  {
+    "name": "종암어린이집",
+    "gps_lat": 37.5997311,
+    "gps_lon": 127.0333264,
+    "radius_meters": 300
+  },
+  {
+    "name": "청덕병설유치원",
+    "gps_lat": 37.6120423,
+    "gps_lon": 127.0003392,
+    "radius_meters": 300
+  },
+  {
+    "name": "성신유치원",
+    "gps_lat": 37.59165365,
+    "gps_lon": 127.0221474,
+    "radius_meters": 300
+  },
+  {
+    "name": "길음성가어린이집",
+    "gps_lat": 37.60269641,
+    "gps_lon": 127.0209503,
+    "radius_meters": 300
+  },
+  {
+    "name": "연꽃어린이집",
+    "gps_lat": 37.6124264,
+    "gps_lon": 127.0134264,
+    "radius_meters": 300
+  },
+  {
+    "name": "영광어린이집",
+    "gps_lat": 37.6056621,
+    "gps_lon": 127.0383055,
+    "radius_meters": 300
+  },
+  {
+    "name": "한빛어린이집",
+    "gps_lat": 37.5910096,
+    "gps_lon": 127.0032284,
+    "radius_meters": 300
+  },
+  {
+    "name": "가람어린이집",
+    "gps_lat": 37.5983496,
+    "gps_lon": 127.0074133,
+    "radius_meters": 300
+  },
+  {
+    "name": "종암중앙어린이집",
+    "gps_lat": 37.5987021,
+    "gps_lon": 127.033713,
+    "radius_meters": 300
+  },
+  {
+    "name": "성북생명숲어린이집",
+    "gps_lat": 37.61603256,
+    "gps_lon": 127.0091835,
+    "radius_meters": 300
+  },
+  {
+    "name": "느티나무어린이집",
+    "gps_lat": 37.59796095,
+    "gps_lon": 127.0081186,
+    "radius_meters": 300
+  },
+  {
+    "name": "소리어린이집",
+    "gps_lat": 37.61121979,
+    "gps_lon": 127.0358485,
+    "radius_meters": 300
+  },
+  {
+    "name": "고려대학교어린이집",
+    "gps_lat": 37.58649222,
+    "gps_lon": 127.0309796,
+    "radius_meters": 300
+  },
+  {
+    "name": "길음빛어린이집",
+    "gps_lat": 37.6104727,
+    "gps_lon": 127.0194766,
+    "radius_meters": 300
+  },
+  {
+    "name": "장위어린이집",
+    "gps_lat": 37.609245,
+    "gps_lon": 127.0489291,
+    "radius_meters": 300
+  },
+  {
+    "name": "하은어린이집",
+    "gps_lat": 37.60889216,
+    "gps_lon": 127.0598976,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈터어린이집",
+    "gps_lat": 37.60504925,
+    "gps_lon": 127.0220094,
+    "radius_meters": 300
+  },
+  {
+    "name": "보문제일어린이집",
+    "gps_lat": 37.5798621,
+    "gps_lon": 127.0202744,
+    "radius_meters": 300
+  },
+  {
+    "name": "석관병설유치원",
+    "gps_lat": 37.61102341,
+    "gps_lon": 127.0583548,
+    "radius_meters": 300
+  },
+  {
+    "name": "선한유치원",
+    "gps_lat": 37.60398309,
+    "gps_lon": 127.0205883,
+    "radius_meters": 300
+  },
+  {
+    "name": "성북병설유치원",
+    "gps_lat": 37.59405236,
+    "gps_lon": 126.9987771,
+    "radius_meters": 300
+  },
+  {
+    "name": "베네딕도유치원",
+    "gps_lat": 37.59965547,
+    "gps_lon": 127.0158038,
+    "radius_meters": 300
+  },
+  {
+    "name": "새싹유치원",
+    "gps_lat": 37.60298573,
+    "gps_lon": 127.0142327,
+    "radius_meters": 300
+  },
+  {
+    "name": "영암유치원",
+    "gps_lat": 37.58236597,
+    "gps_lon": 127.0234341,
+    "radius_meters": 300
+  },
+  {
+    "name": "좋은소리유치원",
+    "gps_lat": 37.6083303,
+    "gps_lon": 127.0188388,
+    "radius_meters": 300
+  },
+  {
+    "name": "한가람유치원",
+    "gps_lat": 37.61630277,
+    "gps_lon": 127.010289,
+    "radius_meters": 300
+  },
+  {
+    "name": "개동유치원",
+    "gps_lat": 37.6157955,
+    "gps_lon": 127.0049727,
+    "radius_meters": 300
+  },
+  {
+    "name": "길원병설유치원",
+    "gps_lat": 37.60906528,
+    "gps_lon": 127.0167359,
+    "radius_meters": 300
+  },
+  {
+    "name": "길음단설유치원",
+    "gps_lat": 37.61363151,
+    "gps_lon": 127.0166585,
+    "radius_meters": 300
+  },
+  {
+    "name": "예린유치원",
+    "gps_lat": 37.60000168,
+    "gps_lon": 127.0323416,
+    "radius_meters": 300
+  },
+  {
+    "name": "영천유치원",
+    "gps_lat": 37.61412669,
+    "gps_lon": 127.0404596,
+    "radius_meters": 300
+  },
+  {
+    "name": "해뜨는유치원",
+    "gps_lat": 37.6048317,
+    "gps_lon": 127.0157068,
+    "radius_meters": 300
+  },
+  {
+    "name": "루이유치원",
+    "gps_lat": 37.60713001,
+    "gps_lon": 127.0163762,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울다원학교",
+    "gps_lat": 37.59394033,
+    "gps_lon": 126.9913627,
+    "radius_meters": 300
+  },
+  {
+    "name": "솔샘어린이집",
+    "gps_lat": 37.6137458,
+    "gps_lon": 127.0111087,
+    "radius_meters": 300
+  },
+  {
+    "name": "안암어린이집",
+    "gps_lat": 37.5856466,
+    "gps_lon": 127.0214146,
+    "radius_meters": 300
+  },
+  {
+    "name": "북악어린이집",
+    "gps_lat": 37.60980502,
+    "gps_lon": 127.0078342,
+    "radius_meters": 300
+  },
+  {
+    "name": "성북어린이집",
+    "gps_lat": 37.5896356,
+    "gps_lon": 127.0059087,
+    "radius_meters": 300
+  },
+  {
+    "name": "웅지어린이집",
+    "gps_lat": 37.6022014,
+    "gps_lon": 127.0212171,
+    "radius_meters": 300
+  },
+  {
+    "name": "짐랜드어린이집",
+    "gps_lat": 37.60390815,
+    "gps_lon": 127.0158033,
+    "radius_meters": 300
+  },
+  {
+    "name": "목화어린이집",
+    "gps_lat": 37.60440698,
+    "gps_lon": 127.0400044,
+    "radius_meters": 300
+  },
+  {
+    "name": "새싹어린이집",
+    "gps_lat": 37.60412684,
+    "gps_lon": 127.0370454,
+    "radius_meters": 300
+  },
+  {
+    "name": "미아초등학교",
+    "gps_lat": 37.6105142,
+    "gps_lon": 127.0216457,
+    "radius_meters": 300
+  },
+  {
+    "name": "성북초등학교",
+    "gps_lat": 37.59405236,
+    "gps_lon": 126.9987771,
+    "radius_meters": 300
+  },
+  {
+    "name": "성신초등학교",
+    "gps_lat": 37.59462313,
+    "gps_lon": 127.0231285,
+    "radius_meters": 300
+  },
+  {
+    "name": "숭곡초등학교",
+    "gps_lat": 37.6084672,
+    "gps_lon": 127.0328164,
+    "radius_meters": 300
+  },
+  {
+    "name": "숭덕초등학교",
+    "gps_lat": 37.60381836,
+    "gps_lon": 127.0132906,
+    "radius_meters": 300
+  },
+  {
+    "name": "정덕초등학교",
+    "gps_lat": 37.59823941,
+    "gps_lon": 127.013421,
+    "radius_meters": 300
+  },
+  {
+    "name": "장위초등학교",
+    "gps_lat": 37.6114417,
+    "gps_lon": 127.0500057,
+    "radius_meters": 300
+  },
+  {
+    "name": "광운초등학교",
+    "gps_lat": 37.61865113,
+    "gps_lon": 127.0551517,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼선초등학교",
+    "gps_lat": 37.58714288,
+    "gps_lon": 127.0126717,
+    "radius_meters": 300
+  },
+  {
+    "name": "석계초등학교",
+    "gps_lat": 37.60881522,
+    "gps_lon": 127.0697429,
+    "radius_meters": 300
+  },
+  {
+    "name": "일신초등학교",
+    "gps_lat": 37.59881357,
+    "gps_lon": 127.0401772,
+    "radius_meters": 300
+  },
+  {
+    "name": "장월초등학교",
+    "gps_lat": 37.62194118,
+    "gps_lon": 127.0471649,
+    "radius_meters": 300
+  },
+  {
+    "name": "숭인초등학교",
+    "gps_lat": 37.60916119,
+    "gps_lon": 127.0382348,
+    "radius_meters": 300
+  },
+  {
+    "name": "덕수유치원",
+    "gps_lat": 37.5940033,
+    "gps_lon": 126.9952986,
+    "radius_meters": 300
+  },
+  {
+    "name": "동덕유치원",
+    "gps_lat": 37.6062049,
+    "gps_lon": 127.0440045,
+    "radius_meters": 300
+  },
+  {
+    "name": "반디유치원",
+    "gps_lat": 37.59447253,
+    "gps_lon": 127.012706,
+    "radius_meters": 300
+  },
+  {
+    "name": "사랑유치원",
+    "gps_lat": 37.59989962,
+    "gps_lon": 127.0363501,
+    "radius_meters": 300
+  },
+  {
+    "name": "세아유치원",
+    "gps_lat": 37.59447253,
+    "gps_lon": 127.012706,
+    "radius_meters": 300
+  },
+  {
+    "name": "은영유치원",
+    "gps_lat": 37.5846232,
+    "gps_lon": 127.0166844,
+    "radius_meters": 300
+  },
+  {
+    "name": "탑주유치원",
+    "gps_lat": 37.60477971,
+    "gps_lon": 127.041073,
+    "radius_meters": 300
+  },
+  {
+    "name": "한마음유치원",
+    "gps_lat": 37.6161682,
+    "gps_lon": 127.0411878,
+    "radius_meters": 300
+  },
+  {
+    "name": "희망찬유치원",
+    "gps_lat": 37.59899113,
+    "gps_lon": 127.0231416,
+    "radius_meters": 300
+  },
+  {
+    "name": "나래유치원",
+    "gps_lat": 37.60954002,
+    "gps_lon": 127.0226511,
+    "radius_meters": 300
+  },
+  {
+    "name": "돈암병설유치원",
+    "gps_lat": 37.5937453,
+    "gps_lon": 127.0131031,
+    "radius_meters": 300
+  },
+  {
+    "name": "동선유치원",
+    "gps_lat": 37.58403157,
+    "gps_lon": 127.0203641,
+    "radius_meters": 300
+  },
+  {
+    "name": "동신병설유치원",
+    "gps_lat": 37.58328607,
+    "gps_lon": 127.0170593,
+    "radius_meters": 300
+  },
+  {
+    "name": "우촌초등학교",
+    "gps_lat": 37.59564089,
+    "gps_lon": 127.0114006,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼선병설유치원",
+    "gps_lat": 37.58714288,
+    "gps_lon": 127.0126717,
+    "radius_meters": 300
+  },
+  {
+    "name": "새삼선유치원",
+    "gps_lat": 37.58998063,
+    "gps_lon": 127.0059939,
+    "radius_meters": 300
+  },
+  {
+    "name": "돈암초등학교",
+    "gps_lat": 37.5937453,
+    "gps_lon": 127.0131031,
+    "radius_meters": 300
+  },
+  {
+    "name": "청덕초등학교",
+    "gps_lat": 37.6120423,
+    "gps_lon": 127.0003392,
+    "radius_meters": 300
+  },
+  {
+    "name": "숭례초등학교",
+    "gps_lat": 37.59452281,
+    "gps_lon": 127.0352968,
+    "radius_meters": 300
+  },
+  {
+    "name": "동신초등학교",
+    "gps_lat": 37.58328607,
+    "gps_lon": 127.0170593,
+    "radius_meters": 300
+  },
+  {
+    "name": "안암초등학교",
+    "gps_lat": 37.58715951,
+    "gps_lon": 127.0220989,
+    "radius_meters": 300
+  },
+  {
+    "name": "월곡초등학교",
+    "gps_lat": 37.61002333,
+    "gps_lon": 127.0460816,
+    "radius_meters": 300
+  },
+  {
+    "name": "길음초등학교",
+    "gps_lat": 37.61363151,
+    "gps_lon": 127.0166585,
+    "radius_meters": 300
+  },
+  {
+    "name": "석관초등학교",
+    "gps_lat": 37.61102341,
+    "gps_lon": 127.0583548,
+    "radius_meters": 300
+  },
+  {
+    "name": "장곡초등학교",
+    "gps_lat": 37.61683038,
+    "gps_lon": 127.0481563,
+    "radius_meters": 300
+  },
+  {
+    "name": "정릉초등학교",
+    "gps_lat": 37.61979533,
+    "gps_lon": 127.0052212,
+    "radius_meters": 300
+  },
+  {
+    "name": "정수초등학교",
+    "gps_lat": 37.60377561,
+    "gps_lon": 127.0077189,
+    "radius_meters": 300
+  },
+  {
+    "name": "개운초등학교",
+    "gps_lat": 37.60183731,
+    "gps_lon": 127.0275455,
+    "radius_meters": 300
+  },
+  {
+    "name": "길원초등학교",
+    "gps_lat": 37.60906528,
+    "gps_lon": 127.0167359,
+    "radius_meters": 300
+  },
+  {
+    "name": "대광초등학교",
+    "gps_lat": 37.57915122,
+    "gps_lon": 127.0234479,
+    "radius_meters": 300
+  },
+  {
+    "name": "매원초등학교",
+    "gps_lat": 37.59767468,
+    "gps_lon": 127.0191869,
+    "radius_meters": 300
+  },
+  {
+    "name": "선재어린이집",
+    "gps_lat": 37.50147751,
+    "gps_lon": 127.0563559,
+    "radius_meters": 300
+  },
+  {
+    "name": "성아어린이집",
+    "gps_lat": 37.484042,
+    "gps_lon": 127.043583,
+    "radius_meters": 300
+  },
+  {
+    "name": "청수어린이집",
+    "gps_lat": 37.525052,
+    "gps_lon": 127.049284,
+    "radius_meters": 300
+  },
+  {
+    "name": "강남구청어린이집",
+    "gps_lat": 37.51796636,
+    "gps_lon": 127.0470611,
+    "radius_meters": 300
+  },
+  {
+    "name": "구민회관어린이집",
+    "gps_lat": 37.493887,
+    "gps_lon": 127.0642704,
+    "radius_meters": 300
+  },
+  {
+    "name": "신사어린이집",
+    "gps_lat": 37.52212074,
+    "gps_lon": 127.0401134,
+    "radius_meters": 300
+  },
+  {
+    "name": "보미나어린이집",
+    "gps_lat": 37.51150308,
+    "gps_lon": 127.0285346,
+    "radius_meters": 300
+  },
+  {
+    "name": "청담어린이집",
+    "gps_lat": 37.52212074,
+    "gps_lon": 127.0401134,
+    "radius_meters": 300
+  },
+  {
+    "name": "역삼어린이집",
+    "gps_lat": 37.497106,
+    "gps_lon": 127.035679,
+    "radius_meters": 300
+  },
+  {
+    "name": "선우어린이집",
+    "gps_lat": 37.490733,
+    "gps_lon": 127.0385091,
+    "radius_meters": 300
+  },
+  {
+    "name": "수서어린이집",
+    "gps_lat": 37.486135,
+    "gps_lon": 127.099054,
+    "radius_meters": 300
+  },
+  {
+    "name": "일원어린이집",
+    "gps_lat": 37.483221,
+    "gps_lon": 127.078254,
+    "radius_meters": 300
+  },
+  {
+    "name": "압구정어린이집",
+    "gps_lat": 37.523923,
+    "gps_lon": 127.0322635,
+    "radius_meters": 300
+  },
+  {
+    "name": "GKL행복어린이집",
+    "gps_lat": 37.51043221,
+    "gps_lon": 127.051243,
+    "radius_meters": 300
+  },
+  {
+    "name": "영동초등학교",
+    "gps_lat": 37.527007,
+    "gps_lon": 126.907704,
+    "radius_meters": 300
+  },
+  {
+    "name": "여의도초등학교",
+    "gps_lat": 37.52320626,
+    "gps_lon": 126.936795,
+    "radius_meters": 300
+  },
+  {
+    "name": "문래초등학교",
+    "gps_lat": 37.51913876,
+    "gps_lon": 126.8936053,
+    "radius_meters": 300
+  },
+  {
+    "name": "당중초등학교",
+    "gps_lat": 37.52628887,
+    "gps_lon": 126.8894139,
+    "radius_meters": 300
+  },
+  {
+    "name": "당서초등학교",
+    "gps_lat": 37.53202852,
+    "gps_lon": 126.8998141,
+    "radius_meters": 300
+  },
+  {
+    "name": "당산초등학교",
+    "gps_lat": 37.54012002,
+    "gps_lon": 126.8962413,
+    "radius_meters": 300
+  },
+  {
+    "name": "영신초등학교",
+    "gps_lat": 37.51017349,
+    "gps_lon": 126.9181211,
+    "radius_meters": 300
+  },
+  {
+    "name": "압구정아람어린이집",
+    "gps_lat": 37.52934822,
+    "gps_lon": 127.0356146,
+    "radius_meters": 300
+  },
+  {
+    "name": "예지어린이집",
+    "gps_lat": 37.47352236,
+    "gps_lon": 127.0535087,
+    "radius_meters": 300
+  },
+  {
+    "name": "방죽어린이집",
+    "gps_lat": 37.4699202,
+    "gps_lon": 127.104503,
+    "radius_meters": 300
+  },
+  {
+    "name": "푸른어린이집",
+    "gps_lat": 37.47356078,
+    "gps_lon": 127.0998275,
+    "radius_meters": 300
+  },
+  {
+    "name": "바롬어린이집",
+    "gps_lat": 37.525305,
+    "gps_lon": 127.036309,
+    "radius_meters": 300
+  },
+  {
+    "name": "역삼가애어린이집",
+    "gps_lat": 37.494809,
+    "gps_lon": 127.044725,
+    "radius_meters": 300
+  },
+  {
+    "name": "대청어린이집",
+    "gps_lat": 37.490853,
+    "gps_lon": 127.083513,
+    "radius_meters": 300
+  },
+  {
+    "name": "충현어린이집",
+    "gps_lat": 37.50532685,
+    "gps_lon": 127.0376163,
+    "radius_meters": 300
+  },
+  {
+    "name": "세곡햇빛어린이집",
+    "gps_lat": 37.47538054,
+    "gps_lon": 127.1124974,
+    "radius_meters": 300
+  },
+  {
+    "name": "한울어린이집",
+    "gps_lat": 37.49590698,
+    "gps_lon": 127.0609998,
+    "radius_meters": 300
+  },
+  {
+    "name": "미담어린이집",
+    "gps_lat": 37.48402087,
+    "gps_lon": 127.0844599,
+    "radius_meters": 300
+  },
+  {
+    "name": "아이앤어린이집",
+    "gps_lat": 37.51002831,
+    "gps_lon": 127.0518427,
+    "radius_meters": 300
+  },
+  {
+    "name": "보람어린이집",
+    "gps_lat": 37.49438501,
+    "gps_lon": 127.06134,
+    "radius_meters": 300
+  },
+  {
+    "name": "대치동학원가",
+    "gps_lat": 37.49708841,
+    "gps_lon": 127.0548958,
+    "radius_meters": 300
+  },
+  {
+    "name": "신일유치원",
+    "gps_lat": 37.55539072,
+    "gps_lon": 127.011863,
+    "radius_meters": 300
+  },
+  {
+    "name": "한일유치원",
+    "gps_lat": 37.56280774,
+    "gps_lon": 127.020337,
+    "radius_meters": 300
+  },
+  {
+    "name": "단우물어린이집",
+    "gps_lat": 37.567262,
+    "gps_lon": 127.0182193,
+    "radius_meters": 300
+  },
+  {
+    "name": "필동어린이집",
+    "gps_lat": 37.557611,
+    "gps_lon": 126.995473,
+    "radius_meters": 300
+  },
+  {
+    "name": "중림어린이집",
+    "gps_lat": 37.55565837,
+    "gps_lon": 126.9677364,
+    "radius_meters": 300
+  },
+  {
+    "name": "경동어린이집",
+    "gps_lat": 37.56309561,
+    "gps_lon": 127.0072109,
+    "radius_meters": 300
+  },
+  {
+    "name": "미담어린이집",
+    "gps_lat": 37.56604198,
+    "gps_lon": 127.0217218,
+    "radius_meters": 300
+  },
+  {
+    "name": "햇살어린이집",
+    "gps_lat": 37.5565111,
+    "gps_lon": 127.0105133,
+    "radius_meters": 300
+  },
+  {
+    "name": "청구초등학교",
+    "gps_lat": 37.55911668,
+    "gps_lon": 127.0137244,
+    "radius_meters": 300
+  },
+  {
+    "name": "리라초등학교",
+    "gps_lat": 37.5578197,
+    "gps_lon": 126.9879807,
+    "radius_meters": 300
+  },
+  {
+    "name": "덕수초등학교",
+    "gps_lat": 37.56908852,
+    "gps_lon": 126.9746581,
+    "radius_meters": 300
+  },
+  {
+    "name": "광희초등학교",
+    "gps_lat": 37.56729901,
+    "gps_lon": 127.0156883,
+    "radius_meters": 300
+  },
+  {
+    "name": "충무초등학교",
+    "gps_lat": 37.56194835,
+    "gps_lon": 127.0012351,
+    "radius_meters": 300
+  },
+  {
+    "name": "봉래초등학교",
+    "gps_lat": 37.55641234,
+    "gps_lon": 126.9652506,
+    "radius_meters": 300
+  },
+  {
+    "name": "장충초등학교",
+    "gps_lat": 37.55997122,
+    "gps_lon": 127.0117048,
+    "radius_meters": 300
+  },
+  {
+    "name": "남산초등학교",
+    "gps_lat": 37.55978501,
+    "gps_lon": 126.986781,
+    "radius_meters": 300
+  },
+  {
+    "name": "흥인초등학교",
+    "gps_lat": 37.56087001,
+    "gps_lon": 127.0145555,
+    "radius_meters": 300
+  },
+  {
+    "name": "신당초등학교",
+    "gps_lat": 37.56362522,
+    "gps_lon": 127.0236739,
+    "radius_meters": 300
+  },
+  {
+    "name": "동산초등학교",
+    "gps_lat": 37.556387,
+    "gps_lon": 127.017391,
+    "radius_meters": 300
+  },
+  {
+    "name": "한성화교소학교",
+    "gps_lat": 37.56222092,
+    "gps_lon": 126.983765,
+    "radius_meters": 300
+  },
+  {
+    "name": "회현어린이집",
+    "gps_lat": 37.55586783,
+    "gps_lon": 126.9808721,
+    "radius_meters": 300
+  },
+  {
+    "name": "신당어린이집",
+    "gps_lat": 37.562236,
+    "gps_lon": 127.014143,
+    "radius_meters": 300
+  },
+  {
+    "name": "다산어린이집",
+    "gps_lat": 37.55431549,
+    "gps_lon": 127.0082945,
+    "radius_meters": 300
+  },
+  {
+    "name": "청구어린이집",
+    "gps_lat": 37.55721132,
+    "gps_lon": 127.0166957,
+    "radius_meters": 300
+  },
+  {
+    "name": "신당5동어린이집",
+    "gps_lat": 37.563011,
+    "gps_lon": 127.020756,
+    "radius_meters": 300
+  },
+  {
+    "name": "동화나라어린이집",
+    "gps_lat": 37.56154292,
+    "gps_lon": 127.0192954,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울직장어린이집",
+    "gps_lat": 37.56393448,
+    "gps_lon": 126.9731115,
+    "radius_meters": 300
+  },
+  {
+    "name": "황학어린이집",
+    "gps_lat": 37.56877864,
+    "gps_lon": 127.022328,
+    "radius_meters": 300
+  },
+  {
+    "name": "약수어린이집",
+    "gps_lat": 37.55232648,
+    "gps_lon": 127.0092394,
+    "radius_meters": 300
+  },
+  {
+    "name": "약수교회어린이집",
+    "gps_lat": 37.5525617,
+    "gps_lon": 127.0109232,
+    "radius_meters": 300
+  },
+  {
+    "name": "한솔어린이집",
+    "gps_lat": 37.54716803,
+    "gps_lon": 127.0056761,
+    "radius_meters": 300
+  },
+  {
+    "name": "세운어린이집",
+    "gps_lat": 37.568217,
+    "gps_lon": 126.994433,
+    "radius_meters": 300
+  },
+  {
+    "name": "남산숲어린이집",
+    "gps_lat": 37.546567,
+    "gps_lon": 127.008951,
+    "radius_meters": 300
+  },
+  {
+    "name": "가명유치원",
+    "gps_lat": 37.55879188,
+    "gps_lon": 126.9671388,
+    "radius_meters": 300
+  },
+  {
+    "name": "근화유치원",
+    "gps_lat": 37.55901191,
+    "gps_lon": 127.0089631,
+    "radius_meters": 300
+  },
+  {
+    "name": "수암유치원",
+    "gps_lat": 37.54716803,
+    "gps_lon": 127.0056761,
+    "radius_meters": 300
+  },
+  {
+    "name": "사랑",
+    "gps_lat": 37.6654300761,
+    "gps_lon": 127.0466689346,
+    "radius_meters": 300
+  },
+  {
+    "name": "선아",
+    "gps_lat": 37.6485286,
+    "gps_lon": 127.0440451,
+    "radius_meters": 300
+  },
+  {
+    "name": "신창",
+    "gps_lat": 37.6413368,
+    "gps_lon": 127.0409612,
+    "radius_meters": 300
+  },
+  {
+    "name": "지현",
+    "gps_lat": 37.6863357,
+    "gps_lon": 127.043941,
+    "radius_meters": 300
+  },
+  {
+    "name": "현대",
+    "gps_lat": 37.654152,
+    "gps_lon": 127.01395,
+    "radius_meters": 300
+  },
+  {
+    "name": "선희",
+    "gps_lat": 37.6575825684,
+    "gps_lon": 127.029886915,
+    "radius_meters": 300
+  },
+  {
+    "name": "한볕",
+    "gps_lat": 37.642922788,
+    "gps_lon": 127.0387778224,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈밭",
+    "gps_lat": 37.6583039096,
+    "gps_lon": 127.0276070186,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼풍",
+    "gps_lat": 37.656749,
+    "gps_lon": 127.0456386,
+    "radius_meters": 300
+  },
+  {
+    "name": "천사",
+    "gps_lat": 37.6586809094,
+    "gps_lon": 127.0330968573,
+    "radius_meters": 300
+  },
+  {
+    "name": "자연",
+    "gps_lat": 37.6608707801,
+    "gps_lon": 127.0475002126,
+    "radius_meters": 300
+  },
+  {
+    "name": "정의",
+    "gps_lat": 37.6529105,
+    "gps_lon": 127.0318063,
+    "radius_meters": 300
+  },
+  {
+    "name": "청아",
+    "gps_lat": 37.6568264215,
+    "gps_lon": 127.0493335342,
+    "radius_meters": 300
+  },
+  {
+    "name": "햇살",
+    "gps_lat": 37.6492018,
+    "gps_lon": 127.0252286,
+    "radius_meters": 300
+  },
+  {
+    "name": "한사랑",
+    "gps_lat": 37.650390623,
+    "gps_lon": 127.04733036,
+    "radius_meters": 300
+  },
+  {
+    "name": "도봉초병설",
+    "gps_lat": 37.6793783,
+    "gps_lon": 127.038218,
+    "radius_meters": 300
+  },
+  {
+    "name": "신창초병설",
+    "gps_lat": 37.6361731,
+    "gps_lon": 127.0421969,
+    "radius_meters": 300
+  },
+  {
+    "name": "창동초병설",
+    "gps_lat": 37.6551924,
+    "gps_lon": 127.0446861,
+    "radius_meters": 300
+  },
+  {
+    "name": "해맑은",
+    "gps_lat": 37.6565427,
+    "gps_lon": 127.015283,
+    "radius_meters": 300
+  },
+  {
+    "name": "쌍문2동",
+    "gps_lat": 37.6528547,
+    "gps_lon": 127.0430751,
+    "radius_meters": 300
+  },
+  {
+    "name": "쌍문삼성",
+    "gps_lat": 37.6509601,
+    "gps_lon": 127.0344914,
+    "radius_meters": 300
+  },
+  {
+    "name": "예그린",
+    "gps_lat": 37.6510868,
+    "gps_lon": 127.0305925,
+    "radius_meters": 300
+  },
+  {
+    "name": "신예원",
+    "gps_lat": 37.6648067,
+    "gps_lon": 127.0410685,
+    "radius_meters": 300
+  },
+  {
+    "name": "예원키즈",
+    "gps_lat": 37.6652429,
+    "gps_lon": 127.0373617,
+    "radius_meters": 300
+  },
+  {
+    "name": "리라",
+    "gps_lat": 37.663909,
+    "gps_lon": 127.0337501,
+    "radius_meters": 300
+  },
+  {
+    "name": "경일",
+    "gps_lat": 37.6664179,
+    "gps_lon": 127.0349032,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초이화어린이집",
+    "gps_lat": 37.494279,
+    "gps_lon": 126.986743,
+    "radius_meters": 300
+  },
+  {
+    "name": "방배1동숲어린이집",
+    "gps_lat": 37.486797,
+    "gps_lon": 126.995785,
+    "radius_meters": 300
+  },
+  {
+    "name": "방배서리풀어린이집",
+    "gps_lat": 37.489295,
+    "gps_lon": 126.995292,
+    "radius_meters": 300
+  },
+  {
+    "name": "까리따스",
+    "gps_lat": 37.474911,
+    "gps_lon": 126.9843744,
+    "radius_meters": 300
+  },
+  {
+    "name": "방배그랑자이",
+    "gps_lat": 37.47647535,
+    "gps_lon": 126.9997849,
+    "radius_meters": 300
+  },
+  {
+    "name": "반포센트럴자이",
+    "gps_lat": 37.50686413,
+    "gps_lon": 127.0018412,
+    "radius_meters": 300
+  },
+  {
+    "name": "코리아외국인학교",
+    "gps_lat": 37.48468977,
+    "gps_lon": 127.041061,
+    "radius_meters": 300
+  },
+  {
+    "name": "SOT어학원",
+    "gps_lat": 37.499932,
+    "gps_lon": 127.010964,
+    "radius_meters": 300
+  },
+  {
+    "name": "신반포중앙유치원",
+    "gps_lat": 37.510455744,
+    "gps_lon": 127.012566,
+    "radius_meters": 300
+  },
+  {
+    "name": "반포종합사회복지관 사랑의",
+    "gps_lat": 37.509988,
+    "gps_lon": 127.010958,
+    "radius_meters": 300
+  },
+  {
+    "name": "양재복지관",
+    "gps_lat": 37.48452702,
+    "gps_lon": 127.036187,
+    "radius_meters": 300
+  },
+  {
+    "name": "양재별하",
+    "gps_lat": 37.471941,
+    "gps_lon": 127.049397,
+    "radius_meters": 300
+  },
+  {
+    "name": "니꼴라오",
+    "gps_lat": 37.472065,
+    "gps_lon": 127.048168,
+    "radius_meters": 300
+  },
+  {
+    "name": "양재목련",
+    "gps_lat": 37.473446,
+    "gps_lon": 127.046495,
+    "radius_meters": 300
+  },
+  {
+    "name": "방배4동",
+    "gps_lat": 37.487828,
+    "gps_lon": 126.991262,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초1동하은",
+    "gps_lat": 37.493179,
+    "gps_lon": 127.018267,
+    "radius_meters": 300
+  },
+  {
+    "name": "도구머리",
+    "gps_lat": 37.478623,
+    "gps_lon": 126.987193,
+    "radius_meters": 300
+  },
+  {
+    "name": "내곡연두",
+    "gps_lat": 37.45501964,
+    "gps_lon": 127.0648467,
+    "radius_meters": 300
+  },
+  {
+    "name": "방배본동 행복한",
+    "gps_lat": 37.495021,
+    "gps_lon": 126.985489,
+    "radius_meters": 300
+  },
+  {
+    "name": "방배",
+    "gps_lat": 37.485092,
+    "gps_lon": 126.993052,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초구립예아",
+    "gps_lat": 37.482379,
+    "gps_lon": 126.984571,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초구립방배열린",
+    "gps_lat": 37.489006,
+    "gps_lon": 126.992243,
+    "radius_meters": 300
+  },
+  {
+    "name": "현대양재",
+    "gps_lat": 37.462332,
+    "gps_lon": 127.052131,
+    "radius_meters": 300
+  },
+  {
+    "name": "누리아미",
+    "gps_lat": 37.502714,
+    "gps_lon": 127.022212,
+    "radius_meters": 300
+  },
+  {
+    "name": "나래학교",
+    "gps_lat": 37.46402498,
+    "gps_lon": 127.0514985,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼성알앤디캠퍼스",
+    "gps_lat": 37.465706,
+    "gps_lon": 127.0212623,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초",
+    "gps_lat": 37.499048,
+    "gps_lon": 127.024893,
+    "radius_meters": 300
+  },
+  {
+    "name": "어진",
+    "gps_lat": 37.461785,
+    "gps_lon": 127.0249631,
+    "radius_meters": 300
+  },
+  {
+    "name": "서정",
+    "gps_lat": 37.48076743,
+    "gps_lon": 126.9827869,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초구청직장",
+    "gps_lat": 37.486422,
+    "gps_lon": 127.03142,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초성모",
+    "gps_lat": 37.501027,
+    "gps_lon": 127.009552,
+    "radius_meters": 300
+  },
+  {
+    "name": "하나푸르니 반포",
+    "gps_lat": 37.501346,
+    "gps_lon": 127.010748,
+    "radius_meters": 300
+  },
+  {
+    "name": "샤이닝키즈",
+    "gps_lat": 37.495091,
+    "gps_lon": 127.026805,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초1삼성",
+    "gps_lat": 37.49663336,
+    "gps_lon": 127.026927,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초2삼성",
+    "gps_lat": 37.496741,
+    "gps_lon": 127.025752,
+    "radius_meters": 300
+  },
+  {
+    "name": "계성",
+    "gps_lat": 37.504915,
+    "gps_lon": 126.996824,
+    "radius_meters": 300
+  },
+  {
+    "name": "덜위치칼리지서울영국학교",
+    "gps_lat": 37.50429038,
+    "gps_lon": 126.9953408,
+    "radius_meters": 300
+  },
+  {
+    "name": "신반포육아지원센터",
+    "gps_lat": 37.50626532,
+    "gps_lon": 126.9961242,
+    "radius_meters": 300
+  },
+  {
+    "name": "영생",
+    "gps_lat": 37.505005,
+    "gps_lon": 126.995664,
+    "radius_meters": 300
+  },
+  {
+    "name": "우솔",
+    "gps_lat": 37.45709422,
+    "gps_lon": 127.0192756,
+    "radius_meters": 300
+  },
+  {
+    "name": "우솔초교병설",
+    "gps_lat": 37.45709422,
+    "gps_lon": 127.0192756,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초",
+    "gps_lat": 37.456085,
+    "gps_lon": 127.016217,
+    "radius_meters": 300
+  },
+  {
+    "name": "서원",
+    "gps_lat": 37.502438,
+    "gps_lon": 127.014621,
+    "radius_meters": 300
+  },
+  {
+    "name": "원명",
+    "gps_lat": 37.500776,
+    "gps_lon": 127.016706,
+    "radius_meters": 300
+  },
+  {
+    "name": "원명초교병설",
+    "gps_lat": 37.500776,
+    "gps_lon": 127.016706,
+    "radius_meters": 300
+  },
+  {
+    "name": "서래",
+    "gps_lat": 37.496405,
+    "gps_lon": 126.990157,
+    "radius_meters": 300
+  },
+  {
+    "name": "서래초교병설",
+    "gps_lat": 37.496405,
+    "gps_lon": 126.990157,
+    "radius_meters": 300
+  },
+  {
+    "name": "방배",
+    "gps_lat": 37.486764,
+    "gps_lon": 126.987137,
+    "radius_meters": 300
+  },
+  {
+    "name": "방배초교병설",
+    "gps_lat": 37.486764,
+    "gps_lon": 126.987137,
+    "radius_meters": 300
+  },
+  {
+    "name": "새순",
+    "gps_lat": 37.489064,
+    "gps_lon": 126.98858,
+    "radius_meters": 300
+  },
+  {
+    "name": "아람마주이야기",
+    "gps_lat": 37.49079911,
+    "gps_lon": 126.98651,
+    "radius_meters": 300
+  },
+  {
+    "name": "아가야",
+    "gps_lat": 37.488085,
+    "gps_lon": 126.987072,
+    "radius_meters": 300
+  },
+  {
+    "name": "원촌",
+    "gps_lat": 37.506186,
+    "gps_lon": 127.012568,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초구립 반포1동주민센터",
+    "gps_lat": 37.50509404,
+    "gps_lon": 127.0133786,
+    "radius_meters": 300
+  },
+  {
+    "name": "산성몬테소리",
+    "gps_lat": 37.505245,
+    "gps_lon": 127.0110376,
+    "radius_meters": 300
+  },
+  {
+    "name": "매헌",
+    "gps_lat": 37.471264,
+    "gps_lon": 127.042077,
+    "radius_meters": 300
+  },
+  {
+    "name": "반원",
+    "gps_lat": 37.510312,
+    "gps_lon": 127.0040022,
+    "radius_meters": 300
+  },
+  {
+    "name": "한신",
+    "gps_lat": 37.5093605,
+    "gps_lon": 127.004997,
+    "radius_meters": 300
+  },
+  {
+    "name": "예뜰어린이집",
+    "gps_lat": 37.526346,
+    "gps_lon": 126.857032,
+    "radius_meters": 300
+  },
+  {
+    "name": "넓은들어린이집",
+    "gps_lat": 37.51335106,
+    "gps_lon": 126.829358,
+    "radius_meters": 300
+  },
+  {
+    "name": "푸르미어린이집",
+    "gps_lat": 37.523505,
+    "gps_lon": 126.837462,
+    "radius_meters": 300
+  },
+  {
+    "name": "청운어린이집",
+    "gps_lat": 37.513863,
+    "gps_lon": 126.842403,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립목2동어린이집",
+    "gps_lat": 37.544903,
+    "gps_lon": 126.871105,
+    "radius_meters": 300
+  },
+  {
+    "name": "신월이화어린이집",
+    "gps_lat": 37.52243922,
+    "gps_lon": 126.830175,
+    "radius_meters": 300
+  },
+  {
+    "name": "파랑새어린이집",
+    "gps_lat": 37.522106,
+    "gps_lon": 126.835885,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초구립 서울교육대학교사향",
+    "gps_lat": 37.491767,
+    "gps_lon": 127.018079,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초남서울",
+    "gps_lat": 37.506831,
+    "gps_lon": 127.000883,
+    "radius_meters": 300
+  },
+  {
+    "name": "남태령",
+    "gps_lat": 37.465897,
+    "gps_lon": 126.98878,
+    "radius_meters": 300
+  },
+  {
+    "name": "다니엘학교",
+    "gps_lat": 37.460163,
+    "gps_lon": 127.092318,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울청계숲",
+    "gps_lat": 37.447737,
+    "gps_lon": 127.057744,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울프랑스학교",
+    "gps_lat": 37.49582982,
+    "gps_lon": 126.9978408,
+    "radius_meters": 300
+  },
+  {
+    "name": "서이",
+    "gps_lat": 37.491566,
+    "gps_lon": 127.025619,
+    "radius_meters": 300
+  },
+  {
+    "name": "언남",
+    "gps_lat": 37.453898,
+    "gps_lon": 127.06143,
+    "radius_meters": 300
+  },
+  {
+    "name": "언남초교병설",
+    "gps_lat": 37.453898,
+    "gps_lon": 127.06143,
+    "radius_meters": 300
+  },
+  {
+    "name": "우면",
+    "gps_lat": 37.464709,
+    "gps_lon": 127.023746,
+    "radius_meters": 300
+  },
+  {
+    "name": "우면초교병설",
+    "gps_lat": 37.464709,
+    "gps_lon": 127.023746,
+    "radius_meters": 300
+  },
+  {
+    "name": "우암",
+    "gps_lat": 37.472296,
+    "gps_lon": 127.023722,
+    "radius_meters": 300
+  },
+  {
+    "name": "우암초교병설",
+    "gps_lat": 37.472296,
+    "gps_lon": 127.023722,
+    "radius_meters": 300
+  },
+  {
+    "name": "이수",
+    "gps_lat": 37.47832,
+    "gps_lon": 126.984416,
+    "radius_meters": 300
+  },
+  {
+    "name": "구룡",
+    "gps_lat": 37.471103,
+    "gps_lon": 127.049171,
+    "radius_meters": 300
+  },
+  {
+    "name": "방현",
+    "gps_lat": 37.476504,
+    "gps_lon": 126.990074,
+    "radius_meters": 300
+  },
+  {
+    "name": "서일",
+    "gps_lat": 37.485296,
+    "gps_lon": 127.022161,
+    "radius_meters": 300
+  },
+  {
+    "name": "신중",
+    "gps_lat": 37.48015788,
+    "gps_lon": 127.0093433,
+    "radius_meters": 300
+  },
+  {
+    "name": "양재",
+    "gps_lat": 37.474164,
+    "gps_lon": 127.031894,
+    "radius_meters": 300
+  },
+  {
+    "name": "천사",
+    "gps_lat": 37.474356,
+    "gps_lon": 127.03118,
+    "radius_meters": 300
+  },
+  {
+    "name": "방일",
+    "gps_lat": 37.485204,
+    "gps_lon": 126.998851,
+    "radius_meters": 300
+  },
+  {
+    "name": "잠원",
+    "gps_lat": 37.501859,
+    "gps_lon": 126.998053,
+    "radius_meters": 300
+  },
+  {
+    "name": "석문",
+    "gps_lat": 37.49288569,
+    "gps_lon": 127.0217401,
+    "radius_meters": 300
+  },
+  {
+    "name": "새성민",
+    "gps_lat": 37.480657,
+    "gps_lon": 126.996119,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초",
+    "gps_lat": 37.47463,
+    "gps_lon": 127.000248,
+    "radius_meters": 300
+  },
+  {
+    "name": "반포1동",
+    "gps_lat": 37.51000049,
+    "gps_lon": 127.018467,
+    "radius_meters": 300
+  },
+  {
+    "name": "장미",
+    "gps_lat": 37.484157,
+    "gps_lon": 127.028411,
+    "radius_meters": 300
+  },
+  {
+    "name": "신동",
+    "gps_lat": 37.517128,
+    "gps_lon": 127.011389,
+    "radius_meters": 300
+  },
+  {
+    "name": "하나",
+    "gps_lat": 37.515207,
+    "gps_lon": 127.010218,
+    "radius_meters": 300
+  },
+  {
+    "name": "푸르니서초",
+    "gps_lat": 37.48744,
+    "gps_lon": 127.023817,
+    "radius_meters": 300
+  },
+  {
+    "name": "반포",
+    "gps_lat": 37.497029,
+    "gps_lon": 126.996775,
+    "radius_meters": 300
+  },
+  {
+    "name": "반포서래",
+    "gps_lat": 37.497438,
+    "gps_lon": 127.000304,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울교대부설",
+    "gps_lat": 37.49074049,
+    "gps_lon": 127.0154245,
+    "radius_meters": 300
+  },
+  {
+    "name": "서초연꽃",
+    "gps_lat": 37.491767,
+    "gps_lon": 127.018079,
+    "radius_meters": 300
+  },
+  {
+    "name": "상명초등학교",
+    "gps_lat": 37.6487233,
+    "gps_lon": 127.066969,
+    "radius_meters": 300
+  },
+  {
+    "name": "청계초등학교",
+    "gps_lat": 37.64503334,
+    "gps_lon": 127.0661408,
+    "radius_meters": 300
+  },
+  {
+    "name": "연지초등학교",
+    "gps_lat": 37.63319071,
+    "gps_lon": 127.0595368,
+    "radius_meters": 300
+  },
+  {
+    "name": "용원초등학교",
+    "gps_lat": 37.62992402,
+    "gps_lon": 127.0689414,
+    "radius_meters": 300
+  },
+  {
+    "name": "중평초등학교",
+    "gps_lat": 37.63753475,
+    "gps_lon": 127.0639634,
+    "radius_meters": 300
+  },
+  {
+    "name": "태랑초등학교",
+    "gps_lat": 37.62625137,
+    "gps_lon": 127.0906018,
+    "radius_meters": 300
+  },
+  {
+    "name": "태강삼육초등학교",
+    "gps_lat": 37.64335827,
+    "gps_lon": 127.1088514,
+    "radius_meters": 300
+  },
+  {
+    "name": "화랑초등학교",
+    "gps_lat": 37.626918,
+    "gps_lon": 127.093803,
+    "radius_meters": 300
+  },
+  {
+    "name": "공릉초등학교",
+    "gps_lat": 37.61861498,
+    "gps_lon": 127.0746307,
+    "radius_meters": 300
+  },
+  {
+    "name": "중원초등학교",
+    "gps_lat": 37.64398283,
+    "gps_lon": 127.0627678,
+    "radius_meters": 300
+  },
+  {
+    "name": "원광초등학교",
+    "gps_lat": 37.65431182,
+    "gps_lon": 127.0749157,
+    "radius_meters": 300
+  },
+  {
+    "name": "국풍2000학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "모멘텀아스트라학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "소마사고력수학학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "아발론랭콘중계어학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "알로곤영재센터학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "올림피아드영재센터학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "조재필 수학학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "중계덕스어학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "중계미래탐구초등연재센터학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "중계세일입시학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "청담어학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "최선어학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "토피아",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "하이레벨수학전문학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "CMS중계중등영재2관학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "TOPIAenglishzone어학학원",
+    "gps_lat": 37.65082981,
+    "gps_lon": 127.0778147,
+    "radius_meters": 300
+  },
+  {
+    "name": "크레용미술학원",
+    "gps_lat": 37.65219729,
+    "gps_lon": 127.0724355,
+    "radius_meters": 300
+  },
+  {
+    "name": "페디아플러스 중계학원",
+    "gps_lat": 37.65219729,
+    "gps_lon": 127.0724355,
+    "radius_meters": 300
+  },
+  {
+    "name": "웅진북클럽 학습센터 중계학원",
+    "gps_lat": 37.65219729,
+    "gps_lon": 127.0724355,
+    "radius_meters": 300
+  },
+  {
+    "name": "씨앤에이논술보습학원",
+    "gps_lat": 37.65219729,
+    "gps_lon": 127.0724355,
+    "radius_meters": 300
+  },
+  {
+    "name": "두솔유치원",
+    "gps_lat": 37.629541,
+    "gps_lon": 127.054129,
+    "radius_meters": 300
+  },
+  {
+    "name": "다연유치원",
+    "gps_lat": 37.63175975,
+    "gps_lon": 127.0523395,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈터유치원",
+    "gps_lat": 37.672736,
+    "gps_lon": 127.060062,
+    "radius_meters": 300
+  },
+  {
+    "name": "꽃동산유치원",
+    "gps_lat": 37.6307787,
+    "gps_lon": 127.0739994,
+    "radius_meters": 300
+  },
+  {
+    "name": "청원유치원",
+    "gps_lat": 37.664624,
+    "gps_lon": 127.065958,
+    "radius_meters": 300
+  },
+  {
+    "name": "초안유치원",
+    "gps_lat": 37.63067857,
+    "gps_lon": 127.0434525,
+    "radius_meters": 300
+  },
+  {
+    "name": "고운유치원",
+    "gps_lat": 37.6440346,
+    "gps_lon": 127.0669285,
+    "radius_meters": 300
+  },
+  {
+    "name": "동화나라유치원",
+    "gps_lat": 37.66669216,
+    "gps_lon": 127.0791264,
+    "radius_meters": 300
+  },
+  {
+    "name": "까치유치원",
+    "gps_lat": 37.65624847,
+    "gps_lon": 127.0727826,
+    "radius_meters": 300
+  },
+  {
+    "name": "선덕유치원",
+    "gps_lat": 37.6330641,
+    "gps_lon": 127.0671226,
+    "radius_meters": 300
+  },
+  {
+    "name": "학여울유치원",
+    "gps_lat": 37.63724446,
+    "gps_lon": 127.0608678,
+    "radius_meters": 300
+  },
+  {
+    "name": "한성유치원",
+    "gps_lat": 37.64058736,
+    "gps_lon": 127.0759806,
+    "radius_meters": 300
+  },
+  {
+    "name": "사라유치원",
+    "gps_lat": 37.629848,
+    "gps_lon": 127.0726209,
+    "radius_meters": 300
+  },
+  {
+    "name": "성실유치원",
+    "gps_lat": 37.63894724,
+    "gps_lon": 127.0707082,
+    "radius_meters": 300
+  },
+  {
+    "name": "보고유치원",
+    "gps_lat": 37.61960009,
+    "gps_lon": 127.061381,
+    "radius_meters": 300
+  },
+  {
+    "name": "아이디유치원",
+    "gps_lat": 37.65916904,
+    "gps_lon": 127.057173,
+    "radius_meters": 300
+  },
+  {
+    "name": "성희유치원",
+    "gps_lat": 37.65081562,
+    "gps_lon": 127.0561513,
+    "radius_meters": 300
+  },
+  {
+    "name": "연세유치원",
+    "gps_lat": 37.63828504,
+    "gps_lon": 127.0627132,
+    "radius_meters": 300
+  },
+  {
+    "name": "상원유치원",
+    "gps_lat": 37.64348576,
+    "gps_lon": 127.0687546,
+    "radius_meters": 300
+  },
+  {
+    "name": "연지유치원",
+    "gps_lat": 37.6326653338,
+    "gps_lon": 127.0608255659,
+    "radius_meters": 300
+  },
+  {
+    "name": "예진유치원",
+    "gps_lat": 37.62802146,
+    "gps_lon": 127.0683959,
+    "radius_meters": 300
+  },
+  {
+    "name": "노일유치원",
+    "gps_lat": 37.67260103,
+    "gps_lon": 127.0535508,
+    "radius_meters": 300
+  },
+  {
+    "name": "덕암초등학교",
+    "gps_lat": 37.6666221,
+    "gps_lon": 127.081468,
+    "radius_meters": 300
+  },
+  {
+    "name": "수암초등학교",
+    "gps_lat": 37.64769427,
+    "gps_lon": 127.0814631,
+    "radius_meters": 300
+  },
+  {
+    "name": "계상초등학교",
+    "gps_lat": 37.66219741,
+    "gps_lon": 127.0686766,
+    "radius_meters": 300
+  },
+  {
+    "name": "청원초등학교",
+    "gps_lat": 37.66525335,
+    "gps_lon": 127.0625319,
+    "radius_meters": 300
+  },
+  {
+    "name": "상곡초등학교",
+    "gps_lat": 37.66290383,
+    "gps_lon": 127.0620766,
+    "radius_meters": 300
+  },
+  {
+    "name": "온곡초등학교",
+    "gps_lat": 37.66754054,
+    "gps_lon": 127.0659114,
+    "radius_meters": 300
+  },
+  {
+    "name": "수락초등학교",
+    "gps_lat": 37.68450193,
+    "gps_lon": 127.0551836,
+    "radius_meters": 300
+  },
+  {
+    "name": "상천초등학교",
+    "gps_lat": 37.646282,
+    "gps_lon": 127.0578068,
+    "radius_meters": 300
+  },
+  {
+    "name": "당현초등학교",
+    "gps_lat": 37.64825944,
+    "gps_lon": 127.0582117,
+    "radius_meters": 300
+  },
+  {
+    "name": "충신교회어린이집",
+    "gps_lat": 37.52052298,
+    "gps_lon": 126.9677697,
+    "radius_meters": 300
+  },
+  {
+    "name": "동빙고어린이집",
+    "gps_lat": 37.52360144,
+    "gps_lon": 126.9940089,
+    "radius_meters": 300
+  },
+  {
+    "name": "이태원삼성어린이집",
+    "gps_lat": 37.53534696,
+    "gps_lon": 126.9953973,
+    "radius_meters": 300
+  },
+  {
+    "name": "한남어린이집",
+    "gps_lat": 37.53456498,
+    "gps_lon": 127.0004933,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립맑은숲 어린이집",
+    "gps_lat": 37.54503816,
+    "gps_lon": 127.0032951,
+    "radius_meters": 300
+  },
+  {
+    "name": "용산국제학교",
+    "gps_lat": 37.54102695,
+    "gps_lon": 127.001136,
+    "radius_meters": 300
+  },
+  {
+    "name": "독일인학교",
+    "gps_lat": 37.53781156,
+    "gps_lon": 127.012161,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼광초교",
+    "gps_lat": 37.5477533,
+    "gps_lon": 126.9765936,
+    "radius_meters": 300
+  },
+  {
+    "name": "신광초교",
+    "gps_lat": 37.53859775,
+    "gps_lon": 126.9703507,
+    "radius_meters": 300
+  },
+  {
+    "name": "용산초교",
+    "gps_lat": 37.53561344,
+    "gps_lon": 126.9725506,
+    "radius_meters": 300
+  },
+  {
+    "name": "한강초교",
+    "gps_lat": 37.52522617,
+    "gps_lon": 126.9650994,
+    "radius_meters": 300
+  },
+  {
+    "name": "충신유치원",
+    "gps_lat": 37.52049032,
+    "gps_lon": 126.9729806,
+    "radius_meters": 300
+  },
+  {
+    "name": "일민유치원",
+    "gps_lat": 37.53443266,
+    "gps_lon": 126.9501826,
+    "radius_meters": 300
+  },
+  {
+    "name": "도원유치원",
+    "gps_lat": 37.53877767,
+    "gps_lon": 126.9578633,
+    "radius_meters": 300
+  },
+  {
+    "name": "복자유치원",
+    "gps_lat": 37.55200632,
+    "gps_lon": 126.9781812,
+    "radius_meters": 300
+  },
+  {
+    "name": "강변유치원",
+    "gps_lat": 37.51833758,
+    "gps_lon": 126.9774173,
+    "radius_meters": 300
+  },
+  {
+    "name": "한가람유치원",
+    "gps_lat": 37.51952037,
+    "gps_lon": 126.981263,
+    "radius_meters": 300
+  },
+  {
+    "name": "계성유치원",
+    "gps_lat": 37.53586046,
+    "gps_lon": 126.9527815,
+    "radius_meters": 300
+  },
+  {
+    "name": "대건유치원",
+    "gps_lat": 37.52071271,
+    "gps_lon": 126.9778555,
+    "radius_meters": 300
+  },
+  {
+    "name": "원유치원",
+    "gps_lat": 37.5196486,
+    "gps_lon": 126.9768168,
+    "radius_meters": 300
+  },
+  {
+    "name": "이촌어린이집",
+    "gps_lat": 37.52695898,
+    "gps_lon": 126.9545216,
+    "radius_meters": 300
+  },
+  {
+    "name": "보광어린이집",
+    "gps_lat": 37.52880939,
+    "gps_lon": 127.0009367,
+    "radius_meters": 300
+  },
+  {
+    "name": "고은초등학교",
+    "gps_lat": 37.585093,
+    "gps_lon": 126.9439749,
+    "radius_meters": 300
+  },
+  {
+    "name": "명지초등학교",
+    "gps_lat": 37.58362994,
+    "gps_lon": 126.9282315,
+    "radius_meters": 300
+  },
+  {
+    "name": "북가좌초등학교",
+    "gps_lat": 37.57722021,
+    "gps_lon": 126.9077782,
+    "radius_meters": 300
+  },
+  {
+    "name": "연가초등학교",
+    "gps_lat": 37.5795632,
+    "gps_lon": 126.9173292,
+    "radius_meters": 300
+  },
+  {
+    "name": "이대부속초등학교",
+    "gps_lat": 37.56115022,
+    "gps_lon": 126.9427751,
+    "radius_meters": 300
+  },
+  {
+    "name": "인왕초등학교",
+    "gps_lat": 37.59021988,
+    "gps_lon": 126.9448045,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍제초등학교",
+    "gps_lat": 37.59350546,
+    "gps_lon": 126.9454205,
+    "radius_meters": 300
+  },
+  {
+    "name": "금화초등학교",
+    "gps_lat": 37.568806,
+    "gps_lon": 126.9629414,
+    "radius_meters": 300
+  },
+  {
+    "name": "창서초등학교",
+    "gps_lat": 37.55814305,
+    "gps_lon": 126.9334809,
+    "radius_meters": 300
+  },
+  {
+    "name": "추계초등학교",
+    "gps_lat": 37.56317672,
+    "gps_lon": 126.9540593,
+    "radius_meters": 300
+  },
+  {
+    "name": "경기초등학교",
+    "gps_lat": 37.56511029,
+    "gps_lon": 126.9628606,
+    "radius_meters": 300
+  },
+  {
+    "name": "대신초등학교",
+    "gps_lat": 37.557969,
+    "gps_lon": 126.9480572,
+    "radius_meters": 300
+  },
+  {
+    "name": "미동초등학교",
+    "gps_lat": 37.56335057,
+    "gps_lon": 126.9658861,
+    "radius_meters": 300
+  },
+  {
+    "name": "북성초등학교",
+    "gps_lat": 37.559433,
+    "gps_lon": 126.951959,
+    "radius_meters": 300
+  },
+  {
+    "name": "가동초등학교",
+    "gps_lat": 37.497412,
+    "gps_lon": 127.130016,
+    "radius_meters": 300
+  },
+  {
+    "name": "가락초등학교",
+    "gps_lat": 37.500021,
+    "gps_lon": 127.107604,
+    "radius_meters": 300
+  },
+  {
+    "name": "가원초등학교",
+    "gps_lat": 37.489442,
+    "gps_lon": 127.111027,
+    "radius_meters": 300
+  },
+  {
+    "name": "가주초등학교",
+    "gps_lat": 37.496567,
+    "gps_lon": 127.129281,
+    "radius_meters": 300
+  },
+  {
+    "name": "개롱초등학교",
+    "gps_lat": 37.497363,
+    "gps_lon": 127.139888,
+    "radius_meters": 300
+  },
+  {
+    "name": "거여초등학교",
+    "gps_lat": 37.505169,
+    "gps_lon": 127.140987,
+    "radius_meters": 300
+  },
+  {
+    "name": "거원초등학교",
+    "gps_lat": 37.487625,
+    "gps_lon": 127.144936,
+    "radius_meters": 300
+  },
+  {
+    "name": "남천초등학교",
+    "gps_lat": 37.500591,
+    "gps_lon": 127.150111,
+    "radius_meters": 300
+  },
+  {
+    "name": "마천초등학교",
+    "gps_lat": 37.495505,
+    "gps_lon": 127.152631,
+    "radius_meters": 300
+  },
+  {
+    "name": "문덕초등학교",
+    "gps_lat": 37.485181,
+    "gps_lon": 127.127729,
+    "radius_meters": 300
+  },
+  {
+    "name": "문정초등학교",
+    "gps_lat": 37.489073,
+    "gps_lon": 127.129014,
+    "radius_meters": 300
+  },
+  {
+    "name": "문현초등학교",
+    "gps_lat": 37.482791,
+    "gps_lon": 127.130257,
+    "radius_meters": 300
+  },
+  {
+    "name": "방산초등학교",
+    "gps_lat": 37.509373,
+    "gps_lon": 127.121876,
+    "radius_meters": 300
+  },
+  {
+    "name": "방이초등학교",
+    "gps_lat": 37.513432,
+    "gps_lon": 127.120499,
+    "radius_meters": 300
+  },
+  {
+    "name": "버들초등학교",
+    "gps_lat": 37.510235,
+    "gps_lon": 127.088999,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼전초등학교",
+    "gps_lat": 37.50169984,
+    "gps_lon": 127.093269,
+    "radius_meters": 300
+  },
+  {
+    "name": "석촌초등학교",
+    "gps_lat": 37.502631,
+    "gps_lon": 127.105212,
+    "radius_meters": 300
+  },
+  {
+    "name": "세륜초등학교",
+    "gps_lat": 37.518558,
+    "gps_lon": 127.134163,
+    "radius_meters": 300
+  },
+  {
+    "name": "송례초등학교",
+    "gps_lat": 37.477891,
+    "gps_lon": 127.138441,
+    "radius_meters": 300
+  },
+  {
+    "name": "송전초등학교",
+    "gps_lat": 37.508829,
+    "gps_lon": 127.095127,
+    "radius_meters": 300
+  },
+  {
+    "name": "송파초등학교",
+    "gps_lat": 37.531883,
+    "gps_lon": 127.115633,
+    "radius_meters": 300
+  },
+  {
+    "name": "신가초등학교",
+    "gps_lat": 37.500363,
+    "gps_lon": 127.119878,
+    "radius_meters": 300
+  },
+  {
+    "name": "신천초등학교",
+    "gps_lat": 37.514011,
+    "gps_lon": 127.095048,
+    "radius_meters": 300
+  },
+  {
+    "name": "아주초등학교",
+    "gps_lat": 37.505827,
+    "gps_lon": 127.075768,
+    "radius_meters": 300
+  },
+  {
+    "name": "영풍초등학교",
+    "gps_lat": 37.496209,
+    "gps_lon": 127.143015,
+    "radius_meters": 300
+  },
+  {
+    "name": "오금초등학교",
+    "gps_lat": 37.508866,
+    "gps_lon": 127.132331,
+    "radius_meters": 300
+  },
+  {
+    "name": "오륜초등학교",
+    "gps_lat": 37.512424,
+    "gps_lon": 127.134509,
+    "radius_meters": 300
+  },
+  {
+    "name": "위례별초등학교",
+    "gps_lat": 37.479087,
+    "gps_lon": 127.145041,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼성유치원",
+    "gps_lat": 37.58158746,
+    "gps_lon": 126.9194124,
+    "radius_meters": 300
+  },
+  {
+    "name": "세종유치원",
+    "gps_lat": 37.57727885,
+    "gps_lon": 126.9131033,
+    "radius_meters": 300
+  },
+  {
+    "name": "신촌유치원",
+    "gps_lat": 37.55738379,
+    "gps_lon": 126.931436,
+    "radius_meters": 300
+  },
+  {
+    "name": "안산초등학교",
+    "gps_lat": 37.57916901,
+    "gps_lon": 126.9522097,
+    "radius_meters": 300
+  },
+  {
+    "name": "연희초등학교",
+    "gps_lat": 37.56904593,
+    "gps_lon": 126.9341423,
+    "radius_meters": 300
+  },
+  {
+    "name": "혜화유치원",
+    "gps_lat": 37.586802,
+    "gps_lon": 127.003115,
+    "radius_meters": 300
+  },
+  {
+    "name": "혜화초등학교",
+    "gps_lat": 37.5886356,
+    "gps_lon": 127.0002536,
+    "radius_meters": 300
+  },
+  {
+    "name": "효제초등학교",
+    "gps_lat": 37.57268796,
+    "gps_lon": 127.0034911,
+    "radius_meters": 300
+  },
+  {
+    "name": "용암초교",
+    "gps_lat": 37.54530443,
+    "gps_lon": 126.9894356,
+    "radius_meters": 300
+  },
+  {
+    "name": "원효초교",
+    "gps_lat": 37.53616243,
+    "gps_lon": 126.9515471,
+    "radius_meters": 300
+  },
+  {
+    "name": "신용산초교",
+    "gps_lat": 37.52062932,
+    "gps_lon": 126.9753668,
+    "radius_meters": 300
+  },
+  {
+    "name": "서빙고초교(병설유치원)",
+    "gps_lat": 37.52206964,
+    "gps_lon": 126.9923004,
+    "radius_meters": 300
+  },
+  {
+    "name": "보광초교",
+    "gps_lat": 37.53253948,
+    "gps_lon": 126.9963931,
+    "radius_meters": 300
+  },
+  {
+    "name": "한남초교(병설유치원)",
+    "gps_lat": 37.5392032,
+    "gps_lon": 127.0055986,
+    "radius_meters": 300
+  },
+  {
+    "name": "남정초교(병설유치원)",
+    "gps_lat": 37.53567338,
+    "gps_lon": 126.9648033,
+    "radius_meters": 300
+  },
+  {
+    "name": "이태원초교",
+    "gps_lat": 37.53647807,
+    "gps_lon": 126.9876718,
+    "radius_meters": 300
+  },
+  {
+    "name": "청파초교(병설유치원)",
+    "gps_lat": 37.5473031,
+    "gps_lon": 126.963544,
+    "radius_meters": 300
+  },
+  {
+    "name": "후암초교",
+    "gps_lat": 37.55136541,
+    "gps_lon": 126.9817258,
+    "radius_meters": 300
+  },
+  {
+    "name": "금양초교",
+    "gps_lat": 37.5409415,
+    "gps_lon": 126.9618318,
+    "radius_meters": 300
+  },
+  {
+    "name": "성일초등학교",
+    "gps_lat": 37.52970924,
+    "gps_lon": 127.1284083,
+    "radius_meters": 300
+  },
+  {
+    "name": "상아유치원",
+    "gps_lat": 37.4975519,
+    "gps_lon": 126.9446241,
+    "radius_meters": 300
+  },
+  {
+    "name": "승혜유치원",
+    "gps_lat": 37.4986394,
+    "gps_lon": 126.9370792,
+    "radius_meters": 300
+  },
+  {
+    "name": "은혜유치원",
+    "gps_lat": 37.4977312,
+    "gps_lon": 126.9332022,
+    "radius_meters": 300
+  },
+  {
+    "name": "양문유치원",
+    "gps_lat": 37.4891543,
+    "gps_lon": 126.9073747,
+    "radius_meters": 300
+  },
+  {
+    "name": "열림유치원",
+    "gps_lat": 37.5089258,
+    "gps_lon": 126.929207,
+    "radius_meters": 300
+  },
+  {
+    "name": "요요유치원",
+    "gps_lat": 37.49527344,
+    "gps_lon": 126.9116916,
+    "radius_meters": 300
+  },
+  {
+    "name": "신상도초등학교",
+    "gps_lat": 37.50034631,
+    "gps_lon": 126.9446175,
+    "radius_meters": 300
+  },
+  {
+    "name": "강남초등학교",
+    "gps_lat": 37.50615977,
+    "gps_lon": 126.953358,
+    "radius_meters": 300
+  },
+  {
+    "name": "남사초등학교",
+    "gps_lat": 37.4819443,
+    "gps_lon": 126.9782332,
+    "radius_meters": 300
+  },
+  {
+    "name": "남성초등학교",
+    "gps_lat": 37.48459633,
+    "gps_lon": 126.9754872,
+    "radius_meters": 300
+  },
+  {
+    "name": "노량진초등학교",
+    "gps_lat": 37.51175119,
+    "gps_lon": 126.9408222,
+    "radius_meters": 300
+  },
+  {
+    "name": "대림초등학교",
+    "gps_lat": 37.50061292,
+    "gps_lon": 126.9248853,
+    "radius_meters": 300
+  },
+  {
+    "name": "동작초등학교",
+    "gps_lat": 37.49411478,
+    "gps_lon": 126.9765109,
+    "radius_meters": 300
+  },
+  {
+    "name": "문창초등학교",
+    "gps_lat": 37.48898312,
+    "gps_lon": 126.9148425,
+    "radius_meters": 300
+  },
+  {
+    "name": "보라매초등학교",
+    "gps_lat": 37.49585333,
+    "gps_lon": 126.9161464,
+    "radius_meters": 300
+  },
+  {
+    "name": "본동초등학교",
+    "gps_lat": 37.50992616,
+    "gps_lon": 126.9538533,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼일초등학교",
+    "gps_lat": 37.4882193,
+    "gps_lon": 126.975172,
+    "radius_meters": 300
+  },
+  {
+    "name": "상도초등학교",
+    "gps_lat": 37.50034624,
+    "gps_lon": 126.9372712,
+    "radius_meters": 300
+  },
+  {
+    "name": "신길초등학교",
+    "gps_lat": 37.51087166,
+    "gps_lon": 126.9267292,
+    "radius_meters": 300
+  },
+  {
+    "name": "신남성초등학교",
+    "gps_lat": 37.48815083,
+    "gps_lon": 126.9648709,
+    "radius_meters": 300
+  },
+  {
+    "name": "영본초등학교",
+    "gps_lat": 37.51129715,
+    "gps_lon": 126.9486722,
+    "radius_meters": 300
+  },
+  {
+    "name": "영화초등학교",
+    "gps_lat": 37.50890703,
+    "gps_lon": 126.9329751,
+    "radius_meters": 300
+  },
+  {
+    "name": "중대부속유치원",
+    "gps_lat": 37.5064905,
+    "gps_lon": 126.9555972,
+    "radius_meters": 300
+  },
+  {
+    "name": "강남유치원",
+    "gps_lat": 37.50349488,
+    "gps_lon": 126.9496786,
+    "radius_meters": 300
+  },
+  {
+    "name": "상도유치원",
+    "gps_lat": 37.50144862,
+    "gps_lon": 126.9516555,
+    "radius_meters": 300
+  },
+  {
+    "name": "행복유치원",
+    "gps_lat": 37.4956159,
+    "gps_lon": 126.941139,
+    "radius_meters": 300
+  },
+  {
+    "name": "신남성초교 병설유치원",
+    "gps_lat": 37.48815083,
+    "gps_lon": 126.9648709,
+    "radius_meters": 300
+  },
+  {
+    "name": "은로초등학교 병설유치원",
+    "gps_lat": 37.5031946,
+    "gps_lon": 126.9599999,
+    "radius_meters": 300
+  },
+  {
+    "name": "샛별유치원",
+    "gps_lat": 37.49804586,
+    "gps_lon": 126.9502826,
+    "radius_meters": 300
+  },
+  {
+    "name": "하랑숲아이들학원",
+    "gps_lat": 37.4960102,
+    "gps_lon": 126.9817887,
+    "radius_meters": 300
+  },
+  {
+    "name": "시현유치원",
+    "gps_lat": 37.51030525,
+    "gps_lon": 126.9468677,
+    "radius_meters": 300
+  },
+  {
+    "name": "상계4동어린이집",
+    "gps_lat": 37.671925,
+    "gps_lon": 127.083211,
+    "radius_meters": 300
+  },
+  {
+    "name": "공릉2동어린이집",
+    "gps_lat": 37.624563,
+    "gps_lon": 127.082366,
+    "radius_meters": 300
+  },
+  {
+    "name": "예뜨랑어린이집",
+    "gps_lat": 37.62203611,
+    "gps_lon": 127.073031,
+    "radius_meters": 300
+  },
+  {
+    "name": "월계1동어린이집",
+    "gps_lat": 37.62090696,
+    "gps_lon": 127.062417,
+    "radius_meters": 300
+  },
+  {
+    "name": "하계어린이집",
+    "gps_lat": 37.636955,
+    "gps_lon": 127.076531,
+    "radius_meters": 300
+  },
+  {
+    "name": "성서대부설어린이집",
+    "gps_lat": 37.650156,
+    "gps_lon": 127.065162,
+    "radius_meters": 300
+  },
+  {
+    "name": "상계삼성어린이집",
+    "gps_lat": 37.661259,
+    "gps_lon": 127.0659059,
+    "radius_meters": 300
+  },
+  {
+    "name": "북부어린이집",
+    "gps_lat": 37.67970639,
+    "gps_lon": 127.052415,
+    "radius_meters": 300
+  },
+  {
+    "name": "노원어린이집",
+    "gps_lat": 37.676221,
+    "gps_lon": 127.051145,
+    "radius_meters": 300
+  },
+  {
+    "name": "중계어린이집",
+    "gps_lat": 37.650017,
+    "gps_lon": 127.080715,
+    "radius_meters": 300
+  },
+  {
+    "name": "중계행복어린이집",
+    "gps_lat": 37.646026,
+    "gps_lon": 127.0829414,
+    "radius_meters": 300
+  },
+  {
+    "name": "청솔창의어린이집",
+    "gps_lat": 37.634028,
+    "gps_lon": 127.0709619,
+    "radius_meters": 300
+  },
+  {
+    "name": "온누리유치원",
+    "gps_lat": 37.66691522,
+    "gps_lon": 127.0543182,
+    "radius_meters": 300
+  },
+  {
+    "name": "풍천유치원",
+    "gps_lat": 37.661121,
+    "gps_lon": 127.060982,
+    "radius_meters": 300
+  },
+  {
+    "name": "키즈위즈유치원",
+    "gps_lat": 37.661059,
+    "gps_lon": 127.0785356,
+    "radius_meters": 300
+  },
+  {
+    "name": "우리유치원",
+    "gps_lat": 37.652811,
+    "gps_lon": 127.0777004,
+    "radius_meters": 300
+  },
+  {
+    "name": "무지개유치원",
+    "gps_lat": 37.664554,
+    "gps_lon": 127.0787161,
+    "radius_meters": 300
+  },
+  {
+    "name": "원암유치원",
+    "gps_lat": 37.64981435,
+    "gps_lon": 127.085113,
+    "radius_meters": 300
+  },
+  {
+    "name": "태랑병설유치원",
+    "gps_lat": 37.62625137,
+    "gps_lon": 127.0906018,
+    "radius_meters": 300
+  },
+  {
+    "name": "연촌병설유치원",
+    "gps_lat": 37.634416,
+    "gps_lon": 127.0725121,
+    "radius_meters": 300
+  },
+  {
+    "name": "신상계병설유치원",
+    "gps_lat": 37.66751782,
+    "gps_lon": 127.0758263,
+    "radius_meters": 300
+  },
+  {
+    "name": "수암병설유치원",
+    "gps_lat": 37.64769427,
+    "gps_lon": 127.0814631,
+    "radius_meters": 300
+  },
+  {
+    "name": "수락병설유치원",
+    "gps_lat": 37.68450193,
+    "gps_lon": 127.0551836,
+    "radius_meters": 300
+  },
+  {
+    "name": "상곡병설유치원",
+    "gps_lat": 37.66290383,
+    "gps_lon": 127.0620766,
+    "radius_meters": 300
+  },
+  {
+    "name": "상경병설유치원",
+    "gps_lat": 37.67055277,
+    "gps_lon": 127.0516731,
+    "radius_meters": 300
+  },
+  {
+    "name": "동일병설유치원",
+    "gps_lat": 37.6648142,
+    "gps_lon": 127.0541716,
+    "radius_meters": 300
+  },
+  {
+    "name": "공릉병설유치원",
+    "gps_lat": 37.61861498,
+    "gps_lon": 127.0746307,
+    "radius_meters": 300
+  },
+  {
+    "name": "보배유치원",
+    "gps_lat": 37.62860841,
+    "gps_lon": 127.0627957,
+    "radius_meters": 300
+  },
+  {
+    "name": "미광유치원",
+    "gps_lat": 37.623341,
+    "gps_lon": 127.0821207,
+    "radius_meters": 300
+  },
+  {
+    "name": "가산초등학교",
+    "gps_lat": 37.478165,
+    "gps_lon": 126.8963297,
+    "radius_meters": 300
+  },
+  {
+    "name": "금나래초등학교",
+    "gps_lat": 37.458229,
+    "gps_lon": 126.896205,
+    "radius_meters": 300
+  },
+  {
+    "name": "금동초등학교",
+    "gps_lat": 37.44773848,
+    "gps_lon": 126.916399,
+    "radius_meters": 300
+  },
+  {
+    "name": "금산초등학교",
+    "gps_lat": 37.441443,
+    "gps_lon": 126.908087,
+    "radius_meters": 300
+  },
+  {
+    "name": "금천초등학교",
+    "gps_lat": 37.45481034,
+    "gps_lon": 126.912875,
+    "radius_meters": 300
+  },
+  {
+    "name": "독산초등학교",
+    "gps_lat": 37.465657,
+    "gps_lon": 126.899713,
+    "radius_meters": 300
+  },
+  {
+    "name": "동광초등학교",
+    "gps_lat": 37.451936,
+    "gps_lon": 126.9158199,
+    "radius_meters": 300
+  },
+  {
+    "name": "두산초등학교",
+    "gps_lat": 37.46754839,
+    "gps_lon": 126.8909461,
+    "radius_meters": 300
+  },
+  {
+    "name": "문교초등학교",
+    "gps_lat": 37.46672027,
+    "gps_lon": 126.908816,
+    "radius_meters": 300
+  },
+  {
+    "name": "문백초등학교",
+    "gps_lat": 37.447009,
+    "gps_lon": 126.898698,
+    "radius_meters": 300
+  },
+  {
+    "name": "문성초등학교",
+    "gps_lat": 37.474912,
+    "gps_lon": 126.899464,
+    "radius_meters": 300
+  },
+  {
+    "name": "백산초등학교",
+    "gps_lat": 37.446787,
+    "gps_lon": 126.905144,
+    "radius_meters": 300
+  },
+  {
+    "name": "시흥초등학교",
+    "gps_lat": 37.455339,
+    "gps_lon": 126.904641,
+    "radius_meters": 300
+  },
+  {
+    "name": "신흥초등학교",
+    "gps_lat": 37.459375,
+    "gps_lon": 126.9093508,
+    "radius_meters": 300
+  },
+  {
+    "name": "안천초등학교",
+    "gps_lat": 37.458745,
+    "gps_lon": 126.888356,
+    "radius_meters": 300
+  },
+  {
+    "name": "영남초등학교",
+    "gps_lat": 37.476128,
+    "gps_lon": 126.907946,
+    "radius_meters": 300
+  },
+  {
+    "name": "정심초등학교",
+    "gps_lat": 37.471992,
+    "gps_lon": 126.908215,
+    "radius_meters": 300
+  },
+  {
+    "name": "탑동초등학교",
+    "gps_lat": 37.452518,
+    "gps_lon": 126.915368,
+    "radius_meters": 300
+  },
+  {
+    "name": "품속어린이집",
+    "gps_lat": 37.673154,
+    "gps_lon": 127.057064,
+    "radius_meters": 300
+  },
+  {
+    "name": "위례솔초등학교",
+    "gps_lat": 37.486918,
+    "gps_lon": 127.151044,
+    "radius_meters": 300
+  },
+  {
+    "name": "잠동초등학교",
+    "gps_lat": 37.518338,
+    "gps_lon": 127.099931,
+    "radius_meters": 300
+  },
+  {
+    "name": "잠신초등학교",
+    "gps_lat": 37.514148,
+    "gps_lon": 127.087944,
+    "radius_meters": 300
+  },
+  {
+    "name": "잠실초등학교",
+    "gps_lat": 37.520186,
+    "gps_lon": 127.111311,
+    "radius_meters": 300
+  },
+  {
+    "name": "잠일초등학교",
+    "gps_lat": 37.514742,
+    "gps_lon": 127.081636,
+    "radius_meters": 300
+  },
+  {
+    "name": "잠전초등학교",
+    "gps_lat": 37.507338,
+    "gps_lon": 127.083851,
+    "radius_meters": 300
+  },
+  {
+    "name": "잠현초등학교",
+    "gps_lat": 37.522586,
+    "gps_lon": 127.104723,
+    "radius_meters": 300
+  },
+  {
+    "name": "중대초등학교",
+    "gps_lat": 37.499812,
+    "gps_lon": 127.113606,
+    "radius_meters": 300
+  },
+  {
+    "name": "토성초등학교",
+    "gps_lat": 37.531883,
+    "gps_lon": 127.115633,
+    "radius_meters": 300
+  },
+  {
+    "name": "평화초등학교",
+    "gps_lat": 37.491567,
+    "gps_lon": 127.122824,
+    "radius_meters": 300
+  },
+  {
+    "name": "풍납초등학교",
+    "gps_lat": 37.534405,
+    "gps_lon": 127.117204,
+    "radius_meters": 300
+  },
+  {
+    "name": "풍성초등학교",
+    "gps_lat": 37.526691,
+    "gps_lon": 127.113502,
+    "radius_meters": 300
+  },
+  {
+    "name": "해누리초등학교",
+    "gps_lat": 37.498412,
+    "gps_lon": 127.102124,
+    "radius_meters": 300
+  },
+  {
+    "name": "동화나라유치원",
+    "gps_lat": 37.528817,
+    "gps_lon": 127.115424,
+    "radius_meters": 300
+  },
+  {
+    "name": "불광유치원",
+    "gps_lat": 37.506915,
+    "gps_lon": 127.102122,
+    "radius_meters": 300
+  },
+  {
+    "name": "생명나무유치원",
+    "gps_lat": 37.478003,
+    "gps_lon": 127.129196,
+    "radius_meters": 300
+  },
+  {
+    "name": "석촌유치원",
+    "gps_lat": 37.502874,
+    "gps_lon": 127.106687,
+    "radius_meters": 300
+  },
+  {
+    "name": "솔가람유치원",
+    "gps_lat": 37.478018,
+    "gps_lon": 127.140971,
+    "radius_meters": 300
+  },
+  {
+    "name": "송파유정유치원",
+    "gps_lat": 37.485722,
+    "gps_lon": 127.133064,
+    "radius_meters": 300
+  },
+  {
+    "name": "송파위례유치원",
+    "gps_lat": 37.484658,
+    "gps_lon": 127.147353,
+    "radius_meters": 300
+  },
+  {
+    "name": "수정유치원",
+    "gps_lat": 37.515973,
+    "gps_lon": 127.115313,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울솔방울유치원",
+    "gps_lat": 37.504849,
+    "gps_lon": 127.117389,
+    "radius_meters": 300
+  },
+  {
+    "name": "아이코리아부속새세대유치원",
+    "gps_lat": 37.482757,
+    "gps_lon": 127.134044,
+    "radius_meters": 300
+  },
+  {
+    "name": "아주유치원",
+    "gps_lat": 37.505827,
+    "gps_lon": 127.075768,
+    "radius_meters": 300
+  },
+  {
+    "name": "예은유치원",
+    "gps_lat": 37.504735,
+    "gps_lon": 127.120414,
+    "radius_meters": 300
+  },
+  {
+    "name": "은선유치원",
+    "gps_lat": 37.492167,
+    "gps_lon": 127.126327,
+    "radius_meters": 300
+  },
+  {
+    "name": "제일무궁화유치원",
+    "gps_lat": 37.494737,
+    "gps_lon": 127.130993,
+    "radius_meters": 300
+  },
+  {
+    "name": "티움유치원",
+    "gps_lat": 37.501105,
+    "gps_lon": 127.115267,
+    "radius_meters": 300
+  },
+  {
+    "name": "햇빛유치원",
+    "gps_lat": 37.520489,
+    "gps_lon": 127.114124,
+    "radius_meters": 300
+  },
+  {
+    "name": "쌍문",
+    "gps_lat": 37.6489734,
+    "gps_lon": 127.024308,
+    "radius_meters": 300
+  },
+  {
+    "name": "오봉",
+    "gps_lat": 37.6718842,
+    "gps_lon": 127.0402882,
+    "radius_meters": 300
+  },
+  {
+    "name": "월천",
+    "gps_lat": 37.6478402,
+    "gps_lon": 127.0522016,
+    "radius_meters": 300
+  },
+  {
+    "name": "자운",
+    "gps_lat": 37.6577174,
+    "gps_lon": 127.0463946,
+    "radius_meters": 300
+  },
+  {
+    "name": "창경",
+    "gps_lat": 37.6561144,
+    "gps_lon": 127.0347544,
+    "radius_meters": 300
+  },
+  {
+    "name": "창도",
+    "gps_lat": 37.663831,
+    "gps_lon": 127.0490956,
+    "radius_meters": 300
+  },
+  {
+    "name": "창동",
+    "gps_lat": 37.6551924,
+    "gps_lon": 127.0446861,
+    "radius_meters": 300
+  },
+  {
+    "name": "창림",
+    "gps_lat": 37.6429724,
+    "gps_lon": 127.0415487,
+    "radius_meters": 300
+  },
+  {
+    "name": "창원",
+    "gps_lat": 37.6525531,
+    "gps_lon": 127.040553,
+    "radius_meters": 300
+  },
+  {
+    "name": "창일",
+    "gps_lat": 37.6471695,
+    "gps_lon": 127.0476797,
+    "radius_meters": 300
+  },
+  {
+    "name": "초당",
+    "gps_lat": 37.6584988,
+    "gps_lon": 127.0221014,
+    "radius_meters": 300
+  },
+  {
+    "name": "동북",
+    "gps_lat": 37.655351,
+    "gps_lon": 127.0268289,
+    "radius_meters": 300
+  },
+  {
+    "name": "한신",
+    "gps_lat": 37.6529105,
+    "gps_lon": 127.0318063,
+    "radius_meters": 300
+  },
+  {
+    "name": "다솜",
+    "gps_lat": 37.6571082049,
+    "gps_lon": 127.0377335198,
+    "radius_meters": 300
+  },
+  {
+    "name": "솔샘",
+    "gps_lat": 37.6571082049,
+    "gps_lon": 127.0377335198,
+    "radius_meters": 300
+  },
+  {
+    "name": "윤정",
+    "gps_lat": 37.649242,
+    "gps_lon": 127.0509338,
+    "radius_meters": 300
+  },
+  {
+    "name": "행복한",
+    "gps_lat": 37.6585731,
+    "gps_lon": 127.0312223,
+    "radius_meters": 300
+  },
+  {
+    "name": "유화",
+    "gps_lat": 37.6598464251,
+    "gps_lon": 127.027457992,
+    "radius_meters": 300
+  },
+  {
+    "name": "세정어린이집",
+    "gps_lat": 37.56063437,
+    "gps_lon": 127.1557401,
+    "radius_meters": 300
+  },
+  {
+    "name": "예은어린이집",
+    "gps_lat": 37.5408215,
+    "gps_lon": 127.1336179,
+    "radius_meters": 300
+  },
+  {
+    "name": "예일어린이집",
+    "gps_lat": 37.5229326,
+    "gps_lon": 127.1339492,
+    "radius_meters": 300
+  },
+  {
+    "name": "라온어린이집",
+    "gps_lat": 37.5431379,
+    "gps_lon": 127.1393804,
+    "radius_meters": 300
+  },
+  {
+    "name": "그린어린이집",
+    "gps_lat": 37.5304122,
+    "gps_lon": 127.1268502,
+    "radius_meters": 300
+  },
+  {
+    "name": "애지어린이집",
+    "gps_lat": 37.531761,
+    "gps_lon": 127.1415805,
+    "radius_meters": 300
+  },
+  {
+    "name": "강동복지관어린이집",
+    "gps_lat": 37.54004284,
+    "gps_lon": 127.1297892,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립초롱별어린이집",
+    "gps_lat": 37.5478186,
+    "gps_lon": 127.1459302,
+    "radius_meters": 300
+  },
+  {
+    "name": "강동무지개어린이집",
+    "gps_lat": 37.54460484,
+    "gps_lon": 127.1406641,
+    "radius_meters": 300
+  },
+  {
+    "name": "푸른숲어린이집",
+    "gps_lat": 37.5488256,
+    "gps_lon": 127.1535042,
+    "radius_meters": 300
+  },
+  {
+    "name": "예꿈어린이집",
+    "gps_lat": 37.54793943,
+    "gps_lon": 127.1329509,
+    "radius_meters": 300
+  },
+  {
+    "name": "고일어린이집",
+    "gps_lat": 37.55696418,
+    "gps_lon": 127.1513067,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립동심어린이집",
+    "gps_lat": 37.5561083,
+    "gps_lon": 127.1373773,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립은강어린이집",
+    "gps_lat": 37.5333784,
+    "gps_lon": 127.1363923,
+    "radius_meters": 300
+  },
+  {
+    "name": "성내참사랑어린이집",
+    "gps_lat": 37.52601922,
+    "gps_lon": 127.1291451,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립해나어린이집",
+    "gps_lat": 37.55586966,
+    "gps_lon": 127.1347874,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립고덕숲어린이집",
+    "gps_lat": 37.55171846,
+    "gps_lon": 127.164857,
+    "radius_meters": 300
+  },
+  {
+    "name": "자이맘어린이집",
+    "gps_lat": 37.5377155,
+    "gps_lon": 127.1478568,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립다온어린이집",
+    "gps_lat": 37.5447848,
+    "gps_lon": 127.1232029,
+    "radius_meters": 300
+  },
+  {
+    "name": "예크트리학원",
+    "gps_lat": 37.5378116,
+    "gps_lon": 127.1427154,
+    "radius_meters": 300
+  },
+  {
+    "name": "오르다샘앤클래스암사학원",
+    "gps_lat": 37.5554739,
+    "gps_lon": 127.1316805,
+    "radius_meters": 300
+  },
+  {
+    "name": "강일어린이집",
+    "gps_lat": 37.56911869,
+    "gps_lon": 127.1785799,
+    "radius_meters": 300
+  },
+  {
+    "name": "강동아이슐레어린이집",
+    "gps_lat": 37.55322569,
+    "gps_lon": 127.137505,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립보람나무어린이집",
+    "gps_lat": 37.5521214,
+    "gps_lon": 127.1357452,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립곡교어린이집",
+    "gps_lat": 37.5435022,
+    "gps_lon": 127.1278081,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립둔촌어린이집",
+    "gps_lat": 37.5305225,
+    "gps_lon": 127.1430056,
+    "radius_meters": 300
+  },
+  {
+    "name": "성심어린이집",
+    "gps_lat": 37.53621522,
+    "gps_lon": 127.1445702,
+    "radius_meters": 300
+  },
+  {
+    "name": "길동초병설유치원",
+    "gps_lat": 37.5380968,
+    "gps_lon": 127.1435022,
+    "radius_meters": 300
+  },
+  {
+    "name": "선린초병설유치원",
+    "gps_lat": 37.52976012,
+    "gps_lon": 127.145594,
+    "radius_meters": 300
+  },
+  {
+    "name": "위례초병설유치원",
+    "gps_lat": 37.5223146,
+    "gps_lon": 127.1394366,
+    "radius_meters": 300
+  },
+  {
+    "name": "고덕유치원",
+    "gps_lat": 37.55111218,
+    "gps_lon": 127.1692477,
+    "radius_meters": 300
+  },
+  {
+    "name": "강동유정유치원",
+    "gps_lat": 37.5505854,
+    "gps_lon": 127.1749825,
+    "radius_meters": 300
+  },
+  {
+    "name": "강일늘사랑유치원",
+    "gps_lat": 37.56314695,
+    "gps_lon": 127.1783206,
+    "radius_meters": 300
+  },
+  {
+    "name": "한영중고등학교병설유치원",
+    "gps_lat": 37.54914056,
+    "gps_lon": 127.1577731,
+    "radius_meters": 300
+  },
+  {
+    "name": "선아유치원",
+    "gps_lat": 37.5503185,
+    "gps_lon": 127.1698083,
+    "radius_meters": 300
+  },
+  {
+    "name": "주몽학교",
+    "gps_lat": 37.54619875,
+    "gps_lon": 127.1633757,
+    "radius_meters": 300
+  },
+  {
+    "name": "한국구화학교",
+    "gps_lat": 37.5582554,
+    "gps_lon": 127.158909,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립암사어린이집",
+    "gps_lat": 37.55061052,
+    "gps_lon": 127.1249616,
+    "radius_meters": 300
+  },
+  {
+    "name": "돌샘유치원",
+    "gps_lat": 37.48914032,
+    "gps_lon": 127.0708698,
+    "radius_meters": 300
+  },
+  {
+    "name": "이화유치원",
+    "gps_lat": 37.495751,
+    "gps_lon": 127.075096,
+    "radius_meters": 300
+  },
+  {
+    "name": "영동제일유치원",
+    "gps_lat": 37.517579,
+    "gps_lon": 127.053437,
+    "radius_meters": 300
+  },
+  {
+    "name": "묘동유치원",
+    "gps_lat": 37.49740739,
+    "gps_lon": 127.058723,
+    "radius_meters": 300
+  },
+  {
+    "name": "푸른유치원",
+    "gps_lat": 37.48479809,
+    "gps_lon": 127.0811005,
+    "radius_meters": 300
+  },
+  {
+    "name": "성요셉유치원",
+    "gps_lat": 37.52627314,
+    "gps_lon": 127.0482112,
+    "radius_meters": 300
+  },
+  {
+    "name": "반디유치원",
+    "gps_lat": 37.48790982,
+    "gps_lon": 127.0981867,
+    "radius_meters": 300
+  },
+  {
+    "name": "초원유치원",
+    "gps_lat": 37.475915,
+    "gps_lon": 127.048578,
+    "radius_meters": 300
+  },
+  {
+    "name": "성결유치원",
+    "gps_lat": 37.511421,
+    "gps_lon": 127.035354,
+    "radius_meters": 300
+  },
+  {
+    "name": "도곡렉슬유치원",
+    "gps_lat": 37.49432124,
+    "gps_lon": 127.0535103,
+    "radius_meters": 300
+  },
+  {
+    "name": "역삼초등학교병설유치원",
+    "gps_lat": 37.49316115,
+    "gps_lon": 127.032603,
+    "radius_meters": 300
+  },
+  {
+    "name": "개포초등학교유치원",
+    "gps_lat": 37.48662512,
+    "gps_lon": 127.070767,
+    "radius_meters": 300
+  },
+  {
+    "name": "대현초등학교병설유치원",
+    "gps_lat": 37.50372276,
+    "gps_lon": 127.063564,
+    "radius_meters": 300
+  },
+  {
+    "name": "수서초등학교병설유치원",
+    "gps_lat": 37.49115058,
+    "gps_lon": 127.101549,
+    "radius_meters": 300
+  },
+  {
+    "name": "영희초등학교병설유치원",
+    "gps_lat": 37.49230166,
+    "gps_lon": 127.0811312,
+    "radius_meters": 300
+  },
+  {
+    "name": "유정유치원",
+    "gps_lat": 37.48296362,
+    "gps_lon": 127.0949421,
+    "radius_meters": 300
+  },
+  {
+    "name": "은곡유치원",
+    "gps_lat": 37.46682003,
+    "gps_lon": 127.096934,
+    "radius_meters": 300
+  },
+  {
+    "name": "청담몬테소리유치원",
+    "gps_lat": 37.519322,
+    "gps_lon": 127.046511,
+    "radius_meters": 300
+  },
+  {
+    "name": "대곡초등학교",
+    "gps_lat": 37.49471191,
+    "gps_lon": 127.0650265,
+    "radius_meters": 300
+  },
+  {
+    "name": "대왕초등학교",
+    "gps_lat": 37.46462136,
+    "gps_lon": 127.1055895,
+    "radius_meters": 300
+  },
+  {
+    "name": "대현초등학교",
+    "gps_lat": 37.50372276,
+    "gps_lon": 127.063564,
+    "radius_meters": 300
+  },
+  {
+    "name": "도곡초등학교",
+    "gps_lat": 37.4995106,
+    "gps_lon": 127.0544636,
+    "radius_meters": 300
+  },
+  {
+    "name": "도성초등학교",
+    "gps_lat": 37.50146282,
+    "gps_lon": 127.0488738,
+    "radius_meters": 300
+  },
+  {
+    "name": "봉은초등학교",
+    "gps_lat": 37.52008278,
+    "gps_lon": 127.060981,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼릉초등학교",
+    "gps_lat": 37.51325956,
+    "gps_lon": 127.046914,
+    "radius_meters": 300
+  },
+  {
+    "name": "청담초등학교",
+    "gps_lat": 37.52828178,
+    "gps_lon": 127.0451534,
+    "radius_meters": 300
+  },
+  {
+    "name": "포이초등학교",
+    "gps_lat": 37.47591562,
+    "gps_lon": 127.0525106,
+    "radius_meters": 300
+  },
+  {
+    "name": "논현초등학교",
+    "gps_lat": 37.50849066,
+    "gps_lon": 127.0262217,
+    "radius_meters": 300
+  },
+  {
+    "name": "신구초등학교",
+    "gps_lat": 37.5233613,
+    "gps_lon": 127.0239915,
+    "radius_meters": 300
+  },
+  {
+    "name": "언북초등학교",
+    "gps_lat": 37.52012607,
+    "gps_lon": 127.0447141,
+    "radius_meters": 300
+  },
+  {
+    "name": "영희초등학교",
+    "gps_lat": 37.49230166,
+    "gps_lon": 127.0811312,
+    "radius_meters": 300
+  },
+  {
+    "name": "일원초등학교",
+    "gps_lat": 37.48978925,
+    "gps_lon": 127.0763251,
+    "radius_meters": 300
+  },
+  {
+    "name": "학동초등학교",
+    "gps_lat": 37.51226034,
+    "gps_lon": 127.0395969,
+    "radius_meters": 300
+  },
+  {
+    "name": "개포초등학교",
+    "gps_lat": 37.48662512,
+    "gps_lon": 127.070767,
+    "radius_meters": 300
+  },
+  {
+    "name": "개일초등학교",
+    "gps_lat": 37.48621378,
+    "gps_lon": 127.057776,
+    "radius_meters": 300
+  },
+  {
+    "name": "구룡초등학교",
+    "gps_lat": 37.48119613,
+    "gps_lon": 127.051773,
+    "radius_meters": 300
+  },
+  {
+    "name": "대도초등학교",
+    "gps_lat": 37.49264543,
+    "gps_lon": 127.0533776,
+    "radius_meters": 300
+  },
+  {
+    "name": "대모초등학교",
+    "gps_lat": 37.48059953,
+    "gps_lon": 127.0859937,
+    "radius_meters": 300
+  },
+  {
+    "name": "대진초등학교",
+    "gps_lat": 37.497027,
+    "gps_lon": 127.0780785,
+    "radius_meters": 300
+  },
+  {
+    "name": "수서초등학교",
+    "gps_lat": 37.49115058,
+    "gps_lon": 127.101549,
+    "radius_meters": 300
+  },
+  {
+    "name": "압구정초등학교",
+    "gps_lat": 37.53173902,
+    "gps_lon": 127.0308413,
+    "radius_meters": 300
+  },
+  {
+    "name": "언주초등학교",
+    "gps_lat": 37.48632308,
+    "gps_lon": 127.036781,
+    "radius_meters": 300
+  },
+  {
+    "name": "역삼초등학교",
+    "gps_lat": 37.49316115,
+    "gps_lon": 127.032603,
+    "radius_meters": 300
+  },
+  {
+    "name": "왕북초등학교",
+    "gps_lat": 37.4863299,
+    "gps_lon": 127.086039,
+    "radius_meters": 300
+  },
+  {
+    "name": "대청초등학교",
+    "gps_lat": 37.493117,
+    "gps_lon": 127.0877676,
+    "radius_meters": 300
+  },
+  {
+    "name": "대치초등학교",
+    "gps_lat": 37.49127879,
+    "gps_lon": 127.0621966,
+    "radius_meters": 300
+  },
+  {
+    "name": "양전초등학교",
+    "gps_lat": 37.49028366,
+    "gps_lon": 127.069478,
+    "radius_meters": 300
+  },
+  {
+    "name": "세명초등학교",
+    "gps_lat": 37.468857,
+    "gps_lon": 127.0910762,
+    "radius_meters": 300
+  },
+  {
+    "name": "율현초등학교",
+    "gps_lat": 37.474559,
+    "gps_lon": 127.108267,
+    "radius_meters": 300
+  },
+  {
+    "name": "자곡초등학교",
+    "gps_lat": 37.472191,
+    "gps_lon": 127.0996009,
+    "radius_meters": 300
+  },
+  {
+    "name": "개원초등학교",
+    "gps_lat": 37.47219072,
+    "gps_lon": 127.0996009,
+    "radius_meters": 300
+  },
+  {
+    "name": "밀알학교",
+    "gps_lat": 37.48578132,
+    "gps_lon": 127.0820739,
+    "radius_meters": 300
+  },
+  {
+    "name": "정애학교",
+    "gps_lat": 37.514363,
+    "gps_lon": 127.054425,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울아카데미(외국인)",
+    "gps_lat": 37.49996119,
+    "gps_lon": 127.061603,
+    "radius_meters": 300
+  },
+  {
+    "name": "연화어린이집",
+    "gps_lat": 37.517216,
+    "gps_lon": 127.0372042,
+    "radius_meters": 300
+  },
+  {
+    "name": "한별어린이집",
+    "gps_lat": 37.511759,
+    "gps_lon": 127.0555131,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼성어린이집",
+    "gps_lat": 37.49663609,
+    "gps_lon": 127.058851,
+    "radius_meters": 300
+  },
+  {
+    "name": "오르다어린이집",
+    "gps_lat": 37.51279678,
+    "gps_lon": 127.0505144,
+    "radius_meters": 300
+  },
+  {
+    "name": "선릉삼성어린이집",
+    "gps_lat": 37.506634,
+    "gps_lon": 127.051164,
+    "radius_meters": 300
+  },
+  {
+    "name": "논현어린이집",
+    "gps_lat": 37.51102773,
+    "gps_lon": 127.026898,
+    "radius_meters": 300
+  },
+  {
+    "name": "목련어린이집",
+    "gps_lat": 37.494007,
+    "gps_lon": 127.077734,
+    "radius_meters": 300
+  },
+  {
+    "name": "대치어린이집",
+    "gps_lat": 37.50185478,
+    "gps_lon": 127.065542,
+    "radius_meters": 300
+  },
+  {
+    "name": "한티어린이집",
+    "gps_lat": 37.49995467,
+    "gps_lon": 127.066938,
+    "radius_meters": 300
+  },
+  {
+    "name": "킹스키즈어린이집",
+    "gps_lat": 37.49983413,
+    "gps_lon": 127.056227,
+    "radius_meters": 300
+  },
+  {
+    "name": "가온어린이집",
+    "gps_lat": 37.501992,
+    "gps_lon": 126.932338,
+    "radius_meters": 300
+  },
+  {
+    "name": "누리어린이집",
+    "gps_lat": 37.4860685,
+    "gps_lon": 126.9058853,
+    "radius_meters": 300
+  },
+  {
+    "name": "양지어린이집",
+    "gps_lat": 37.48858884,
+    "gps_lon": 126.9720666,
+    "radius_meters": 300
+  },
+  {
+    "name": "예담어린이집",
+    "gps_lat": 37.5069456,
+    "gps_lon": 126.9512421,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈나무어린이집",
+    "gps_lat": 37.50461575,
+    "gps_lon": 126.9229536,
+    "radius_meters": 300
+  },
+  {
+    "name": "참사랑어린이집",
+    "gps_lat": 37.48280553,
+    "gps_lon": 126.9775139,
+    "radius_meters": 300
+  },
+  {
+    "name": "상도어린이집",
+    "gps_lat": 37.5024623,
+    "gps_lon": 126.9464077,
+    "radius_meters": 300
+  },
+  {
+    "name": "다문화어린이집",
+    "gps_lat": 37.4830324,
+    "gps_lon": 126.9787548,
+    "radius_meters": 300
+  },
+  {
+    "name": "문화어린이집",
+    "gps_lat": 37.4851433,
+    "gps_lon": 126.9724116,
+    "radius_meters": 300
+  },
+  {
+    "name": "큰별어린이집",
+    "gps_lat": 37.50463572,
+    "gps_lon": 126.965112,
+    "radius_meters": 300
+  },
+  {
+    "name": "성대어린이집",
+    "gps_lat": 37.49682045,
+    "gps_lon": 126.935311,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼성특수학교",
+    "gps_lat": 37.49919802,
+    "gps_lon": 126.9466724,
+    "radius_meters": 300
+  },
+  {
+    "name": "행복한숲유치원",
+    "gps_lat": 37.50763224,
+    "gps_lon": 126.9495433,
+    "radius_meters": 300
+  },
+  {
+    "name": "사당4동어린이집",
+    "gps_lat": 37.480666,
+    "gps_lon": 126.973077,
+    "radius_meters": 300
+  },
+  {
+    "name": "도레미어린이집",
+    "gps_lat": 37.50988801,
+    "gps_lon": 126.9591494,
+    "radius_meters": 300
+  },
+  {
+    "name": "흑석어린이집",
+    "gps_lat": 37.49960807,
+    "gps_lon": 126.9601642,
+    "radius_meters": 300
+  },
+  {
+    "name": "튼튼영어마스터 학원",
+    "gps_lat": 37.479934,
+    "gps_lon": 126.971286,
+    "radius_meters": 300
+  },
+  {
+    "name": "동작시사어학원",
+    "gps_lat": 37.488664,
+    "gps_lon": 126.9778247,
+    "radius_meters": 300
+  },
+  {
+    "name": "미래연미술학원",
+    "gps_lat": 37.480221,
+    "gps_lon": 126.971485,
+    "radius_meters": 300
+  },
+  {
+    "name": "대방유투엠학원",
+    "gps_lat": 37.505128,
+    "gps_lon": 126.924346,
+    "radius_meters": 300
+  },
+  {
+    "name": "윤슬어린이집",
+    "gps_lat": 37.49761215,
+    "gps_lon": 126.9372969,
+    "radius_meters": 300
+  },
+  {
+    "name": "이수어린이집",
+    "gps_lat": 37.49152281,
+    "gps_lon": 126.980752,
+    "radius_meters": 300
+  },
+  {
+    "name": "원일유치원",
+    "gps_lat": 37.535158,
+    "gps_lon": 126.881875,
+    "radius_meters": 300
+  },
+  {
+    "name": "빛나유치원",
+    "gps_lat": 37.52924989,
+    "gps_lon": 126.867095,
+    "radius_meters": 300
+  },
+  {
+    "name": "튼튼유치원",
+    "gps_lat": 37.525867,
+    "gps_lon": 126.857291,
+    "radius_meters": 300
+  },
+  {
+    "name": "세화유치원",
+    "gps_lat": 37.514999,
+    "gps_lon": 126.871238,
+    "radius_meters": 300
+  },
+  {
+    "name": "신목유치원",
+    "gps_lat": 37.546331,
+    "gps_lon": 126.870203,
+    "radius_meters": 300
+  },
+  {
+    "name": "다솜어린이집",
+    "gps_lat": 37.545105,
+    "gps_lon": 126.882074,
+    "radius_meters": 300
+  },
+  {
+    "name": "청솔어린이집",
+    "gps_lat": 37.540751,
+    "gps_lon": 126.864345,
+    "radius_meters": 300
+  },
+  {
+    "name": "파란들어린이집",
+    "gps_lat": 37.535612,
+    "gps_lon": 126.825367,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울SOS어린이집",
+    "gps_lat": 37.531678,
+    "gps_lon": 126.824872,
+    "radius_meters": 300
+  },
+  {
+    "name": "곰달래어린이집",
+    "gps_lat": 37.527705,
+    "gps_lon": 126.834015,
+    "radius_meters": 300
+  },
+  {
+    "name": "목동어린이집",
+    "gps_lat": 37.532909,
+    "gps_lon": 126.871605,
+    "radius_meters": 300
+  },
+  {
+    "name": "무궁화어린이집",
+    "gps_lat": 37.53476839,
+    "gps_lon": 126.867409,
+    "radius_meters": 300
+  },
+  {
+    "name": "엄마사랑어린이집",
+    "gps_lat": 37.541638,
+    "gps_lon": 126.869803,
+    "radius_meters": 300
+  },
+  {
+    "name": "우리또래어린이집",
+    "gps_lat": 37.521907,
+    "gps_lon": 126.832355,
+    "radius_meters": 300
+  },
+  {
+    "name": "은행정어린이집",
+    "gps_lat": 37.522863,
+    "gps_lon": 126.858452,
+    "radius_meters": 300
+  },
+  {
+    "name": "이화어린이집",
+    "gps_lat": 37.521823,
+    "gps_lon": 126.846909,
+    "radius_meters": 300
+  },
+  {
+    "name": "신정3어린이집",
+    "gps_lat": 37.518814,
+    "gps_lon": 126.850144,
+    "radius_meters": 300
+  },
+  {
+    "name": "은혜어린이집",
+    "gps_lat": 37.524044,
+    "gps_lon": 126.862155,
+    "radius_meters": 300
+  },
+  {
+    "name": "리라어린이집",
+    "gps_lat": 37.54057049,
+    "gps_lon": 126.8488773,
+    "radius_meters": 300
+  },
+  {
+    "name": "별빛어린이집",
+    "gps_lat": 37.55474529,
+    "gps_lon": 126.856853,
+    "radius_meters": 300
+  },
+  {
+    "name": "우장산어린이집",
+    "gps_lat": 37.54495059,
+    "gps_lon": 126.8392962,
+    "radius_meters": 300
+  },
+  {
+    "name": "눈높이러닝센터",
+    "gps_lat": 37.54262055,
+    "gps_lon": 126.8471427,
+    "radius_meters": 300
+  },
+  {
+    "name": "스터디플랜독서실",
+    "gps_lat": 37.53493717,
+    "gps_lon": 126.856235,
+    "radius_meters": 300
+  },
+  {
+    "name": "강서유치원",
+    "gps_lat": 37.54821327,
+    "gps_lon": 126.850057,
+    "radius_meters": 300
+  },
+  {
+    "name": "예일유치원",
+    "gps_lat": 37.55370085,
+    "gps_lon": 126.8291969,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울마곡유치원",
+    "gps_lat": 37.5692704,
+    "gps_lon": 126.8180306,
+    "radius_meters": 300
+  },
+  {
+    "name": "우현유치원",
+    "gps_lat": 37.55707841,
+    "gps_lon": 126.8380811,
+    "radius_meters": 300
+  },
+  {
+    "name": "금낭화유치원",
+    "gps_lat": 37.56861466,
+    "gps_lon": 126.8115422,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍신유치원",
+    "gps_lat": 37.54811747,
+    "gps_lon": 126.8325681,
+    "radius_meters": 300
+  },
+  {
+    "name": "교남학교",
+    "gps_lat": 37.54797109,
+    "gps_lon": 126.852349,
+    "radius_meters": 300
+  },
+  {
+    "name": "서진학교",
+    "gps_lat": 37.56547682,
+    "gps_lon": 126.8506223,
+    "radius_meters": 300
+  },
+  {
+    "name": "발산어린이집",
+    "gps_lat": 37.55446218,
+    "gps_lon": 126.8422029,
+    "radius_meters": 300
+  },
+  {
+    "name": "프란체스코어린이집",
+    "gps_lat": 37.55555429,
+    "gps_lon": 126.8146231,
+    "radius_meters": 300
+  },
+  {
+    "name": "곰달래어린이집",
+    "gps_lat": 37.53365341,
+    "gps_lon": 126.860201,
+    "radius_meters": 300
+  },
+  {
+    "name": "동산어린이집",
+    "gps_lat": 37.55153551,
+    "gps_lon": 126.8755553,
+    "radius_meters": 300
+  },
+  {
+    "name": "이레어린이집",
+    "gps_lat": 37.56950854,
+    "gps_lon": 126.8100263,
+    "radius_meters": 300
+  },
+  {
+    "name": "신원어린이집",
+    "gps_lat": 37.55101498,
+    "gps_lon": 126.8766502,
+    "radius_meters": 300
+  },
+  {
+    "name": "예은어린이집",
+    "gps_lat": 37.57807299,
+    "gps_lon": 126.8148839,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립아이솔어린이집",
+    "gps_lat": 37.56443212,
+    "gps_lon": 126.8073379,
+    "radius_meters": 300
+  },
+  {
+    "name": "어린왕자어린이집",
+    "gps_lat": 37.53506239,
+    "gps_lon": 126.846277,
+    "radius_meters": 300
+  },
+  {
+    "name": "에반어린이집",
+    "gps_lat": 37.53211181,
+    "gps_lon": 126.8479586,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립까치산어린이집",
+    "gps_lat": 37.53238327,
+    "gps_lon": 126.8485149,
+    "radius_meters": 300
+  },
+  {
+    "name": "배다리어린이집",
+    "gps_lat": 37.53127824,
+    "gps_lon": 126.8395428,
+    "radius_meters": 300
+  },
+  {
+    "name": "버클리어린이집",
+    "gps_lat": 37.55247286,
+    "gps_lon": 126.8301226,
+    "radius_meters": 300
+  },
+  {
+    "name": "LG사이언스파크어린이집",
+    "gps_lat": 37.56340309,
+    "gps_lon": 126.8312303,
+    "radius_meters": 300
+  },
+  {
+    "name": "하늘마음어린이집",
+    "gps_lat": 37.53900642,
+    "gps_lon": 126.8514129,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립새하늘어린이집",
+    "gps_lat": 37.53330739,
+    "gps_lon": 126.8414155,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈을여는어린이집",
+    "gps_lat": 37.53353374,
+    "gps_lon": 126.8592773,
+    "radius_meters": 300
+  },
+  {
+    "name": "성산어린이집",
+    "gps_lat": 37.56529764,
+    "gps_lon": 126.8114272,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립엠밸리큰나무어린이집",
+    "gps_lat": 37.56186182,
+    "gps_lon": 126.8360761,
+    "radius_meters": 300
+  },
+  {
+    "name": "하늘숲어린이집",
+    "gps_lat": 37.54336869,
+    "gps_lon": 126.8344082,
+    "radius_meters": 300
+  },
+  {
+    "name": "공공직장어린이집",
+    "gps_lat": 37.54356651,
+    "gps_lon": 126.8378838,
+    "radius_meters": 300
+  },
+  {
+    "name": "화일초등학교",
+    "gps_lat": 37.54071203,
+    "gps_lon": 126.8474708,
+    "radius_meters": 300
+  },
+  {
+    "name": "화일초등학교병설유치원",
+    "gps_lat": 37.54071203,
+    "gps_lon": 126.8474708,
+    "radius_meters": 300
+  },
+  {
+    "name": "수명초등학교",
+    "gps_lat": 37.55277267,
+    "gps_lon": 126.8238794,
+    "radius_meters": 300
+  },
+  {
+    "name": "등마초등학교",
+    "gps_lat": 37.54204371,
+    "gps_lon": 126.8616672,
+    "radius_meters": 300
+  },
+  {
+    "name": "미도유치원",
+    "gps_lat": 37.55046975,
+    "gps_lon": 126.8609722,
+    "radius_meters": 300
+  },
+  {
+    "name": "보라유치원",
+    "gps_lat": 37.56361691,
+    "gps_lon": 126.8473931,
+    "radius_meters": 300
+  },
+  {
+    "name": "신영유치원",
+    "gps_lat": 37.53098782,
+    "gps_lon": 126.849228,
+    "radius_meters": 300
+  },
+  {
+    "name": "대유유치원",
+    "gps_lat": 37.53400744,
+    "gps_lon": 126.8615982,
+    "radius_meters": 300
+  },
+  {
+    "name": "방화이화유치원",
+    "gps_lat": 37.57408919,
+    "gps_lon": 126.8135281,
+    "radius_meters": 300
+  },
+  {
+    "name": "국제유치원",
+    "gps_lat": 37.57051313,
+    "gps_lon": 126.8229443,
+    "radius_meters": 300
+  },
+  {
+    "name": "선미유치원",
+    "gps_lat": 37.53933165,
+    "gps_lon": 126.8436416,
+    "radius_meters": 300
+  },
+  {
+    "name": "신세기유치원",
+    "gps_lat": 37.57101357,
+    "gps_lon": 126.8465852,
+    "radius_meters": 300
+  },
+  {
+    "name": "우일유치원",
+    "gps_lat": 37.53517807,
+    "gps_lon": 126.855325,
+    "radius_meters": 300
+  },
+  {
+    "name": "윤서유치원",
+    "gps_lat": 37.54724497,
+    "gps_lon": 126.8322439,
+    "radius_meters": 300
+  },
+  {
+    "name": "등촌제일유치원",
+    "gps_lat": 37.55546786,
+    "gps_lon": 126.8593734,
+    "radius_meters": 300
+  },
+  {
+    "name": "인왕초교(병설)유치원",
+    "gps_lat": 37.59021988,
+    "gps_lon": 126.9448045,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍제초교(병설)유치원",
+    "gps_lat": 37.59350546,
+    "gps_lon": 126.9454205,
+    "radius_meters": 300
+  },
+  {
+    "name": "세브란스어린이집",
+    "gps_lat": 37.56427486,
+    "gps_lon": 126.944251,
+    "radius_meters": 300
+  },
+  {
+    "name": "환희어린이집",
+    "gps_lat": 37.57822384,
+    "gps_lon": 126.923846,
+    "radius_meters": 300
+  },
+  {
+    "name": "이대부속유치원",
+    "gps_lat": 37.56115022,
+    "gps_lon": 126.9427751,
+    "radius_meters": 300
+  },
+  {
+    "name": "현대홍익유치원",
+    "gps_lat": 37.58361673,
+    "gps_lon": 126.9422534,
+    "radius_meters": 300
+  },
+  {
+    "name": "가재울초등학교",
+    "gps_lat": 37.574695,
+    "gps_lon": 126.918151,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울외국인학교",
+    "gps_lat": 37.570325,
+    "gps_lon": 126.9361509,
+    "radius_meters": 300
+  },
+  {
+    "name": "새솔어린이집",
+    "gps_lat": 37.58581418,
+    "gps_lon": 126.9487231,
+    "radius_meters": 300
+  },
+  {
+    "name": "아현초교",
+    "gps_lat": 37.5558319,
+    "gps_lon": 126.9562422,
+    "radius_meters": 300
+  },
+  {
+    "name": "소의초교",
+    "gps_lat": 37.55278186,
+    "gps_lon": 126.9606556,
+    "radius_meters": 300
+  },
+  {
+    "name": "공덕초교",
+    "gps_lat": 37.54580335,
+    "gps_lon": 126.9548231,
+    "radius_meters": 300
+  },
+  {
+    "name": "공덕초교병설유치원",
+    "gps_lat": 37.54580335,
+    "gps_lon": 126.9548231,
+    "radius_meters": 300
+  },
+  {
+    "name": "마포초교",
+    "gps_lat": 37.53860225,
+    "gps_lon": 126.949816,
+    "radius_meters": 300
+  },
+  {
+    "name": "마포초교병설유치원",
+    "gps_lat": 37.53860225,
+    "gps_lon": 126.949816,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼성그린유치원",
+    "gps_lat": 37.53950336,
+    "gps_lon": 126.9515902,
+    "radius_meters": 300
+  },
+  {
+    "name": "용강초교",
+    "gps_lat": 37.54910215,
+    "gps_lon": 126.9440167,
+    "radius_meters": 300
+  },
+  {
+    "name": "용강초교병설유치원",
+    "gps_lat": 37.54910215,
+    "gps_lon": 126.9440167,
+    "radius_meters": 300
+  },
+  {
+    "name": "서강초교",
+    "gps_lat": 37.54869715,
+    "gps_lon": 126.9268951,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍대부속초교",
+    "gps_lat": 37.55964474,
+    "gps_lon": 126.9132084,
+    "radius_meters": 300
+  },
+  {
+    "name": "동교초교",
+    "gps_lat": 37.55862448,
+    "gps_lon": 126.9024006,
+    "radius_meters": 300
+  },
+  {
+    "name": "망원초교",
+    "gps_lat": 37.5608234,
+    "gps_lon": 126.9007631,
+    "radius_meters": 300
+  },
+  {
+    "name": "성서초교",
+    "gps_lat": 37.56059548,
+    "gps_lon": 126.9109264,
+    "radius_meters": 300
+  },
+  {
+    "name": "성원초교",
+    "gps_lat": 37.56697656,
+    "gps_lon": 126.9050853,
+    "radius_meters": 300
+  },
+  {
+    "name": "중동초교",
+    "gps_lat": 37.56641061,
+    "gps_lon": 126.9117752,
+    "radius_meters": 300
+  },
+  {
+    "name": "염리초교",
+    "gps_lat": 37.54271029,
+    "gps_lon": 126.945999,
+    "radius_meters": 300
+  },
+  {
+    "name": "신석초교",
+    "gps_lat": 37.54453582,
+    "gps_lon": 126.9377793,
+    "radius_meters": 300
+  },
+  {
+    "name": "창천초교",
+    "gps_lat": 37.55491782,
+    "gps_lon": 126.9392951,
+    "radius_meters": 300
+  },
+  {
+    "name": "창천초교병설유치원",
+    "gps_lat": 37.55491782,
+    "gps_lon": 126.9392951,
+    "radius_meters": 300
+  },
+  {
+    "name": "서교초교",
+    "gps_lat": 37.55488903,
+    "gps_lon": 126.9243787,
+    "radius_meters": 300
+  },
+  {
+    "name": "성산초교",
+    "gps_lat": 37.5534098,
+    "gps_lon": 126.9109504,
+    "radius_meters": 300
+  },
+  {
+    "name": "신북초교",
+    "gps_lat": 37.57110496,
+    "gps_lon": 126.9053603,
+    "radius_meters": 300
+  },
+  {
+    "name": "한서초교",
+    "gps_lat": 37.55364783,
+    "gps_lon": 126.9497788,
+    "radius_meters": 300
+  },
+  {
+    "name": "상암초교",
+    "gps_lat": 37.57633795,
+    "gps_lon": 126.8923441,
+    "radius_meters": 300
+  },
+  {
+    "name": "상암초교병설유치원",
+    "gps_lat": 37.57633795,
+    "gps_lon": 126.8923441,
+    "radius_meters": 300
+  },
+  {
+    "name": "상지초교",
+    "gps_lat": 37.57975102,
+    "gps_lon": 126.8820736,
+    "radius_meters": 300
+  },
+  {
+    "name": "상지초교병설유치원",
+    "gps_lat": 37.57975102,
+    "gps_lon": 126.8820736,
+    "radius_meters": 300
+  },
+  {
+    "name": "하늘초교",
+    "gps_lat": 37.5858088,
+    "gps_lon": 126.8808619,
+    "radius_meters": 300
+  },
+  {
+    "name": "일본인학교",
+    "gps_lat": 37.5836103,
+    "gps_lon": 126.8844154,
+    "radius_meters": 300
+  },
+  {
+    "name": "서일유치원",
+    "gps_lat": 37.567456,
+    "gps_lon": 126.9080453,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈터유치원",
+    "gps_lat": 37.565336,
+    "gps_lon": 126.909024,
+    "radius_meters": 300
+  },
+  {
+    "name": "새현대유치원",
+    "gps_lat": 37.54038696,
+    "gps_lon": 126.9535995,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍대병설유치원",
+    "gps_lat": 37.56350983,
+    "gps_lon": 126.9191674,
+    "radius_meters": 300
+  },
+  {
+    "name": "정님유치원",
+    "gps_lat": 37.550162,
+    "gps_lon": 126.947796,
+    "radius_meters": 300
+  },
+  {
+    "name": "배영유치원",
+    "gps_lat": 37.55252217,
+    "gps_lon": 126.919813,
+    "radius_meters": 300
+  },
+  {
+    "name": "나사렛유치원",
+    "gps_lat": 37.574336,
+    "gps_lon": 126.8903822,
+    "radius_meters": 300
+  },
+  {
+    "name": "대진유치원",
+    "gps_lat": 37.5621879,
+    "gps_lon": 126.9164186,
+    "radius_meters": 300
+  },
+  {
+    "name": "마포대진유치원",
+    "gps_lat": 37.561824,
+    "gps_lon": 126.919314,
+    "radius_meters": 300
+  },
+  {
+    "name": "월드유치원",
+    "gps_lat": 37.58040528,
+    "gps_lon": 126.8811065,
+    "radius_meters": 300
+  },
+  {
+    "name": "성결유치원",
+    "gps_lat": 37.54635578,
+    "gps_lon": 126.9373329,
+    "radius_meters": 300
+  },
+  {
+    "name": "샘물어린이집",
+    "gps_lat": 37.55807691,
+    "gps_lon": 126.8983079,
+    "radius_meters": 300
+  },
+  {
+    "name": "성산어린이집",
+    "gps_lat": 37.56852595,
+    "gps_lon": 126.9086641,
+    "radius_meters": 300
+  },
+  {
+    "name": "진선미어린이집",
+    "gps_lat": 37.53799783,
+    "gps_lon": 126.9454858,
+    "radius_meters": 300
+  },
+  {
+    "name": "창전어린이집",
+    "gps_lat": 37.5485756,
+    "gps_lon": 126.932464,
+    "radius_meters": 300
+  },
+  {
+    "name": "연화어린이집",
+    "gps_lat": 37.538243,
+    "gps_lon": 126.9505006,
+    "radius_meters": 300
+  },
+  {
+    "name": "서강어린이집",
+    "gps_lat": 37.55202328,
+    "gps_lon": 126.928204,
+    "radius_meters": 300
+  },
+  {
+    "name": "신석어린이집",
+    "gps_lat": 37.54245042,
+    "gps_lon": 126.9365308,
+    "radius_meters": 300
+  },
+  {
+    "name": "아이빛어린이집",
+    "gps_lat": 37.5490284,
+    "gps_lon": 126.9294901,
+    "radius_meters": 300
+  },
+  {
+    "name": "동교어린이집",
+    "gps_lat": 37.5562356,
+    "gps_lon": 126.9301277,
+    "radius_meters": 300
+  },
+  {
+    "name": "노고산어린이집",
+    "gps_lat": 37.55460223,
+    "gps_lon": 126.9384358,
+    "radius_meters": 300
+  },
+  {
+    "name": "남명초교",
+    "gps_lat": 37.515684,
+    "gps_lon": 126.854084,
+    "radius_meters": 300
+  },
+  {
+    "name": "양동초교",
+    "gps_lat": 37.525847,
+    "gps_lon": 126.8512402,
+    "radius_meters": 300
+  },
+  {
+    "name": "강서초교",
+    "gps_lat": 37.522413,
+    "gps_lon": 126.840913,
+    "radius_meters": 300
+  },
+  {
+    "name": "강신초교",
+    "gps_lat": 37.54209971,
+    "gps_lon": 126.829587,
+    "radius_meters": 300
+  },
+  {
+    "name": "강빛초등학교",
+    "gps_lat": 37.57434332,
+    "gps_lon": 127.1707749,
+    "radius_meters": 300
+  },
+  {
+    "name": "화랑유치원",
+    "gps_lat": 37.5428867,
+    "gps_lon": 127.1378446,
+    "radius_meters": 300
+  },
+  {
+    "name": "천호유치원",
+    "gps_lat": 37.5416383,
+    "gps_lon": 127.1308643,
+    "radius_meters": 300
+  },
+  {
+    "name": "가람유치원",
+    "gps_lat": 37.54851639,
+    "gps_lon": 127.1535579,
+    "radius_meters": 300
+  },
+  {
+    "name": "녹원유치원",
+    "gps_lat": 37.54851639,
+    "gps_lon": 127.1535579,
+    "radius_meters": 300
+  },
+  {
+    "name": "유정유치원",
+    "gps_lat": 37.525911,
+    "gps_lon": 127.1337598,
+    "radius_meters": 300
+  },
+  {
+    "name": "은새유치원",
+    "gps_lat": 37.55236741,
+    "gps_lon": 127.1526193,
+    "radius_meters": 300
+  },
+  {
+    "name": "반석유치원",
+    "gps_lat": 37.54281137,
+    "gps_lon": 127.1473249,
+    "radius_meters": 300
+  },
+  {
+    "name": "오송유치원",
+    "gps_lat": 37.5458079,
+    "gps_lon": 127.131908,
+    "radius_meters": 300
+  },
+  {
+    "name": "준현유치원",
+    "gps_lat": 37.53049305,
+    "gps_lon": 127.1266259,
+    "radius_meters": 300
+  },
+  {
+    "name": "성보나유치원",
+    "gps_lat": 37.5603217,
+    "gps_lon": 127.1694389,
+    "radius_meters": 300
+  },
+  {
+    "name": "예슬유치원",
+    "gps_lat": 37.55344749,
+    "gps_lon": 127.1256829,
+    "radius_meters": 300
+  },
+  {
+    "name": "구강사유치원",
+    "gps_lat": 37.5448184,
+    "gps_lon": 127.1288199,
+    "radius_meters": 300
+  },
+  {
+    "name": "둔촌유치원",
+    "gps_lat": 37.531341,
+    "gps_lon": 127.1397064,
+    "radius_meters": 300
+  },
+  {
+    "name": "명덕유치원",
+    "gps_lat": 37.5598384,
+    "gps_lon": 127.1531555,
+    "radius_meters": 300
+  },
+  {
+    "name": "천호초등학교",
+    "gps_lat": 37.54771897,
+    "gps_lon": 127.1365923,
+    "radius_meters": 300
+  },
+  {
+    "name": "강덕초등학교",
+    "gps_lat": 37.55954748,
+    "gps_lon": 127.1604836,
+    "radius_meters": 300
+  },
+  {
+    "name": "길동초등학교",
+    "gps_lat": 37.5380968,
+    "gps_lon": 127.1435022,
+    "radius_meters": 300
+  },
+  {
+    "name": "위례초등학교",
+    "gps_lat": 37.5223146,
+    "gps_lon": 127.1394366,
+    "radius_meters": 300
+  },
+  {
+    "name": "천동초등학교",
+    "gps_lat": 37.5410159,
+    "gps_lon": 127.1378287,
+    "radius_meters": 300
+  },
+  {
+    "name": "명원초등학교",
+    "gps_lat": 37.5512241,
+    "gps_lon": 127.1505002,
+    "radius_meters": 300
+  },
+  {
+    "name": "명일초등학교",
+    "gps_lat": 37.55454236,
+    "gps_lon": 127.1425695,
+    "radius_meters": 300
+  },
+  {
+    "name": "신암초등학교",
+    "gps_lat": 37.55002367,
+    "gps_lon": 127.1244044,
+    "radius_meters": 300
+  },
+  {
+    "name": "한산초등학교",
+    "gps_lat": 37.52869458,
+    "gps_lon": 127.1410769,
+    "radius_meters": 300
+  },
+  {
+    "name": "고일초등학교",
+    "gps_lat": 37.55154262,
+    "gps_lon": 127.1694101,
+    "radius_meters": 300
+  },
+  {
+    "name": "명덕초등학교",
+    "gps_lat": 37.55676233,
+    "gps_lon": 127.1450815,
+    "radius_meters": 300
+  },
+  {
+    "name": "묘곡초등학교",
+    "gps_lat": 37.55871279,
+    "gps_lon": 127.1530934,
+    "radius_meters": 300
+  },
+  {
+    "name": "상일초등학교",
+    "gps_lat": 37.54757217,
+    "gps_lon": 127.1726635,
+    "radius_meters": 300
+  },
+  {
+    "name": "신명초등학교",
+    "gps_lat": 37.5409577,
+    "gps_lon": 127.149989,
+    "radius_meters": 300
+  },
+  {
+    "name": "둔촌초등학교",
+    "gps_lat": 37.52624852,
+    "gps_lon": 127.1374348,
+    "radius_meters": 300
+  },
+  {
+    "name": "선사초등학교",
+    "gps_lat": 37.5558399,
+    "gps_lon": 127.128196,
+    "radius_meters": 300
+  },
+  {
+    "name": "강일초등학교",
+    "gps_lat": 37.56525568,
+    "gps_lon": 127.1772125,
+    "radius_meters": 300
+  },
+  {
+    "name": "강명초등학교",
+    "gps_lat": 37.55470604,
+    "gps_lon": 127.1733219,
+    "radius_meters": 300
+  },
+  {
+    "name": "강솔초등학교",
+    "gps_lat": 37.56186818,
+    "gps_lon": 127.1802689,
+    "radius_meters": 300
+  },
+  {
+    "name": "고현초등학교",
+    "gps_lat": 37.55380091,
+    "gps_lon": 127.1660305,
+    "radius_meters": 300
+  },
+  {
+    "name": "천일초등학교",
+    "gps_lat": 37.54436122,
+    "gps_lon": 127.1334367,
+    "radius_meters": 300
+  },
+  {
+    "name": "고명초등학교",
+    "gps_lat": 37.55297253,
+    "gps_lon": 127.1474362,
+    "radius_meters": 300
+  },
+  {
+    "name": "성내초등학교",
+    "gps_lat": 37.53135786,
+    "gps_lon": 127.1225001,
+    "radius_meters": 300
+  },
+  {
+    "name": "신원초교",
+    "gps_lat": 37.529559,
+    "gps_lon": 126.829864,
+    "radius_meters": 300
+  },
+  {
+    "name": "양강초교",
+    "gps_lat": 37.524234,
+    "gps_lon": 126.847852,
+    "radius_meters": 300
+  },
+  {
+    "name": "양원초교",
+    "gps_lat": 37.538217,
+    "gps_lon": 126.823106,
+    "radius_meters": 300
+  },
+  {
+    "name": "갈산초교",
+    "gps_lat": 37.512372,
+    "gps_lon": 126.870229,
+    "radius_meters": 300
+  },
+  {
+    "name": "강월초교",
+    "gps_lat": 37.516341,
+    "gps_lon": 126.833433,
+    "radius_meters": 300
+  },
+  {
+    "name": "경인초교",
+    "gps_lat": 37.532893,
+    "gps_lon": 126.885698,
+    "radius_meters": 300
+  },
+  {
+    "name": "계남초교",
+    "gps_lat": 37.510169,
+    "gps_lon": 126.860017,
+    "radius_meters": 300
+  },
+  {
+    "name": "목동초교",
+    "gps_lat": 37.522808,
+    "gps_lon": 126.8721195,
+    "radius_meters": 300
+  },
+  {
+    "name": "서정초교",
+    "gps_lat": 37.523451,
+    "gps_lon": 126.867237,
+    "radius_meters": 300
+  },
+  {
+    "name": "신목초교",
+    "gps_lat": 37.51661098,
+    "gps_lon": 126.872685,
+    "radius_meters": 300
+  },
+  {
+    "name": "신서초교",
+    "gps_lat": 37.520596,
+    "gps_lon": 126.862332,
+    "radius_meters": 300
+  },
+  {
+    "name": "양명초교",
+    "gps_lat": 37.516375,
+    "gps_lon": 126.856634,
+    "radius_meters": 300
+  },
+  {
+    "name": "양목초교",
+    "gps_lat": 37.523917,
+    "gps_lon": 126.861471,
+    "radius_meters": 300
+  },
+  {
+    "name": "양화초교",
+    "gps_lat": 37.5436693,
+    "gps_lon": 126.873986,
+    "radius_meters": 300
+  },
+  {
+    "name": "영도초교",
+    "gps_lat": 37.535952,
+    "gps_lon": 126.871944,
+    "radius_meters": 300
+  },
+  {
+    "name": "월촌초교",
+    "gps_lat": 37.540695,
+    "gps_lon": 126.876258,
+    "radius_meters": 300
+  },
+  {
+    "name": "정목초교",
+    "gps_lat": 37.53652885,
+    "gps_lon": 126.870051,
+    "radius_meters": 300
+  },
+  {
+    "name": "목원초교",
+    "gps_lat": 37.542936,
+    "gps_lon": 126.882479,
+    "radius_meters": 300
+  },
+  {
+    "name": "신강초교",
+    "gps_lat": 37.525717,
+    "gps_lon": 126.841556,
+    "radius_meters": 300
+  },
+  {
+    "name": "신남초교",
+    "gps_lat": 37.516529,
+    "gps_lon": 126.844798,
+    "radius_meters": 300
+  },
+  {
+    "name": "신기초교",
+    "gps_lat": 37.511312,
+    "gps_lon": 126.854215,
+    "radius_meters": 300
+  },
+  {
+    "name": "지향초교",
+    "gps_lat": 37.512839,
+    "gps_lon": 126.837024,
+    "radius_meters": 300
+  },
+  {
+    "name": "장수초교",
+    "gps_lat": 37.512998,
+    "gps_lon": 126.845158,
+    "radius_meters": 300
+  },
+  {
+    "name": "목운초교",
+    "gps_lat": 37.527011,
+    "gps_lon": 126.873011,
+    "radius_meters": 300
+  },
+  {
+    "name": "신은초교",
+    "gps_lat": 37.513992,
+    "gps_lon": 126.832171,
+    "radius_meters": 300
+  },
+  {
+    "name": "해림유치원",
+    "gps_lat": 37.541628,
+    "gps_lon": 126.882643,
+    "radius_meters": 300
+  },
+  {
+    "name": "등대유치원",
+    "gps_lat": 37.522133,
+    "gps_lon": 126.877791,
+    "radius_meters": 300
+  },
+  {
+    "name": "등촌유치원",
+    "gps_lat": 37.546576,
+    "gps_lon": 126.864907,
+    "radius_meters": 300
+  },
+  {
+    "name": "샘터유치원",
+    "gps_lat": 37.518051,
+    "gps_lon": 126.832489,
+    "radius_meters": 300
+  },
+  {
+    "name": "어린이의정원유치원",
+    "gps_lat": 37.506571,
+    "gps_lon": 126.864769,
+    "radius_meters": 300
+  },
+  {
+    "name": "가산어린이집",
+    "gps_lat": 37.48286945,
+    "gps_lon": 126.884264,
+    "radius_meters": 300
+  },
+  {
+    "name": "개미어린이집",
+    "gps_lat": 37.473043,
+    "gps_lon": 126.905858,
+    "radius_meters": 300
+  },
+  {
+    "name": "금주어린이집",
+    "gps_lat": 37.456479,
+    "gps_lon": 126.901661,
+    "radius_meters": 300
+  },
+  {
+    "name": "기쁨어린이집",
+    "gps_lat": 37.46448694,
+    "gps_lon": 126.8935255,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈나래 어린이집",
+    "gps_lat": 37.45492862,
+    "gps_lon": 126.8973661,
+    "radius_meters": 300
+  },
+  {
+    "name": "독산2동어린이집",
+    "gps_lat": 37.46434057,
+    "gps_lon": 126.9002913,
+    "radius_meters": 300
+  },
+  {
+    "name": "독산본동어린이집",
+    "gps_lat": 37.477419,
+    "gps_lon": 126.9025108,
+    "radius_meters": 300
+  },
+  {
+    "name": "모아래어린이집",
+    "gps_lat": 37.4762981,
+    "gps_lon": 126.8904616,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립별마루어린이집",
+    "gps_lat": 37.47469762,
+    "gps_lon": 126.9041282,
+    "radius_meters": 300
+  },
+  {
+    "name": "본동어린이집",
+    "gps_lat": 37.44861907,
+    "gps_lon": 126.9043182,
+    "radius_meters": 300
+  },
+  {
+    "name": "새길어린이집",
+    "gps_lat": 37.440234,
+    "gps_lon": 126.907423,
+    "radius_meters": 300
+  },
+  {
+    "name": "새롬어린이집",
+    "gps_lat": 37.46582119,
+    "gps_lon": 126.9072499,
+    "radius_meters": 300
+  },
+  {
+    "name": "샛별 어린이집",
+    "gps_lat": 37.47235419,
+    "gps_lon": 126.893013,
+    "radius_meters": 300
+  },
+  {
+    "name": "시흥4동어린이집",
+    "gps_lat": 37.45897879,
+    "gps_lon": 126.906171,
+    "radius_meters": 300
+  },
+  {
+    "name": "시흥5동어린이집",
+    "gps_lat": 37.449855,
+    "gps_lon": 126.907253,
+    "radius_meters": 300
+  },
+  {
+    "name": "양문어린이집",
+    "gps_lat": 37.44828316,
+    "gps_lon": 126.9002683,
+    "radius_meters": 300
+  },
+  {
+    "name": "옥계어린이집",
+    "gps_lat": 37.460122,
+    "gps_lon": 126.900303,
+    "radius_meters": 300
+  },
+  {
+    "name": "자연유아어린이집",
+    "gps_lat": 37.446718,
+    "gps_lon": 126.908245,
+    "radius_meters": 300
+  },
+  {
+    "name": "정심어린이집",
+    "gps_lat": 37.467721,
+    "gps_lon": 126.907262,
+    "radius_meters": 300
+  },
+  {
+    "name": "해솔예술어린이집",
+    "gps_lat": 37.463009,
+    "gps_lon": 126.900743,
+    "radius_meters": 300
+  },
+  {
+    "name": "동산유치원",
+    "gps_lat": 37.47690005,
+    "gps_lon": 126.9009599,
+    "radius_meters": 300
+  },
+  {
+    "name": "시내유치원",
+    "gps_lat": 37.476155,
+    "gps_lon": 126.891288,
+    "radius_meters": 300
+  },
+  {
+    "name": "명일유치원",
+    "gps_lat": 37.55454236,
+    "gps_lon": 127.1425695,
+    "radius_meters": 300
+  },
+  {
+    "name": "강덕초병설유치원",
+    "gps_lat": 37.55954748,
+    "gps_lon": 127.1604836,
+    "radius_meters": 300
+  },
+  {
+    "name": "고명초병설유치원",
+    "gps_lat": 37.55297253,
+    "gps_lon": 127.1474362,
+    "radius_meters": 300
+  },
+  {
+    "name": "혜림유치원",
+    "gps_lat": 37.494336,
+    "gps_lon": 127.135221,
+    "radius_meters": 300
+  },
+  {
+    "name": "가락초교병설유치원",
+    "gps_lat": 37.500021,
+    "gps_lon": 127.107604,
+    "radius_meters": 300
+  },
+  {
+    "name": "거여초교병설유치원",
+    "gps_lat": 37.505169,
+    "gps_lon": 127.140987,
+    "radius_meters": 300
+  },
+  {
+    "name": "거원초교병설유치원",
+    "gps_lat": 37.487625,
+    "gps_lon": 127.144936,
+    "radius_meters": 300
+  },
+  {
+    "name": "남천초교병설유치원",
+    "gps_lat": 37.500591,
+    "gps_lon": 127.150111,
+    "radius_meters": 300
+  },
+  {
+    "name": "방이초교병설유치원",
+    "gps_lat": 37.513432,
+    "gps_lon": 127.120499,
+    "radius_meters": 300
+  },
+  {
+    "name": "세륜초교병설유치원",
+    "gps_lat": 37.518558,
+    "gps_lon": 127.134163,
+    "radius_meters": 300
+  },
+  {
+    "name": "송전초교병설유치원",
+    "gps_lat": 37.508829,
+    "gps_lon": 127.095127,
+    "radius_meters": 300
+  },
+  {
+    "name": "송파초교병설유치원",
+    "gps_lat": 37.507137,
+    "gps_lon": 127.111119,
+    "radius_meters": 300
+  },
+  {
+    "name": "신천초교병설유치원",
+    "gps_lat": 37.514011,
+    "gps_lon": 127.095048,
+    "radius_meters": 300
+  },
+  {
+    "name": "아주초교병설유치원",
+    "gps_lat": 37.505827,
+    "gps_lon": 127.075768,
+    "radius_meters": 300
+  },
+  {
+    "name": "영풍초교병설유치원",
+    "gps_lat": 37.496209,
+    "gps_lon": 127.143015,
+    "radius_meters": 300
+  },
+  {
+    "name": "평화초교병설유치원",
+    "gps_lat": 37.491567,
+    "gps_lon": 127.122824,
+    "radius_meters": 300
+  },
+  {
+    "name": "잠신초교병설유치원",
+    "gps_lat": 37.514148,
+    "gps_lon": 127.087944,
+    "radius_meters": 300
+  },
+  {
+    "name": "잠일초교병설유치원",
+    "gps_lat": 37.514742,
+    "gps_lon": 127.081636,
+    "radius_meters": 300
+  },
+  {
+    "name": "가락본동어린이집",
+    "gps_lat": 37.50100345,
+    "gps_lon": 127.124647,
+    "radius_meters": 300
+  },
+  {
+    "name": "가원어린이집",
+    "gps_lat": 37.495576,
+    "gps_lon": 127.143689,
+    "radius_meters": 300
+  },
+  {
+    "name": "거여하나어린이집",
+    "gps_lat": 37.494581,
+    "gps_lon": 127.142173,
+    "radius_meters": 300
+  },
+  {
+    "name": "금륜어린이집",
+    "gps_lat": 37.499486,
+    "gps_lon": 127.148069,
+    "radius_meters": 300
+  },
+  {
+    "name": "뉴한가람어린이집",
+    "gps_lat": 37.499665,
+    "gps_lon": 127.146365,
+    "radius_meters": 300
+  },
+  {
+    "name": "디딤돌어린이집",
+    "gps_lat": 37.506252,
+    "gps_lon": 127.091831,
+    "radius_meters": 300
+  },
+  {
+    "name": "마천어린이집",
+    "gps_lat": 37.495807,
+    "gps_lon": 127.151666,
+    "radius_meters": 300
+  },
+  {
+    "name": "버들어린이집",
+    "gps_lat": 37.48129963,
+    "gps_lon": 127.131501,
+    "radius_meters": 300
+  },
+  {
+    "name": "산성어린이집",
+    "gps_lat": 37.497009,
+    "gps_lon": 127.148693,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼전하늘어린이집",
+    "gps_lat": 37.505402,
+    "gps_lon": 127.091942,
+    "radius_meters": 300
+  },
+  {
+    "name": "송파제일어린이집",
+    "gps_lat": 37.503653,
+    "gps_lon": 127.112225,
+    "radius_meters": 300
+  },
+  {
+    "name": "아산병원어린이집",
+    "gps_lat": 37.52959996,
+    "gps_lon": 127.110679,
+    "radius_meters": 300
+  },
+  {
+    "name": "양무리어린이집",
+    "gps_lat": 37.507701,
+    "gps_lon": 127.080241,
+    "radius_meters": 300
+  },
+  {
+    "name": "동천학교",
+    "gps_lat": 37.64451398,
+    "gps_lon": 127.0729253,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍은초등학교",
+    "gps_lat": 37.59754027,
+    "gps_lon": 126.949458,
+    "radius_meters": 300
+  },
+  {
+    "name": "상원초등학교",
+    "gps_lat": 37.66767304,
+    "gps_lon": 127.0597184,
+    "radius_meters": 300
+  },
+  {
+    "name": "상경초등학교",
+    "gps_lat": 37.67055277,
+    "gps_lon": 127.0516731,
+    "radius_meters": 300
+  },
+  {
+    "name": "동일초등학교",
+    "gps_lat": 37.6648142,
+    "gps_lon": 127.0541716,
+    "radius_meters": 300
+  },
+  {
+    "name": "상수초등학교",
+    "gps_lat": 37.65110673,
+    "gps_lon": 127.064735,
+    "radius_meters": 300
+  },
+  {
+    "name": "용동초등학교",
+    "gps_lat": 37.64108534,
+    "gps_lon": 127.0690832,
+    "radius_meters": 300
+  },
+  {
+    "name": "녹천초등학교",
+    "gps_lat": 37.62850733,
+    "gps_lon": 127.063113,
+    "radius_meters": 300
+  },
+  {
+    "name": "한천초등학교",
+    "gps_lat": 37.62070855,
+    "gps_lon": 127.0692456,
+    "radius_meters": 300
+  },
+  {
+    "name": "월계초등학교",
+    "gps_lat": 37.627663,
+    "gps_lon": 127.0501888,
+    "radius_meters": 300
+  },
+  {
+    "name": "중현초등학교",
+    "gps_lat": 37.63251336,
+    "gps_lon": 127.065953,
+    "radius_meters": 300
+  },
+  {
+    "name": "연촌초등학교",
+    "gps_lat": 37.634416,
+    "gps_lon": 127.0725121,
+    "radius_meters": 300
+  },
+  {
+    "name": "신상계초등학교",
+    "gps_lat": 37.66751782,
+    "gps_lon": 127.0758263,
+    "radius_meters": 300
+  },
+  {
+    "name": "을지초등학교",
+    "gps_lat": 37.65059011,
+    "gps_lon": 127.0730898,
+    "radius_meters": 300
+  },
+  {
+    "name": "불암초등학교",
+    "gps_lat": 37.65078343,
+    "gps_lon": 127.080671,
+    "radius_meters": 300
+  },
+  {
+    "name": "공연초등학교",
+    "gps_lat": 37.62754924,
+    "gps_lon": 127.0745082,
+    "radius_meters": 300
+  },
+  {
+    "name": "상계초등학교",
+    "gps_lat": 37.65962546,
+    "gps_lon": 127.0664937,
+    "radius_meters": 300
+  },
+  {
+    "name": "노원초등학교",
+    "gps_lat": 37.67359491,
+    "gps_lon": 127.0584536,
+    "radius_meters": 300
+  },
+  {
+    "name": "상월초등학교",
+    "gps_lat": 37.65865377,
+    "gps_lon": 127.056986,
+    "radius_meters": 300
+  },
+  {
+    "name": "노일초등학교",
+    "gps_lat": 37.67260103,
+    "gps_lon": 127.0535508,
+    "radius_meters": 300
+  },
+  {
+    "name": "태릉초등학교",
+    "gps_lat": 37.62310204,
+    "gps_lon": 127.0850611,
+    "radius_meters": 300
+  },
+  {
+    "name": "선곡초등학교",
+    "gps_lat": 37.61869289,
+    "gps_lon": 127.0578035,
+    "radius_meters": 300
+  },
+  {
+    "name": "중계초등학교",
+    "gps_lat": 37.65784108,
+    "gps_lon": 127.0733117,
+    "radius_meters": 300
+  },
+  {
+    "name": "신계초등학교",
+    "gps_lat": 37.62979181,
+    "gps_lon": 127.0527686,
+    "radius_meters": 300
+  },
+  {
+    "name": "정민학교",
+    "gps_lat": 37.633839,
+    "gps_lon": 127.0731686,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립왕십리하나어린이집",
+    "gps_lat": 37.560837,
+    "gps_lon": 127.0320321,
+    "radius_meters": 300
+  },
+  {
+    "name": "신금호자이어린이집",
+    "gps_lat": 37.5562227,
+    "gps_lon": 127.0181532,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈터어린이집",
+    "gps_lat": 37.5623123,
+    "gps_lon": 127.055149,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립홍익어린이집",
+    "gps_lat": 37.56783247,
+    "gps_lon": 127.0255294,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립용답어린이집",
+    "gps_lat": 37.56118504,
+    "gps_lon": 127.0563986,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립성모어린이집",
+    "gps_lat": 37.57022302,
+    "gps_lon": 127.033489,
+    "radius_meters": 300
+  },
+  {
+    "name": "구립금일어린이집",
+    "gps_lat": 37.55373617,
+    "gps_lon": 127.0248896,
+    "radius_meters": 300
+  },
+  {
+    "name": "연꽃어린이집",
+    "gps_lat": 37.5404159,
+    "gps_lon": 127.012722,
+    "radius_meters": 300
+  },
+  {
+    "name": "마장어린이집",
+    "gps_lat": 37.566426,
+    "gps_lon": 127.0455793,
+    "radius_meters": 300
+  },
+  {
+    "name": "행응어린이집",
+    "gps_lat": 37.553126,
+    "gps_lon": 127.0313028,
+    "radius_meters": 300
+  },
+  {
+    "name": "로사유치원",
+    "gps_lat": 37.5394137,
+    "gps_lon": 127.0462961,
+    "radius_meters": 300
+  },
+  {
+    "name": "옥수삼성유치원",
+    "gps_lat": 37.54262971,
+    "gps_lon": 127.0155564,
+    "radius_meters": 300
+  },
+  {
+    "name": "옥정병설유치원",
+    "gps_lat": 37.54230893,
+    "gps_lon": 127.0157872,
+    "radius_meters": 300
+  },
+  {
+    "name": "옥수병설유치원",
+    "gps_lat": 37.54552993,
+    "gps_lon": 127.0218712,
+    "radius_meters": 300
+  },
+  {
+    "name": "사근병설유치원",
+    "gps_lat": 37.56268098,
+    "gps_lon": 127.0475736,
+    "radius_meters": 300
+  },
+  {
+    "name": "마장병설유치원",
+    "gps_lat": 37.56812285,
+    "gps_lon": 127.0351082,
+    "radius_meters": 300
+  },
+  {
+    "name": "경수병설유치원",
+    "gps_lat": 37.54043604,
+    "gps_lon": 127.0580689,
+    "radius_meters": 300
+  },
+  {
+    "name": "한양여대부속유치원",
+    "gps_lat": 37.55947642,
+    "gps_lon": 127.0490746,
+    "radius_meters": 300
+  },
+  {
+    "name": "아이들세상유치원",
+    "gps_lat": 37.54532877,
+    "gps_lon": 127.017941,
+    "radius_meters": 300
+  },
+  {
+    "name": "금호유치원",
+    "gps_lat": 37.54879131,
+    "gps_lon": 127.0231125,
+    "radius_meters": 300
+  },
+  {
+    "name": "세성유치원",
+    "gps_lat": 37.55386308,
+    "gps_lon": 127.0340554,
+    "radius_meters": 300
+  },
+  {
+    "name": "송곡유치원",
+    "gps_lat": 37.56512898,
+    "gps_lon": 127.034625,
+    "radius_meters": 300
+  },
+  {
+    "name": "경동(벽산)유치원",
+    "gps_lat": 37.55453185,
+    "gps_lon": 127.0260929,
+    "radius_meters": 300
+  },
+  {
+    "name": "솔유치원",
+    "gps_lat": 37.56910834,
+    "gps_lon": 127.0326723,
+    "radius_meters": 300
+  },
+  {
+    "name": "경동(성수)유치원",
+    "gps_lat": 37.54382386,
+    "gps_lon": 127.0500737,
+    "radius_meters": 300
+  },
+  {
+    "name": "무학유치원",
+    "gps_lat": 37.5614705,
+    "gps_lon": 127.0306547,
+    "radius_meters": 300
+  },
+  {
+    "name": "성심유치원",
+    "gps_lat": 37.56624296,
+    "gps_lon": 127.0334181,
+    "radius_meters": 300
+  },
+  {
+    "name": "세인유치원",
+    "gps_lat": 37.56525103,
+    "gps_lon": 127.0465249,
+    "radius_meters": 300
+  },
+  {
+    "name": "율화유치원",
+    "gps_lat": 37.55648283,
+    "gps_lon": 127.0352744,
+    "radius_meters": 300
+  },
+  {
+    "name": "은로초등학교",
+    "gps_lat": 37.5031946,
+    "gps_lon": 126.9599999,
+    "radius_meters": 300
+  },
+  {
+    "name": "중대부속초등학교",
+    "gps_lat": 37.5054521,
+    "gps_lon": 126.9596784,
+    "radius_meters": 300
+  },
+  {
+    "name": "행림초등학교",
+    "gps_lat": 37.48221173,
+    "gps_lon": 126.9660323,
+    "radius_meters": 300
+  },
+  {
+    "name": "흑석초등학교",
+    "gps_lat": 37.5082938,
+    "gps_lon": 126.9651329,
+    "radius_meters": 300
+  },
+  {
+    "name": "상현초등학교",
+    "gps_lat": 37.49487529,
+    "gps_lon": 126.9526684,
+    "radius_meters": 300
+  },
+  {
+    "name": "동그라미유치원",
+    "gps_lat": 37.4816149,
+    "gps_lon": 126.9793688,
+    "radius_meters": 300
+  },
+  {
+    "name": "동아유치원",
+    "gps_lat": 37.50824932,
+    "gps_lon": 126.9433211,
+    "radius_meters": 300
+  },
+  {
+    "name": "명수유치원",
+    "gps_lat": 37.50872103,
+    "gps_lon": 126.9604526,
+    "radius_meters": 300
+  },
+  {
+    "name": "벧엘유치원",
+    "gps_lat": 37.50934081,
+    "gps_lon": 126.9422402,
+    "radius_meters": 300
+  },
+  {
+    "name": "사랑유치원",
+    "gps_lat": 37.49840123,
+    "gps_lon": 126.9211621,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍연초등학교",
+    "gps_lat": 37.58211871,
+    "gps_lon": 126.930689,
+    "radius_meters": 300
+  },
+  {
+    "name": "독립문어린이집",
+    "gps_lat": 37.56936251,
+    "gps_lon": 126.9581956,
+    "radius_meters": 300
+  },
+  {
+    "name": "한양제일유치원",
+    "gps_lat": 37.58327668,
+    "gps_lon": 126.947237,
+    "radius_meters": 300
+  },
+  {
+    "name": "연유치원",
+    "gps_lat": 37.58187905,
+    "gps_lon": 126.9240763,
+    "radius_meters": 300
+  },
+  {
+    "name": "충암유치원",
+    "gps_lat": 37.584535,
+    "gps_lon": 126.922319,
+    "radius_meters": 300
+  },
+  {
+    "name": "현대경복유치원",
+    "gps_lat": 37.58631614,
+    "gps_lon": 126.951501,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍제성당유치원",
+    "gps_lat": 37.590144,
+    "gps_lon": 126.9436562,
+    "radius_meters": 300
+  },
+  {
+    "name": "금화초교(병설)유치원",
+    "gps_lat": 37.568806,
+    "gps_lon": 126.9629414,
+    "radius_meters": 300
+  },
+  {
+    "name": "신화",
+    "gps_lat": 37.6326698,
+    "gps_lon": 127.0408596,
+    "radius_meters": 300
+  },
+  {
+    "name": "신창초교",
+    "gps_lat": 37.6361731,
+    "gps_lon": 127.0421969,
+    "radius_meters": 300
+  },
+  {
+    "name": "신학초교",
+    "gps_lat": 37.6609904,
+    "gps_lon": 127.0255131,
+    "radius_meters": 300
+  },
+  {
+    "name": "신방학초교",
+    "gps_lat": 37.6659578,
+    "gps_lon": 127.0292294,
+    "radius_meters": 300
+  },
+  {
+    "name": "창2동",
+    "gps_lat": 37.6573644,
+    "gps_lon": 127.0404264,
+    "radius_meters": 300
+  },
+  {
+    "name": "신세인",
+    "gps_lat": 37.6575153,
+    "gps_lon": 127.0405866,
+    "radius_meters": 300
+  },
+  {
+    "name": "이화",
+    "gps_lat": 37.6573827,
+    "gps_lon": 127.0404858,
+    "radius_meters": 300
+  },
+  {
+    "name": "햇살마루",
+    "gps_lat": 37.6575017,
+    "gps_lon": 127.0408123,
+    "radius_meters": 300
+  },
+  {
+    "name": "한내",
+    "gps_lat": 37.6614988112,
+    "gps_lon": 127.045084329,
+    "radius_meters": 300
+  },
+  {
+    "name": "방아골",
+    "gps_lat": 37.6692804,
+    "gps_lon": 127.032581,
+    "radius_meters": 300
+  },
+  {
+    "name": "인강",
+    "gps_lat": 37.6945202,
+    "gps_lon": 127.0421215,
+    "radius_meters": 300
+  },
+  {
+    "name": "하늘빛",
+    "gps_lat": 37.677656,
+    "gps_lon": 127.0440422,
+    "radius_meters": 300
+  },
+  {
+    "name": "창4동",
+    "gps_lat": 37.6421639,
+    "gps_lon": 127.0532892,
+    "radius_meters": 300
+  },
+  {
+    "name": "푸른신창",
+    "gps_lat": 37.6399528,
+    "gps_lon": 127.0415218,
+    "radius_meters": 300
+  },
+  {
+    "name": "신창",
+    "gps_lat": 37.6400934,
+    "gps_lon": 127.0413047,
+    "radius_meters": 300
+  },
+  {
+    "name": "행복둥지",
+    "gps_lat": 37.6397587,
+    "gps_lon": 127.0418041,
+    "radius_meters": 300
+  },
+  {
+    "name": "세인",
+    "gps_lat": 37.6588094,
+    "gps_lon": 127.0389515,
+    "radius_meters": 300
+  },
+  {
+    "name": "창3동",
+    "gps_lat": 37.6396519,
+    "gps_lon": 127.0428491,
+    "radius_meters": 300
+  },
+  {
+    "name": "방학3동",
+    "gps_lat": 37.6612213,
+    "gps_lon": 127.0324535,
+    "radius_meters": 300
+  },
+  {
+    "name": "쌍문1동",
+    "gps_lat": 37.6482929,
+    "gps_lon": 127.025917,
+    "radius_meters": 300
+  },
+  {
+    "name": "가인초등학교",
+    "gps_lat": 37.6599068,
+    "gps_lon": 127.0431592,
+    "radius_meters": 300
+  },
+  {
+    "name": "누원초등학교",
+    "gps_lat": 37.6869304,
+    "gps_lon": 127.0490694,
+    "radius_meters": 300
+  },
+  {
+    "name": "도봉초교",
+    "gps_lat": 37.6793783,
+    "gps_lon": 127.038218,
+    "radius_meters": 300
+  },
+  {
+    "name": "방학초교",
+    "gps_lat": 37.6640285,
+    "gps_lon": 127.0321675,
+    "radius_meters": 300
+  },
+  {
+    "name": "백운초교",
+    "gps_lat": 37.6532035,
+    "gps_lon": 127.0139875,
+    "radius_meters": 300
+  },
+  {
+    "name": "숭미초교",
+    "gps_lat": 37.6508453,
+    "gps_lon": 127.0279643,
+    "radius_meters": 300
+  },
+  {
+    "name": "은행나무어린이집",
+    "gps_lat": 37.5787566,
+    "gps_lon": 127.010937,
+    "radius_meters": 300
+  },
+  {
+    "name": "재동초등학교",
+    "gps_lat": 37.58002838,
+    "gps_lon": 126.9851785,
+    "radius_meters": 300
+  },
+  {
+    "name": "창신초등학교",
+    "gps_lat": 37.57621184,
+    "gps_lon": 127.0142955,
+    "radius_meters": 300
+  },
+  {
+    "name": "창신제일어린이집",
+    "gps_lat": 37.5785149,
+    "gps_lon": 127.0085733,
+    "radius_meters": 300
+  },
+  {
+    "name": "청룡유치원",
+    "gps_lat": 37.57941186,
+    "gps_lon": 127.016652,
+    "radius_meters": 300
+  },
+  {
+    "name": "청운어린이집",
+    "gps_lat": 37.5883981,
+    "gps_lon": 126.9660043,
+    "radius_meters": 300
+  },
+  {
+    "name": "청운초등학교",
+    "gps_lat": 37.5859741,
+    "gps_lon": 126.969236,
+    "radius_meters": 300
+  },
+  {
+    "name": "하비에르국제학교",
+    "gps_lat": 37.6107365,
+    "gps_lon": 126.9563721,
+    "radius_meters": 300
+  },
+  {
+    "name": "한빛어린이집",
+    "gps_lat": 37.574807,
+    "gps_lon": 127.019976,
+    "radius_meters": 300
+  },
+  {
+    "name": "한아름유치원",
+    "gps_lat": 37.590282,
+    "gps_lon": 127.0011512,
+    "radius_meters": 300
+  },
+  {
+    "name": "운현초등학교(교동)",
+    "gps_lat": 37.57506236,
+    "gps_lon": 126.9874209,
+    "radius_meters": 300
+  },
+  {
+    "name": "누상어린이집",
+    "gps_lat": 37.580716,
+    "gps_lon": 126.967169,
+    "radius_meters": 300
+  },
+  {
+    "name": "도담도담어린이집",
+    "gps_lat": 37.577024,
+    "gps_lon": 127.0218624,
+    "radius_meters": 300
+  },
+  {
+    "name": "독립문초등학교",
+    "gps_lat": 37.57421652,
+    "gps_lon": 126.9599719,
+    "radius_meters": 300
+  },
+  {
+    "name": "매동초등학교",
+    "gps_lat": 37.5774983,
+    "gps_lon": 126.9669436,
+    "radius_meters": 300
+  },
+  {
+    "name": "명륜어린이집",
+    "gps_lat": 37.5913091,
+    "gps_lon": 126.994933,
+    "radius_meters": 300
+  },
+  {
+    "name": "명신초등학교",
+    "gps_lat": 37.58145198,
+    "gps_lon": 127.0146226,
+    "radius_meters": 300
+  },
+  {
+    "name": "무궁화어린이집",
+    "gps_lat": 37.5847697,
+    "gps_lon": 126.9711023,
+    "radius_meters": 300
+  },
+  {
+    "name": "봄샘유치원",
+    "gps_lat": 37.57345547,
+    "gps_lon": 127.0065566,
+    "radius_meters": 300
+  },
+  {
+    "name": "부암어린이집",
+    "gps_lat": 37.6015004,
+    "gps_lon": 126.9631099,
+    "radius_meters": 300
+  },
+  {
+    "name": "상록수 어린이집",
+    "gps_lat": 37.5727172,
+    "gps_lon": 126.9646048,
+    "radius_meters": 300
+  },
+  {
+    "name": "상명대부속초등학교",
+    "gps_lat": 37.60044146,
+    "gps_lon": 126.956708,
+    "radius_meters": 300
+  },
+  {
+    "name": "생명숲어린이집",
+    "gps_lat": 37.606437,
+    "gps_lon": 126.968167,
+    "radius_meters": 300
+  },
+  {
+    "name": "국립서울맹학교",
+    "gps_lat": 37.58477134,
+    "gps_lon": 126.9677601,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울사대부설초등학교",
+    "gps_lat": 37.5775997,
+    "gps_lon": 127.0042973,
+    "radius_meters": 300
+  },
+  {
+    "name": "선재어린이집",
+    "gps_lat": 37.573435,
+    "gps_lon": 126.982239,
+    "radius_meters": 300
+  },
+  {
+    "name": "세검정유치원",
+    "gps_lat": 37.60027312,
+    "gps_lon": 126.9596544,
+    "radius_meters": 300
+  },
+  {
+    "name": "세검정초등학교",
+    "gps_lat": 37.60347028,
+    "gps_lon": 126.9609709,
+    "radius_meters": 300
+  },
+  {
+    "name": "세종유치원",
+    "gps_lat": 37.575477,
+    "gps_lon": 126.9700192,
+    "radius_meters": 300
+  },
+  {
+    "name": "수도사랑의학교",
+    "gps_lat": 37.574721,
+    "gps_lon": 126.965217,
+    "radius_meters": 300
+  },
+  {
+    "name": "아동회관어린이집",
+    "gps_lat": 37.57894723,
+    "gps_lon": 127.0144681,
+    "radius_meters": 300
+  },
+  {
+    "name": "엔젤키즈어린이집",
+    "gps_lat": 37.5985179,
+    "gps_lon": 126.960504,
+    "radius_meters": 300
+  },
+  {
+    "name": "연동유치원",
+    "gps_lat": 37.57398543,
+    "gps_lon": 127.0013212,
+    "radius_meters": 300
+  },
+  {
+    "name": "옥인유치원",
+    "gps_lat": 37.58222041,
+    "gps_lon": 126.970311,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울유치원",
+    "gps_lat": 37.60075012,
+    "gps_lon": 127.0687696,
+    "radius_meters": 300
+  },
+  {
+    "name": "소화유치원",
+    "gps_lat": 37.583038,
+    "gps_lon": 127.0347893,
+    "radius_meters": 300
+  },
+  {
+    "name": "예일유치원",
+    "gps_lat": 37.57734724,
+    "gps_lon": 127.064387,
+    "radius_meters": 300
+  },
+  {
+    "name": "젬마유치원",
+    "gps_lat": 37.5929418,
+    "gps_lon": 127.0594186,
+    "radius_meters": 300
+  },
+  {
+    "name": "동안유치원",
+    "gps_lat": 37.59253942,
+    "gps_lon": 127.0568457,
+    "radius_meters": 300
+  },
+  {
+    "name": "그림유치원",
+    "gps_lat": 37.576049,
+    "gps_lon": 127.0471757,
+    "radius_meters": 300
+  },
+  {
+    "name": "새소리유치원",
+    "gps_lat": 37.57665796,
+    "gps_lon": 127.0615657,
+    "radius_meters": 300
+  },
+  {
+    "name": "연세어린이집",
+    "gps_lat": 37.57607996,
+    "gps_lon": 127.0704404,
+    "radius_meters": 300
+  },
+  {
+    "name": "새하늘어린이집",
+    "gps_lat": 37.587691,
+    "gps_lon": 127.053698,
+    "radius_meters": 300
+  },
+  {
+    "name": "언덕위하얀어린이집",
+    "gps_lat": 37.584058,
+    "gps_lon": 127.032297,
+    "radius_meters": 300
+  },
+  {
+    "name": "대림늘푸른어린이집",
+    "gps_lat": 37.571142,
+    "gps_lon": 127.064401,
+    "radius_meters": 300
+  },
+  {
+    "name": "장안현대어린이집",
+    "gps_lat": 37.57105683,
+    "gps_lon": 127.0751137,
+    "radius_meters": 300
+  },
+  {
+    "name": "어린왕자어린이집",
+    "gps_lat": 37.60244927,
+    "gps_lon": 127.0630064,
+    "radius_meters": 300
+  },
+  {
+    "name": "늘봄어린이집",
+    "gps_lat": 37.59139124,
+    "gps_lon": 127.0623755,
+    "radius_meters": 300
+  },
+  {
+    "name": "포르테몬테소리어린이집",
+    "gps_lat": 37.56424458,
+    "gps_lon": 127.0714889,
+    "radius_meters": 300
+  },
+  {
+    "name": "유마어린이집",
+    "gps_lat": 37.58823375,
+    "gps_lon": 127.0470522,
+    "radius_meters": 300
+  },
+  {
+    "name": "용두희망어린이집",
+    "gps_lat": 37.57935638,
+    "gps_lon": 127.0262339,
+    "radius_meters": 300
+  },
+  {
+    "name": "성은어린이집",
+    "gps_lat": 37.59917356,
+    "gps_lon": 127.0679845,
+    "radius_meters": 300
+  },
+  {
+    "name": "한일어린이집",
+    "gps_lat": 37.59806481,
+    "gps_lon": 127.0656487,
+    "radius_meters": 300
+  },
+  {
+    "name": "조은어린이집",
+    "gps_lat": 37.57007076,
+    "gps_lon": 127.0598623,
+    "radius_meters": 300
+  },
+  {
+    "name": "꿈마루어린이집",
+    "gps_lat": 37.58550219,
+    "gps_lon": 127.0540414,
+    "radius_meters": 300
+  },
+  {
+    "name": "배봉어린이집",
+    "gps_lat": 37.5811645,
+    "gps_lon": 127.0706374,
+    "radius_meters": 300
+  },
+  {
+    "name": "햇살어린이집",
+    "gps_lat": 37.57281917,
+    "gps_lon": 127.0369829,
+    "radius_meters": 300
+  },
+  {
+    "name": "별밭어린이집",
+    "gps_lat": 37.57234503,
+    "gps_lon": 127.0685733,
+    "radius_meters": 300
+  },
+  {
+    "name": "이화어린이집",
+    "gps_lat": 37.57007078,
+    "gps_lon": 127.0727032,
+    "radius_meters": 300
+  },
+  {
+    "name": "중앙삐아제어린이집",
+    "gps_lat": 37.60403447,
+    "gps_lon": 127.0667747,
+    "radius_meters": 300
+  },
+  {
+    "name": "영유아프라자어린이집",
+    "gps_lat": 37.58372345,
+    "gps_lon": 127.0346575,
+    "radius_meters": 300
+  },
+  {
+    "name": "회기어린이집",
+    "gps_lat": 37.59067813,
+    "gps_lon": 127.0545526,
+    "radius_meters": 300
+  },
+  {
+    "name": "사군자어린이집",
+    "gps_lat": 37.56510957,
+    "gps_lon": 127.0638865,
+    "radius_meters": 300
+  },
+  {
+    "name": "예나어린이집",
+    "gps_lat": 37.58574501,
+    "gps_lon": 127.0394775,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼성어린이집",
+    "gps_lat": 37.57128823,
+    "gps_lon": 127.0682469,
+    "radius_meters": 300
+  },
+  {
+    "name": "더불어숲어린이집",
+    "gps_lat": 37.57567472,
+    "gps_lon": 127.0669941,
+    "radius_meters": 300
+  },
+  {
+    "name": "세하유치원",
+    "gps_lat": 37.56773522,
+    "gps_lon": 127.0729635,
+    "radius_meters": 300
+  },
+  {
+    "name": "오르다어린이집",
+    "gps_lat": 37.57180533,
+    "gps_lon": 127.0577463,
+    "radius_meters": 300
+  },
+  {
+    "name": "우아세어린이집",
+    "gps_lat": 37.57114155,
+    "gps_lon": 127.0577034,
+    "radius_meters": 300
+  },
+  {
+    "name": "세서울어린이집",
+    "gps_lat": 37.57172101,
+    "gps_lon": 127.067234,
+    "radius_meters": 300
+  },
+  {
+    "name": "구청(직장)어린이집",
+    "gps_lat": 37.57530824,
+    "gps_lon": 127.0391472,
+    "radius_meters": 300
+  },
+  {
+    "name": "솔향기어린이집",
+    "gps_lat": 37.568331,
+    "gps_lon": 127.071985,
+    "radius_meters": 300
+  },
+  {
+    "name": "열매국공립어린이집",
+    "gps_lat": 37.527417,
+    "gps_lon": 127.118041,
+    "radius_meters": 300
+  },
+  {
+    "name": "예랑어린이집",
+    "gps_lat": 37.504499,
+    "gps_lon": 127.102445,
+    "radius_meters": 300
+  },
+  {
+    "name": "예일어린이집",
+    "gps_lat": 37.503429,
+    "gps_lon": 127.085723,
+    "radius_meters": 300
+  },
+  {
+    "name": "오금어린이집",
+    "gps_lat": 37.502575,
+    "gps_lon": 127.140559,
+    "radius_meters": 300
+  },
+  {
+    "name": "오금숲어린이집",
+    "gps_lat": 37.503529,
+    "gps_lon": 127.128574,
+    "radius_meters": 300
+  },
+  {
+    "name": "은송어린이집",
+    "gps_lat": 37.493844,
+    "gps_lon": 127.126301,
+    "radius_meters": 300
+  },
+  {
+    "name": "한양초등학교",
+    "gps_lat": 37.55762103,
+    "gps_lon": 127.0502634,
+    "radius_meters": 300
+  },
+  {
+    "name": "숭신초등학교",
+    "gps_lat": 37.56781934,
+    "gps_lon": 127.0278897,
+    "radius_meters": 300
+  },
+  {
+    "name": "동호초등학교",
+    "gps_lat": 37.54646136,
+    "gps_lon": 127.0100124,
+    "radius_meters": 300
+  },
+  {
+    "name": "송원초등학교",
+    "gps_lat": 37.55415747,
+    "gps_lon": 127.069528,
+    "radius_meters": 300
+  },
+  {
+    "name": "행현초등학교",
+    "gps_lat": 37.5577098,
+    "gps_lon": 127.0293584,
+    "radius_meters": 300
+  },
+  {
+    "name": "행당초등학교",
+    "gps_lat": 37.55701994,
+    "gps_lon": 127.0348717,
+    "radius_meters": 300
+  },
+  {
+    "name": "성수초등학교",
+    "gps_lat": 37.54431313,
+    "gps_lon": 127.0631674,
+    "radius_meters": 300
+  },
+  {
+    "name": "응봉초등학교",
+    "gps_lat": 37.55025195,
+    "gps_lon": 127.0338274,
+    "radius_meters": 300
+  },
+  {
+    "name": "금북초등학교",
+    "gps_lat": 37.557465,
+    "gps_lon": 127.023576,
+    "radius_meters": 300
+  },
+  {
+    "name": "금옥초등학교",
+    "gps_lat": 37.54630189,
+    "gps_lon": 127.0176529,
+    "radius_meters": 300
+  },
+  {
+    "name": "용답초등학교",
+    "gps_lat": 37.5607767,
+    "gps_lon": 127.0537611,
+    "radius_meters": 300
+  },
+  {
+    "name": "경일초등학교",
+    "gps_lat": 37.5409419,
+    "gps_lon": 127.0466051,
+    "radius_meters": 300
+  },
+  {
+    "name": "옥수초등학교",
+    "gps_lat": 37.54552939,
+    "gps_lon": 127.0218696,
+    "radius_meters": 300
+  },
+  {
+    "name": "동명초등학교",
+    "gps_lat": 37.56812285,
+    "gps_lon": 127.0351082,
+    "radius_meters": 300
+  },
+  {
+    "name": "경수초등학교",
+    "gps_lat": 37.54043667,
+    "gps_lon": 127.0580668,
+    "radius_meters": 300
+  },
+  {
+    "name": "사근초등학교",
+    "gps_lat": 37.56267971,
+    "gps_lon": 127.0475738,
+    "radius_meters": 300
+  },
+  {
+    "name": "마장초등학교",
+    "gps_lat": 37.56830949,
+    "gps_lon": 127.042128,
+    "radius_meters": 300
+  },
+  {
+    "name": "경동초등학교",
+    "gps_lat": 37.5438253,
+    "gps_lon": 127.050074,
+    "radius_meters": 300
+  },
+  {
+    "name": "옥정초등학교",
+    "gps_lat": 37.54230974,
+    "gps_lon": 127.0157855,
+    "radius_meters": 300
+  },
+  {
+    "name": "금호초등학교",
+    "gps_lat": 37.55196497,
+    "gps_lon": 127.0197434,
+    "radius_meters": 300
+  },
+  {
+    "name": "무학초등학교",
+    "gps_lat": 37.56370023,
+    "gps_lon": 127.0291054,
+    "radius_meters": 300
+  },
+  {
+    "name": "송원병설유치원",
+    "gps_lat": 37.55415927,
+    "gps_lon": 127.0695262,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울신묵초등학교",
+    "gps_lat": 37.60652294,
+    "gps_lon": 127.0758372,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울양원숲초등학교",
+    "gps_lat": 37.60934379,
+    "gps_lon": 127.105122,
+    "radius_meters": 300
+  },
+  {
+    "name": "한내들어린이집",
+    "gps_lat": 37.604148,
+    "gps_lon": 127.0749772,
+    "radius_meters": 300
+  },
+  {
+    "name": "이루니유치원",
+    "gps_lat": 37.60162827,
+    "gps_lon": 127.0917588,
+    "radius_meters": 300
+  },
+  {
+    "name": "봄내유치원",
+    "gps_lat": 37.585935,
+    "gps_lon": 127.085535,
+    "radius_meters": 300
+  },
+  {
+    "name": "중곡초등학교병설유치원",
+    "gps_lat": 37.57489299,
+    "gps_lon": 127.0834395,
+    "radius_meters": 300
+  },
+  {
+    "name": "동원초등학교병설유치원",
+    "gps_lat": 37.60457824,
+    "gps_lon": 127.1044913,
+    "radius_meters": 300
+  },
+  {
+    "name": "수산유치원",
+    "gps_lat": 37.59762623,
+    "gps_lon": 127.0759685,
+    "radius_meters": 300
+  },
+  {
+    "name": "미림유치원",
+    "gps_lat": 37.61646036,
+    "gps_lon": 127.0793223,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울원묵초등학교",
+    "gps_lat": 37.6177489,
+    "gps_lon": 127.0868129,
+    "radius_meters": 300
+  },
+  {
+    "name": "동일유치원",
+    "gps_lat": 37.57814651,
+    "gps_lon": 127.084613,
+    "radius_meters": 300
+  },
+  {
+    "name": "색동유치원",
+    "gps_lat": 37.591641,
+    "gps_lon": 127.0784011,
+    "radius_meters": 300
+  },
+  {
+    "name": "솔방울유치원",
+    "gps_lat": 37.57385234,
+    "gps_lon": 127.087174,
+    "radius_meters": 300
+  },
+  {
+    "name": "예원유치원",
+    "gps_lat": 37.6059759,
+    "gps_lon": 127.0947267,
+    "radius_meters": 300
+  },
+  {
+    "name": "정암유치원",
+    "gps_lat": 37.601161,
+    "gps_lon": 127.1037709,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울새솔초등학교",
+    "gps_lat": 37.61795176,
+    "gps_lon": 127.1113289,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울묵현초등학교",
+    "gps_lat": 37.6090795,
+    "gps_lon": 127.073615,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울중흥초등학교",
+    "gps_lat": 37.601635,
+    "gps_lon": 127.0841443,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울중목초등학교",
+    "gps_lat": 37.59008654,
+    "gps_lon": 127.079339,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울신현초등학교",
+    "gps_lat": 37.60581469,
+    "gps_lon": 127.0935215,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울봉화초등학교",
+    "gps_lat": 37.61357488,
+    "gps_lon": 127.0924077,
+    "radius_meters": 300
+  },
+  {
+    "name": "묵현초등학교병설유치원",
+    "gps_lat": 37.6090795,
+    "gps_lon": 127.073615,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울면목초등학교",
+    "gps_lat": 37.59069723,
+    "gps_lon": 127.0872887,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울동원초등학교",
+    "gps_lat": 37.60457653,
+    "gps_lon": 127.1044914,
+    "radius_meters": 300
+  },
+  {
+    "name": "금성초등학교",
+    "gps_lat": 37.61531395,
+    "gps_lon": 127.0898591,
+    "radius_meters": 300
+  },
+  {
+    "name": "선린초등학교",
+    "gps_lat": 37.52976012,
+    "gps_lon": 127.145594,
+    "radius_meters": 300
+  },
+  {
+    "name": "강동초등학교",
+    "gps_lat": 37.5463638,
+    "gps_lon": 127.1301872,
+    "radius_meters": 300
+  },
+  {
+    "name": "고덕초등학교",
+    "gps_lat": 37.56129361,
+    "gps_lon": 127.1660799,
+    "radius_meters": 300
+  },
+  {
+    "name": "대명초등학교",
+    "gps_lat": 37.5476037,
+    "gps_lon": 127.1532701,
+    "radius_meters": 300
+  },
+  {
+    "name": "신답초교",
+    "gps_lat": 37.57270542,
+    "gps_lon": 127.0429615,
+    "radius_meters": 300
+  },
+  {
+    "name": "안평초교",
+    "gps_lat": 37.56596984,
+    "gps_lon": 127.0720337,
+    "radius_meters": 300
+  },
+  {
+    "name": "장평초교",
+    "gps_lat": 37.57399475,
+    "gps_lon": 127.0738934,
+    "radius_meters": 300
+  },
+  {
+    "name": "장평초교병설유치원",
+    "gps_lat": 37.57399475,
+    "gps_lon": 127.0738934,
+    "radius_meters": 300
+  },
+  {
+    "name": "종암초교",
+    "gps_lat": 37.58230633,
+    "gps_lon": 127.0318584,
+    "radius_meters": 300
+  },
+  {
+    "name": "청량초교",
+    "gps_lat": 37.59230922,
+    "gps_lon": 127.055908,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍릉초교",
+    "gps_lat": 37.59068743,
+    "gps_lon": 127.0477047,
+    "radius_meters": 300
+  },
+  {
+    "name": "배봉초교",
+    "gps_lat": 37.58008059,
+    "gps_lon": 127.0668713,
+    "radius_meters": 300
+  },
+  {
+    "name": "전곡초교",
+    "gps_lat": 37.58070438,
+    "gps_lon": 127.0560126,
+    "radius_meters": 300
+  },
+  {
+    "name": "전농초교",
+    "gps_lat": 37.57472977,
+    "gps_lon": 127.0543327,
+    "radius_meters": 300
+  },
+  {
+    "name": "그라시엘어린이집",
+    "gps_lat": 37.57727058,
+    "gps_lon": 127.0429119702,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울묵동초등학교",
+    "gps_lat": 37.60335895,
+    "gps_lon": 127.0808259,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울면일초등학교",
+    "gps_lat": 37.59204241,
+    "gps_lon": 127.0997953,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울중화초등학교",
+    "gps_lat": 37.60292027,
+    "gps_lon": 127.094066,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울중랑초등학교",
+    "gps_lat": 37.58966381,
+    "gps_lon": 127.0755031,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울중곡초등학교",
+    "gps_lat": 37.57489299,
+    "gps_lon": 127.0834395,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울신내초등학교",
+    "gps_lat": 37.6049335,
+    "gps_lon": 127.100154,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울면중초등학교",
+    "gps_lat": 37.582402,
+    "gps_lon": 127.0965491,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울면북초등학교",
+    "gps_lat": 37.594475,
+    "gps_lon": 127.1035487,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울면동초등학교",
+    "gps_lat": 37.58535305,
+    "gps_lon": 127.0865941,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울면남초등학교",
+    "gps_lat": 37.57726134,
+    "gps_lon": 127.087667,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울망우초등학교",
+    "gps_lat": 37.59873869,
+    "gps_lon": 127.1038401,
+    "radius_meters": 300
+  },
+  {
+    "name": "서울상봉초등학교",
+    "gps_lat": 37.59798021,
+    "gps_lon": 127.0831709,
+    "radius_meters": 300
+  },
+  {
+    "name": "세화어린이집",
+    "gps_lat": 37.59993259,
+    "gps_lon": 127.073783,
+    "radius_meters": 300
+  },
+  {
+    "name": "나래어린이집",
+    "gps_lat": 37.59172695,
+    "gps_lon": 127.0837119,
+    "radius_meters": 300
+  },
+  {
+    "name": "이화어린이집",
+    "gps_lat": 37.573952,
+    "gps_lon": 127.080811,
+    "radius_meters": 300
+  },
+  {
+    "name": "상봉어린이집",
+    "gps_lat": 37.60202594,
+    "gps_lon": 127.0901512,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼성어린이집",
+    "gps_lat": 37.5941501,
+    "gps_lon": 127.0869214,
+    "radius_meters": 300
+  },
+  {
+    "name": "태양어린이집",
+    "gps_lat": 37.57405193,
+    "gps_lon": 127.0453445,
+    "radius_meters": 300
+  },
+  {
+    "name": "동대문어린이집",
+    "gps_lat": 37.57180206,
+    "gps_lon": 127.0512824,
+    "radius_meters": 300
+  },
+  {
+    "name": "메꽃어린이집",
+    "gps_lat": 37.57171567,
+    "gps_lon": 127.0760464,
+    "radius_meters": 300
+  },
+  {
+    "name": "장안어린이집",
+    "gps_lat": 37.5641117,
+    "gps_lon": 127.069485,
+    "radius_meters": 300
+  },
+  {
+    "name": "푸른하늘어린이집",
+    "gps_lat": 37.56894421,
+    "gps_lon": 127.0669403,
+    "radius_meters": 300
+  },
+  {
+    "name": "해오름어린이집",
+    "gps_lat": 37.58402117,
+    "gps_lon": 127.0341959,
+    "radius_meters": 300
+  },
+  {
+    "name": "휘경어린이집",
+    "gps_lat": 37.58711503,
+    "gps_lon": 127.0577157,
+    "radius_meters": 300
+  },
+  {
+    "name": "전동초교",
+    "gps_lat": 37.57908644,
+    "gps_lon": 127.0608069,
+    "radius_meters": 300
+  },
+  {
+    "name": "전동초교병설유치원",
+    "gps_lat": 37.57908644,
+    "gps_lon": 127.0608069,
+    "radius_meters": 300
+  },
+  {
+    "name": "이문초교",
+    "gps_lat": 37.60189478,
+    "gps_lon": 127.0648841,
+    "radius_meters": 300
+  },
+  {
+    "name": "이문초교병설유치원",
+    "gps_lat": 37.60189478,
+    "gps_lon": 127.0648841,
+    "radius_meters": 300
+  },
+  {
+    "name": "휘경초교",
+    "gps_lat": 37.5857622,
+    "gps_lon": 127.0582128,
+    "radius_meters": 300
+  },
+  {
+    "name": "휘경초교단설유치원",
+    "gps_lat": 37.5857622,
+    "gps_lon": 127.0582128,
+    "radius_meters": 300
+  },
+  {
+    "name": "삼육초교",
+    "gps_lat": 37.58877033,
+    "gps_lon": 127.0471736,
+    "radius_meters": 300
+  },
+  {
+    "name": "은석초교",
+    "gps_lat": 37.57855561,
+    "gps_lon": 127.0757645,
+    "radius_meters": 300
+  },
+  {
+    "name": "용두초교",
+    "gps_lat": 37.57641471,
+    "gps_lon": 127.0283873,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍파초교",
+    "gps_lat": 37.58620351,
+    "gps_lon": 127.0395874,
+    "radius_meters": 300
+  },
+  {
+    "name": "홍파초교병설유치원",
+    "gps_lat": 37.58620351,
+    "gps_lon": 127.0395874,
+    "radius_meters": 300
+  },
+  {
+    "name": "휘봉초교",
+    "gps_lat": 37.58567758,
+    "gps_lon": 127.0700419,
+    "radius_meters": 300
+  },
+  {
+    "name": "휘봉초교병설유치원",
+    "gps_lat": 37.58567758,
+    "gps_lon": 127.0700419,
+    "radius_meters": 300
+  },
+  {
+    "name": "빛나어린이집",
+    "gps_lat": 37.56720004,
+    "gps_lon": 127.0564912,
+    "radius_meters": 300
+  },
+  {
+    "name": "아이비유치원",
+    "gps_lat": 37.5828204,
+    "gps_lon": 127.0687172,
+    "radius_meters": 300
+  },
+  {
+    "name": "군자초교",
+    "gps_lat": 37.56412385,
+    "gps_lon": 127.0605231,
+    "radius_meters": 300
+  },
+  {
+    "name": "군자초교병설유치원",
+    "gps_lat": 37.56412385,
+    "gps_lon": 127.0605231,
+    "radius_meters": 300
+  },
+  {
+    "name": "답십리초교",
+    "gps_lat": 37.56880432,
+    "gps_lon": 127.0554295,
+    "radius_meters": 300
+  },
+  {
+    "name": "답십리초교병설유치원",
+    "gps_lat": 37.56880432,
+    "gps_lon": 127.0554295,
+    "radius_meters": 300
+  },
+  {
+    "name": "동답초교",
+    "gps_lat": 37.57150295,
+    "gps_lon": 127.0640336,
+    "radius_meters": 300
+  }
+]

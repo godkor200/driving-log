@@ -2,6 +2,8 @@
 
 차량의 Raw 로그 데이터를 수신하여 데이터 정합성을 확보하고 주행 패턴을 분석하는 백엔드 시스템입니다.
 
+블로그: [실시간 차량 운행 로그 분석 시스템을 만들며 배운 것](https://velog.io/@godkor200/%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%B0%A8%EB%9F%89-%EC%9A%B4%ED%96%89-%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84-%EB%A7%8C%EB%93%A4%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B2%83)
+
 ## 아키텍처
 
 ```mermaid

@@ -2,11 +2,33 @@
 
 차량의 Raw 로그 데이터를 수신하여 데이터 정합성을 확보하고 주행 패턴을 분석하는 백엔드 시스템입니다.
 
+## 아키텍처
+
+```mermaid
+flowchart LR
+    Client -->|POST /analyze| API[FastAPI]
+    API --> Cleansing
+    Cleansing --> Segmentation
+    Segmentation --> Detection
+    Detection --> DB[(PostgreSQL\nor SQLite)]
+    ZoneCache[restricted_zones.json\n서버 시작 시 캐싱] --> Detection
+```
+
 ## 실행 환경
 
-- Python 3.11 이상
+- Python 3.11 이상 / Docker
 
-## 설치 및 실행
+## Docker로 실행 (권장)
+
+```bash
+# 1. 환경변수 설정
+cp .env.example .env
+
+# 2. 컨테이너 빌드 및 실행 (app + PostgreSQL)
+docker compose up --build
+```
+
+## 로컬 실행 (SQLite)
 
 ```bash
 # 1. 가상환경 생성 및 활성화
@@ -122,5 +144,6 @@ Raw Records → Cleansing → Segmentation → Detection → DB 저장
 |------|-----------|
 | **FastAPI** | Pydantic 기반 입력 검증 내장, 자동 API 문서화 |
 | **SQLAlchemy 2.0** | ORM으로 DB 종속성 분리, Core bulk insert로 대용량 적재 최적화 |
-| **SQLite** | Docker 없이 평가 환경에서 즉시 실행 가능하도록 선택. SQLAlchemy 위에서 동작하므로 `DATABASE_URL` 변경만으로 PostgreSQL 전환 가능 |
+| **PostgreSQL / SQLite** | `DATABASE_URL` 환경변수 하나로 전환 가능. Docker 환경은 PostgreSQL, 로컬 개발은 SQLite |
+| **Docker Compose** | app + PostgreSQL 단일 명령 실행. healthcheck로 DB 준비 전 앱 기동 방지 |
 | **pytest** | 파이프라인 단계별 단위 테스트 + E2E 테스트 |

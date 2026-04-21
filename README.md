@@ -6,12 +6,13 @@
 
 ```mermaid
 flowchart LR
-    Client -->|POST /analyze| API[FastAPI]
-    API --> Cleansing
-    Cleansing --> Segmentation
-    Segmentation --> Detection
-    Detection --> DB[(PostgreSQL\nor SQLite)]
+    Producer[produce_logs.py\n시뮬레이터] -->|record| Kafka[(Kafka\ndriving-logs)]
+    Kafka --> Consumer[Consumer 서비스\n10초 윈도우 버퍼링]
+    Consumer --> Cleansing --> Segmentation --> Detection
+    Detection --> DB[(PostgreSQL)]
     ZoneCache[restricted_zones.json\n서버 시작 시 캐싱] --> Detection
+    Client -->|GET /trips/id| API[FastAPI]
+    API --> DB
 ```
 
 ## 실행 환경
@@ -24,8 +25,22 @@ flowchart LR
 # 1. 환경변수 설정
 cp .env.example .env
 
-# 2. 컨테이너 빌드 및 실행 (app + PostgreSQL)
+# 2. 전체 서비스 실행 (app + PostgreSQL + Kafka + consumer)
 docker compose up --build
+```
+
+## 실시간 스트리밍 테스트
+
+```bash
+# 1. docker compose up 후 새 터미널에서 producer 실행
+# driving_log.json을 Kafka 토픽으로 10ms 간격으로 전송
+python scripts/produce_logs.py
+
+# 2. consumer가 10초 윈도우마다 자동 처리 — 로그 확인
+docker compose logs -f consumer
+
+# 3. 처리 결과 조회
+curl http://localhost:8000/trips/1
 ```
 
 ## 로컬 실행 (SQLite)

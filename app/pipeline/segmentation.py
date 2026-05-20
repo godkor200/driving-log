@@ -1,4 +1,4 @@
-import numpy as np
+from haversine import haversine, Unit
 
 from app.types import Record
 
@@ -39,22 +39,12 @@ def calc_distance_km(records: list[Record]) -> float:
     if len(records) < 2:
         return 0.0
 
-    lats = np.array([r["gps_lat"] if r["gps_lat"] is not None else np.nan for r in records])
-    lons = np.array([r["gps_lon"] if r["gps_lon"] is not None else np.nan for r in records])
+    total = 0.0
+    for i in range(1, len(records)):
+        lat0, lon0 = records[i - 1]["gps_lat"], records[i - 1]["gps_lon"]
+        lat1, lon1 = records[i]["gps_lat"], records[i]["gps_lon"]
+        if any(v is None for v in (lat0, lon0, lat1, lon1)):
+            continue
+        total += haversine((lat0, lon0), (lat1, lon1), unit=Unit.KILOMETERS)
 
-    # 인접 쌍 중 양쪽 모두 유효한 GPS를 가진 구간만 선택
-    valid = ~(np.isnan(lats[:-1]) | np.isnan(lons[:-1]) | np.isnan(lats[1:]) | np.isnan(lons[1:]))
-    if not valid.any():
-        return 0.0
-
-    lat1 = np.radians(lats[:-1][valid])
-    lat2 = np.radians(lats[1:][valid])
-    lon1 = np.radians(lons[:-1][valid])
-    lon2 = np.radians(lons[1:][valid])
-
-    d_lat = lat2 - lat1
-    d_lon = lon2 - lon1
-    a = np.sin(d_lat / 2) ** 2 + np.cos(lat1) * np.cos(lat2) * np.sin(d_lon / 2) ** 2
-    distances_km = 2 * 6371.0 * np.arcsin(np.sqrt(a))
-
-    return round(float(distances_km.sum()), 4)
+    return round(total, 4)

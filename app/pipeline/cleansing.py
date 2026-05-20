@@ -75,7 +75,7 @@ def _interpolate_missing(records: list[Record]) -> list[Record]:
         if not valid_mask.any():
             continue
 
-        # 유효값 기준으로 전체 구간 보간 — Python 루프 없음
+        # 유효값 기준으로 전체 구간 보간
         filled = np.interp(timestamps, timestamps[valid_mask], values[valid_mask])
         for i, v in enumerate(filled):
             records[i][field] = float(v)

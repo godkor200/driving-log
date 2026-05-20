@@ -219,24 +219,19 @@ record[1] -> record[2]
 record[2] -> record[3]
 ```
 
-각 구간을 Python loop로 계산할 수도 있지만 이 프로젝트에서는 NumPy 배열로 한 번에 계산했다.
+코드에서는 haversine 라이브러리로 구간별 거리를 합산한다. GPS가 None인 구간은 건너뛴다.
 
 ```python
-lat1 = np.radians(lats[:-1][valid])
-lat2 = np.radians(lats[1:][valid])
-lon1 = np.radians(lons[:-1][valid])
-lon2 = np.radians(lons[1:][valid])
-
-d_lat = lat2 - lat1
-d_lon = lon2 - lon1
-
-a = np.sin(d_lat / 2) ** 2 \
-    + np.cos(lat1) * np.cos(lat2) * np.sin(d_lon / 2) ** 2
-
-distances_km = 2 * 6371.0 * np.arcsin(np.sqrt(a))
+total = 0.0
+for i in range(1, len(records)):
+    lat0, lon0 = records[i - 1]["gps_lat"], records[i - 1]["gps_lon"]
+    lat1, lon1 = records[i]["gps_lat"], records[i]["gps_lon"]
+    if any(v is None for v in (lat0, lon0, lat1, lon1)):
+        continue
+    total += haversine((lat0, lon0), (lat1, lon1), unit=Unit.KILOMETERS)
 ```
 
-GPS가 없는 구간은 NaN mask로 제외한다. 계산 가능한 구간만 거리 합산에 포함한다.
+haversine 라이브러리는 GPS 점프 탐지와 제한구역 거리 계산에서도 동일하게 쓰인다. 프로젝트 전체에서 거리 계산을 한 곳에서 일관되게 처리한다.
 
 ## 위험 이벤트 탐지
 
@@ -390,4 +385,4 @@ Kafka consumer buffer도 `MAX_BUFFER_SIZE`(기본값 50,000건)로 상한을 둔
 
 ## 포트폴리오용 요약
 
-차량 주행 로그를 Kafka 기반으로 실시간 수신하고 시간 윈도우 단위로 정제와 Trip 분리 그리고 위험 이벤트 탐지를 수행하는 백엔드 파이프라인을 구현했다. cleansing은 중복 timestamp 제거와 GPS 좌표 점프 탐지(암묵적 속도 300km/h 초과 시 None 마킹 후 보간)를 포함해 실제 주행 환경의 노이즈를 방어한다. 결측값과 이상치는 `np.interp` 기반 선형보간으로 처리하고 이동 거리는 NumPy 벡터화 haversine으로 계산해 Python loop 비용을 줄였다. 제한구역 과속 탐지는 bounding box 사전 필터로 비싼 거리 계산 후보를 줄였으며 SQLAlchemy 2.0 Core bulk insert로 대량 로그 저장을 최적화했다. 멱등성은 SHA-256 source hash를 API와 Kafka consumer 양쪽에 적용하고 DB unique constraint와 IntegrityError 처리로 동시 요청 race condition까지 방어했다. OOM은 API `MAX_RECORDS`와 Kafka buffer `MAX_BUFFER_SIZE` 두 지점에서 막고 Pydantic validator로 timestamp 단위 오류(밀리초 혼입)와 음수 속도를 API 경계에서 차단했다.
+차량 주행 로그를 Kafka 기반으로 실시간 수신하고 시간 윈도우 단위로 정제와 Trip 분리 그리고 위험 이벤트 탐지를 수행하는 백엔드 파이프라인을 구현했다. cleansing은 중복 timestamp 제거와 GPS 좌표 점프 탐지(암묵적 속도 300km/h 초과 시 None 마킹 후 보간)를 포함해 실제 주행 환경의 노이즈를 방어한다. 결측값과 이상치는 `np.interp` 기반 선형보간으로 처리하고 이동 거리는 haversine 라이브러리로 계산하며 GPS 점프 탐지·제한구역 거리 계산과 동일한 구현을 공유한다. 제한구역 과속 탐지는 bounding box 사전 필터로 비싼 거리 계산 후보를 줄였으며 SQLAlchemy 2.0 Core bulk insert로 대량 로그 저장을 최적화했다. 멱등성은 SHA-256 source hash를 API와 Kafka consumer 양쪽에 적용하고 DB unique constraint와 IntegrityError 처리로 동시 요청 race condition까지 방어했다. OOM은 API `MAX_RECORDS`와 Kafka buffer `MAX_BUFFER_SIZE` 두 지점에서 막고 Pydantic validator로 timestamp 단위 오류(밀리초 혼입)와 음수 속도를 API 경계에서 차단했다.

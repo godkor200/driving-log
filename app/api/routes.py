@@ -4,6 +4,7 @@ from pathlib import Path
 
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy import insert, select
+from sqlalchemy.exc import IntegrityError
 from sqlalchemy.orm import Session
 
 from app.db.models import DrivingLog, Event, Trip
@@ -101,9 +102,16 @@ def analyze(request: AnalyzeRequest, db: Session = Depends(get_db)):
                 for e in events
             ])
 
-        results.append(TripResult(trip_id=trip.id, event_count=len(events)))
+        try:
+            db.commit()
+        except IntegrityError:
+            # 동시 요청이 같은 hash를 먼저 insert한 경우 — 기존 trip을 반환
+            db.rollback()
+            existing = db.execute(select(Trip).where(Trip.source_hash == h)).scalar_one()
+            results.append(TripResult(trip_id=existing.id, event_count=len(existing.events)))
+            continue
 
-    db.commit()
+        results.append(TripResult(trip_id=trip.id, event_count=len(events)))
 
     return AnalyzeResponse(trip_count=len(results), trips=results)
 

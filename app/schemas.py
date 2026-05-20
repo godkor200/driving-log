@@ -12,6 +12,8 @@ class RawRecord(BaseModel):
     def timestamp_positive(cls, v: int) -> int:
         if v <= 0:
             raise ValueError("timestamp must be a positive integer")
+        if v > 4_102_444_800:  # year 2100 — catches accidental millisecond timestamps
+            raise ValueError("timestamp must be Unix epoch seconds, not milliseconds")
         return v
 
     @field_validator("gps_lat")
@@ -26,6 +28,13 @@ class RawRecord(BaseModel):
     def lon_in_range(cls, v: float | None) -> float | None:
         if v is not None and not (-180.0 <= v <= 180.0):
             raise ValueError("gps_lon must be between -180 and 180")
+        return v
+
+    @field_validator("speed")
+    @classmethod
+    def speed_non_negative(cls, v: float | None) -> float | None:
+        if v is not None and v < 0:
+            raise ValueError("speed must be non-negative")
         return v
 
 class AnalyzeRequest(BaseModel):

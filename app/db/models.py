@@ -13,7 +13,7 @@ class Trip(Base):
     end_time = Column(BigInteger, nullable=False)
     distance_km = Column(Float, nullable=False)
     record_count = Column(Integer, nullable=False)
-    source_hash = Column(String, nullable=True, index=True)
+    source_hash = Column(String, nullable=True, index=True, unique=True)
 
     logs = relationship("DrivingLog", back_populates="trip")
     events = relationship("Event", back_populates="trip")
